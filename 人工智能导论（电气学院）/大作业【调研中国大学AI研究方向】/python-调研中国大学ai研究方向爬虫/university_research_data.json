@@ -1,0 +1,7121 @@
+{
+  "Tsinghua University": [
+    {
+      "name": "Bowen Zhou",
+      "scholar_id": "h3Nsz6YAAAAJ",
+      "affiliation": "Chair Professor, Department of Electrical Engineering, Tsinghua University; Founder of Frontis.ai",
+      "citedby": 21957,
+      "interests": [
+        "Machine Learning",
+        "Natural Language Processing",
+        "Representation Learning and Reasoning",
+        "Conversational AI"
+      ],
+      "papers": [
+        {
+          "title": "Abstractive text summarization using sequence-to-sequence rnns and beyond",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "sequence",
+            "abstractive",
+            "text",
+            "summarization",
+            "rnns"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yunxin Liu",
+      "scholar_id": "TFGBA9cAAAAJ",
+      "affiliation": "Guoqiang Professor, Institute for AI Industry Research (AIR), Tsinghua University",
+      "citedby": 8467,
+      "interests": [
+        "Mobile Computing",
+        "Edge Computing",
+        "AIoT",
+        "System",
+        "Networking"
+      ],
+      "papers": [
+        {
+          "title": "Moodscope: Building a mood sensor from smartphone usage patterns",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "moodscope",
+            "building",
+            "mood",
+            "sensor",
+            "smartphone"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Haizhou Ai",
+      "scholar_id": "hhV6J6UAAAAJ",
+      "affiliation": "Professor of Computer Science and Technology Department, Tsinghua University",
+      "citedby": 7973,
+      "interests": [
+        "Computer Vision",
+        "Pattern Recognition"
+      ],
+      "papers": [
+        {
+          "title": "Real-time multiple people tracking with deeply learned candidate selection and person re-identification",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "real",
+            "time",
+            "multiple",
+            "people",
+            "tracking"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Qingyao Ai",
+      "scholar_id": "UKqaI5IAAAAJ",
+      "affiliation": "Associate Professor, Dept. of CS&T, Tsinghua University",
+      "citedby": 6442,
+      "interests": [
+        "Information Retrieval",
+        "Machine Learning"
+      ],
+      "papers": [
+        {
+          "title": "A deep relevance matching model for ad-hoc retrieval",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "deep",
+            "relevance",
+            "matching",
+            "hoc",
+            "retrieval"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hao Zhou",
+      "scholar_id": "XEgaCScAAAAJ",
+      "affiliation": "Insititute for AI Industry Research (AIR), Tsinghua University",
+      "citedby": 5550,
+      "interests": [
+        "NLP",
+        "Machine Learning",
+        "Computational Biology"
+      ],
+      "papers": [
+        {
+          "title": "BRITS: Bidirectional Recurrent Imputation for Time Series",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "brits",
+            "bidirectional",
+            "recurrent",
+            "imputation",
+            "time"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jules Douet",
+      "scholar_id": "jUg54D0AAAAJ",
+      "affiliation": "MSc in Robotics & Machine Learning, Tsinghua University",
+      "citedby": 62,
+      "interests": [
+        "Machine Learning",
+        "Computer Vision",
+        "Robotics"
+      ],
+      "papers": [
+        {
+          "title": "A simple calibration method for structured light-based 3D profile measurement",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "simple",
+            "calibration",
+            "structured",
+            "light",
+            "profile"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jules Douet",
+      "scholar_id": "jUg54D0AAAAJ",
+      "affiliation": "MSc in Robotics & Machine Learning, Tsinghua University",
+      "citedby": 62,
+      "interests": [
+        "Machine Learning",
+        "Computer Vision",
+        "Robotics"
+      ],
+      "papers": [
+        {
+          "title": "A simple calibration method for structured light-based 3D profile measurement",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "simple",
+            "calibration",
+            "structured",
+            "light",
+            "profile"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Maosong Sun",
+      "scholar_id": "zIgT0HMAAAAJ",
+      "affiliation": "Professor of Computer Science and Technology, Tsinghua University",
+      "citedby": 57413,
+      "interests": [
+        "Natural Language Processing",
+        "Artificial Intelligence",
+        "Social Computing"
+      ],
+      "papers": [
+        {
+          "title": "Graph neural networks: A review of methods and applications",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "graph",
+            "neural",
+            "networks",
+            "review",
+            "methods"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Minlie Huang",
+      "scholar_id": "mWS1pY4AAAAJ",
+      "affiliation": "computer science, Tsinghua University",
+      "citedby": 45635,
+      "interests": [
+        "LLMs",
+        "Natural Language Generation",
+        "Dialogue Systems",
+        "Text Generation",
+        "Sentiment and Emotion"
+      ],
+      "papers": [
+        {
+          "title": "Attention-based LSTM for aspect-level sentiment classification",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "attention",
+            "lstm",
+            "aspect",
+            "level",
+            "sentiment"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jun Zhu",
+      "scholar_id": "axsP38wAAAAJ",
+      "affiliation": "Professor of Computer Science, Tsinghua University",
+      "citedby": 43515,
+      "interests": [
+        "Machine Learning",
+        "Bayesian Methods",
+        "Deep Generative Models",
+        "Adversarial Robustness",
+        "Reinforcement Learning"
+      ],
+      "papers": [
+        {
+          "title": "Boosting adversarial attacks with momentum",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "boosting",
+            "adversarial",
+            "attacks",
+            "momentum"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ting Chen",
+      "scholar_id": "yE6LvhMAAAAJ",
+      "affiliation": "Professor of Computer Science, Tsinghua University",
+      "citedby": 39842,
+      "interests": [
+        "Computational Genomics",
+        "Medical Informatics",
+        "Algorithm",
+        "Machine Learning"
+      ],
+      "papers": [
+        {
+          "title": "Modeling gene expression with differential equations",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "modeling",
+            "gene",
+            "expression",
+            "differential",
+            "equations"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wang Xiaoge",
+      "scholar_id": "npBqkNAAAAAJ",
+      "affiliation": "Computer Science and Technology, Tsinghua University & ICER, Michigan State University",
+      "citedby": 38817,
+      "interests": [
+        "Parallel computing",
+        "machine learning",
+        "algorithms",
+        "numerical linear algebra"
+      ],
+      "papers": [
+        {
+          "title": "GW151226: Observation of Gravitational Waves from a 22-Solar-Mass Binary Black Hole Coalescence",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "observation",
+            "gravitational",
+            "waves",
+            "solar",
+            "mass"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jules Douet",
+      "scholar_id": "jUg54D0AAAAJ",
+      "affiliation": "MSc in Robotics & Machine Learning, Tsinghua University",
+      "citedby": 62,
+      "interests": [
+        "Machine Learning",
+        "Computer Vision",
+        "Robotics"
+      ],
+      "papers": [
+        {
+          "title": "A simple calibration method for structured light-based 3D profile measurement",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "simple",
+            "calibration",
+            "structured",
+            "light",
+            "profile"
+          ]
+        }
+      ]
+    }
+  ],
+  "Peking University": [
+    {
+      "name": "Bo Ai",
+      "scholar_id": "SEBzq_EAAAAJ",
+      "affiliation": "Beijing Jiaotong University",
+      "citedby": 28352,
+      "interests": [
+        "Wireless Mobile Communication"
+      ],
+      "papers": [
+        {
+          "title": "Challenges toward wireless communications for high-speed railway",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "challenges",
+            "toward",
+            "wireless",
+            "communications",
+            "high"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yong Liu",
+      "scholar_id": "9Z4RbA8AAAAJ",
+      "affiliation": "School of Artificial Intelligence, Beijing University of Posts and Telecommunications",
+      "citedby": 12038,
+      "interests": [
+        "Medical Image Analysis",
+        "Brain Network",
+        "NeuroImaging",
+        "Alzheimer's Disease"
+      ],
+      "papers": [
+        {
+          "title": "Disrupted small-world networks in schizophrenia",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "disrupted",
+            "small",
+            "world",
+            "networks",
+            "schizophrenia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yongzhen Huang",
+      "scholar_id": "OH7-k7oAAAAJ",
+      "affiliation": "School of Artificial Intelligence, Beijing Normal University",
+      "citedby": 7789,
+      "interests": [
+        "Computer Vision",
+        "Pattern Recognition",
+        "Deep Learning"
+      ],
+      "papers": [
+        {
+          "title": "A comprehensive study on cross-view gait based human identification with deep cnns",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "comprehensive",
+            "study",
+            "cross",
+            "view",
+            "gait"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xiaokang Chen (陈小康)",
+      "scholar_id": "qALe908AAAAJ",
+      "affiliation": "DeepSeek-AI, Peking University",
+      "citedby": 6573,
+      "interests": [
+        "Computer Vision",
+        "Multi-Modality",
+        "LLM",
+        "Foundation Models"
+      ],
+      "papers": [
+        {
+          "title": "Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "semi",
+            "supervised",
+            "semantic",
+            "segmentation",
+            "cross"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Damai Dai",
+      "scholar_id": "8b-ysf0NWVoC",
+      "affiliation": "Peking University, DeepSeek AI",
+      "citedby": 6128,
+      "interests": [
+        "Deep Learning",
+        "Natural Language Processing",
+        "Large Language Model",
+        "Mixture-of-Experts"
+      ],
+      "papers": [
+        {
+          "title": "A survey on in-context learning",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "survey",
+            "context"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kun Yuan",
+      "scholar_id": "aMnHLz4AAAAJ",
+      "affiliation": "Center for Machine Learning Research, Peking University",
+      "citedby": 4252,
+      "interests": [
+        "distributed signal processing",
+        "large-scale optimization",
+        "machine learning"
+      ],
+      "papers": [
+        {
+          "title": "On the linear convergence of the ADMM in decentralized consensus optimization",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "linear",
+            "convergence",
+            "admm",
+            "decentralized",
+            "consensus"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jinshi Cui",
+      "scholar_id": "mgOosuUAAAAJ",
+      "affiliation": "Associate Professor of Machine Intelligence, Peking University",
+      "citedby": 2344,
+      "interests": [
+        "Visual Motion Tracking",
+        "Body Posture Tracking",
+        "Human Behavior Analysis"
+      ],
+      "papers": [
+        {
+          "title": "Dense relation distillation with context-aware aggregation for few-shot object detection",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "dense",
+            "relation",
+            "distillation",
+            "context",
+            "aware"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Peijie Zhou",
+      "scholar_id": "WKfT0REAAAAJ",
+      "affiliation": "Center for Machine Learning Research & Center for Quantitative Biology, Peking University",
+      "citedby": 497,
+      "interests": [
+        "computational systems biology",
+        "single-cell multiomics",
+        "stochastic models",
+        "nonlinear dynamics",
+        "AI4S"
+      ],
+      "papers": [
+        {
+          "title": "Construction of the landscape for multi-stable systems: Potential landscape, quasi-potential, A-type integral and beyond",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "landscape",
+            "potential",
+            "construction",
+            "multi",
+            "stable"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tianshu Lyu",
+      "scholar_id": "XZXIQlgAAAAJ",
+      "affiliation": "PhD of Department of Machine Intelligence，Peking University",
+      "citedby": 201,
+      "interests": [
+        "Graph Mining"
+      ],
+      "papers": [
+        {
+          "title": "Cosine: Community-preserving social network embedding from information diffusion cascades",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "cosine",
+            "community",
+            "preserving",
+            "social",
+            "embedding"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Huang Jiln",
+      "scholar_id": "FFYH958AAAAJ",
+      "affiliation": "Environmental reinforcement learning, Peking University",
+      "citedby": 199,
+      "interests": [
+        "Environmental reinforcement learning"
+      ],
+      "papers": [
+        {
+          "title": "Imbalance of global nutrient cycles exacerbated by the greater retention of phosphorus over nitrogen in lakes",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "imbalance",
+            "global",
+            "nutrient",
+            "cycles",
+            "exacerbated"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kun Yuan",
+      "scholar_id": "aMnHLz4AAAAJ",
+      "affiliation": "Center for Machine Learning Research, Peking University",
+      "citedby": 4252,
+      "interests": [
+        "distributed signal processing",
+        "large-scale optimization",
+        "machine learning"
+      ],
+      "papers": [
+        {
+          "title": "On the linear convergence of the ADMM in decentralized consensus optimization",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "linear",
+            "convergence",
+            "admm",
+            "decentralized",
+            "consensus"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Peijie Zhou",
+      "scholar_id": "WKfT0REAAAAJ",
+      "affiliation": "Center for Machine Learning Research & Center for Quantitative Biology, Peking University",
+      "citedby": 497,
+      "interests": [
+        "computational systems biology",
+        "single-cell multiomics",
+        "stochastic models",
+        "nonlinear dynamics",
+        "AI4S"
+      ],
+      "papers": [
+        {
+          "title": "Construction of the landscape for multi-stable systems: Potential landscape, quasi-potential, A-type integral and beyond",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "landscape",
+            "potential",
+            "construction",
+            "multi",
+            "stable"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xiaoming Li",
+      "scholar_id": "tL9zHywAAAAJ",
+      "affiliation": "Professor of Computer Science, Peking University",
+      "citedby": 35685,
+      "interests": [
+        "Search engine and web mining",
+        "Web technology enabled social sciences",
+        "Reputation issues in cyber systems",
+        "Computing system virtualization"
+      ],
+      "papers": [
+        {
+          "title": "Comparing twitter and traditional media using topic models",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "comparing",
+            "twitter",
+            "traditional",
+            "media",
+            "topic"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tiejun Huang",
+      "scholar_id": "knvEK4AAAAAJ",
+      "affiliation": "Professor,School of Computer Science, Peking University",
+      "citedby": 20598,
+      "interests": [
+        "Visual Information Processing"
+      ],
+      "papers": [
+        {
+          "title": "Deep relative distance learning: Tell the difference between similar vehicles",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "deep",
+            "relative",
+            "distance",
+            "tell",
+            "difference"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bin CUI",
+      "scholar_id": "IJAU8KoAAAAJ",
+      "affiliation": "Professor of Computer Science, Peking University",
+      "citedby": 17408,
+      "interests": [
+        "Database",
+        "Big Data analytics",
+        "ML Systems"
+      ],
+      "papers": [
+        {
+          "title": "Diffusion models: A comprehensive survey of methods and applications",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "diffusion",
+            "models",
+            "comprehensive",
+            "survey",
+            "methods"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ling-Yu Duan  段凌宇",
+      "scholar_id": "hsXZOgIAAAAJ",
+      "affiliation": "Full Professor, School of Computer Science, Peking University",
+      "citedby": 15180,
+      "interests": [],
+      "papers": [
+        {
+          "title": "Ntu rgb+ d 120: A large-scale benchmark for 3d human activity understanding",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "ntu",
+            "rgb",
+            "large",
+            "scale",
+            "benchmark"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xiaotie Deng",
+      "scholar_id": "OBUwP_oAAAAJ",
+      "affiliation": "Chair Professor of Computer Science, Peking University, Beijing, China",
+      "citedby": 14052,
+      "interests": [
+        "Algorithmic Game Theory",
+        "Approximate Computing",
+        "Parallel Computing",
+        "Combinatorial Optimization"
+      ],
+      "papers": [
+        {
+          "title": "Settling the Complexity of Two-Player Nash Equilibrium.",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "settling",
+            "complexity",
+            "two",
+            "player",
+            "nash"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Weiran Xu",
+      "scholar_id": "iZZfm-8AAAAJ",
+      "affiliation": "Associate professor of natural language processing, Beijing University of Posts and Telecommunications",
+      "citedby": 3543,
+      "interests": [
+        "natural language processing"
+      ],
+      "papers": [
+        {
+          "title": "Consert: A contrastive framework for self-supervised sentence representation transfer",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "consert",
+            "contrastive",
+            "framework",
+            "self",
+            "supervised"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Junyuan Shang",
+      "scholar_id": "hU5tOV4AAAAJ",
+      "affiliation": "Baidu NLP",
+      "citedby": 2330,
+      "interests": [
+        "Deep Learning",
+        "Natural Language Processing",
+        "Healthcare"
+      ],
+      "papers": [
+        {
+          "title": "Ernie 3.0: Large-scale knowledge enhanced pre-training for language understanding and generation",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "ernie",
+            "large",
+            "scale",
+            "knowledge",
+            "enhanced"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kun Yuan",
+      "scholar_id": "aMnHLz4AAAAJ",
+      "affiliation": "Center for Machine Learning Research, Peking University",
+      "citedby": 4252,
+      "interests": [
+        "distributed signal processing",
+        "large-scale optimization",
+        "machine learning"
+      ],
+      "papers": [
+        {
+          "title": "On the linear convergence of the ADMM in decentralized consensus optimization",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "linear",
+            "convergence",
+            "admm",
+            "decentralized",
+            "consensus"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Peijie Zhou",
+      "scholar_id": "WKfT0REAAAAJ",
+      "affiliation": "Center for Machine Learning Research & Center for Quantitative Biology, Peking University",
+      "citedby": 497,
+      "interests": [
+        "computational systems biology",
+        "single-cell multiomics",
+        "stochastic models",
+        "nonlinear dynamics",
+        "AI4S"
+      ],
+      "papers": [
+        {
+          "title": "Construction of the landscape for multi-stable systems: Potential landscape, quasi-potential, A-type integral and beyond",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "landscape",
+            "potential",
+            "construction",
+            "multi",
+            "stable"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Huang Jiln",
+      "scholar_id": "FFYH958AAAAJ",
+      "affiliation": "Environmental reinforcement learning, Peking University",
+      "citedby": 199,
+      "interests": [
+        "Environmental reinforcement learning"
+      ],
+      "papers": [
+        {
+          "title": "Imbalance of global nutrient cycles exacerbated by the greater retention of phosphorus over nitrogen in lakes",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "imbalance",
+            "global",
+            "nutrient",
+            "cycles",
+            "exacerbated"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chao Peng (彭超)",
+      "scholar_id": "GQwJLHUAAAAJ",
+      "affiliation": "Key Laboratory on Machine Perception (Ministry of Education), Peking University",
+      "citedby": 9,
+      "interests": [
+        "human–computer interaction",
+        "artificial intelligence"
+      ],
+      "papers": [
+        {
+          "title": "Competing Speaker Count Estimation on the Fusion of the Spectral and Spatial Embedding Space.",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "competing",
+            "speaker",
+            "count",
+            "estimation",
+            "fusion"
+          ]
+        }
+      ]
+    }
+  ],
+  "Fudan University": [
+    {
+      "name": "Ai-wu Ke",
+      "scholar_id": "jzQokUsAAAAJ",
+      "affiliation": "Zhongshan hospital, Fudan university",
+      "citedby": 9778,
+      "interests": [
+        "Cancer Biology",
+        "Epigenetics",
+        "Transcriptional Regulation"
+      ],
+      "papers": [
+        {
+          "title": "Specific ACE2 expression in cholangiocytes may cause liver damage after 2019-nCoV infection",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "specific",
+            "ace",
+            "expression",
+            "cholangiocytes",
+            "may"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Siqi Sun",
+      "scholar_id": "2dyg3WgAAAAJ",
+      "affiliation": "Associate Professor; Fudan University, Shanghai AI Lab",
+      "citedby": 7117,
+      "interests": [
+        "deep learning"
+      ],
+      "papers": [
+        {
+          "title": "Dialogpt: Large-scale generative pre-training for conversational response generation",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "dialogpt",
+            "large",
+            "scale",
+            "generative",
+            "pre"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tao Song",
+      "scholar_id": "Xzk31ssAAAAJ",
+      "affiliation": "Fudan University, Shanghai AI Lab",
+      "citedby": 2990,
+      "interests": [
+        "deep learning",
+        "medical image"
+      ],
+      "papers": [
+        {
+          "title": "Semi-supervised medical image segmentation through dual-task consistency",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "semi",
+            "supervised",
+            "medical",
+            "image",
+            "segmentation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xiao Wang",
+      "scholar_id": "sM2XqCAAAAAJ",
+      "affiliation": "Fudan University; Zhipu AI",
+      "citedby": 1998,
+      "interests": [
+        "LLM",
+        "RLHF",
+        "Reasoning",
+        "Safety"
+      ],
+      "papers": [
+        {
+          "title": "The rise and potential of large language model based agents: A survey",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "rise",
+            "potential",
+            "large",
+            "language",
+            "agents"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Weiyun Wang",
+      "scholar_id": "GJYzDkYAAAAJ",
+      "affiliation": "Shanghai AI Laboratory; Fudan University",
+      "citedby": 1109,
+      "interests": [
+        "Vision-Language Model",
+        "MLLM",
+        "Foundation Model"
+      ],
+      "papers": [
+        {
+          "title": "How far are we to gpt-4v? closing the gap to commercial multimodal models with open-source suites",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "far",
+            "gpt",
+            "closing",
+            "gap",
+            "commercial"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xipeng Qiu（邱锡鹏）",
+      "scholar_id": "Pq4Yp_kAAAAJ",
+      "affiliation": "Professor of Computer Science, Fudan University",
+      "citedby": 28697,
+      "interests": [
+        "LLM",
+        "NLP",
+        "ML",
+        "DL",
+        "AI"
+      ],
+      "papers": [
+        {
+          "title": "How to fine-tune BERT for text classification?",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "fine",
+            "tune",
+            "bert",
+            "text",
+            "classification"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Huang Xuanjing (黄萱菁)",
+      "scholar_id": "RGsMgZA4H78C",
+      "affiliation": "Professor of Computer Science, Fudan University",
+      "citedby": 28113,
+      "interests": [
+        "Natural language processing",
+        "Large language model"
+      ],
+      "papers": [
+        {
+          "title": "How to fine-tune bert for text classification?",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "fine",
+            "tune",
+            "bert",
+            "text",
+            "classification"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xiangyang Xue",
+      "scholar_id": "DTbhX6oAAAAJ",
+      "affiliation": "Professor of Computer Science, Fudan University",
+      "citedby": 21270,
+      "interests": [
+        "Computer Vision",
+        "Pattern Recognition",
+        "Machine Learning"
+      ],
+      "papers": [
+        {
+          "title": "Arbitrary-oriented scene text detection via rotation proposals",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "arbitrary",
+            "oriented",
+            "scene",
+            "text",
+            "detection"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Qi Zhang (张奇)",
+      "scholar_id": "XfqR3yYAAAAJ",
+      "affiliation": "Professor of Computer Science, Fudan University",
+      "citedby": 14533,
+      "interests": [
+        "Natural Language Processing",
+        "Information Retrieval"
+      ],
+      "papers": [
+        {
+          "title": "The rise and potential of large language model based agents: A survey",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "rise",
+            "potential",
+            "large",
+            "language",
+            "agents"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xingjun Ma",
+      "scholar_id": "XQViiyYAAAAJ",
+      "affiliation": "School of Computer Science, Fudan University",
+      "citedby": 11954,
+      "interests": [
+        "Trustworthy AI",
+        "Multimodal Learning",
+        "Generative AI",
+        "Embodied AI"
+      ],
+      "papers": [
+        {
+          "title": "Symmetric cross entropy for robust learning with noisy labels",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "symmetric",
+            "cross",
+            "entropy",
+            "robust",
+            "noisy"
+          ]
+        }
+      ]
+    }
+  ],
+  "Zhejiang University": [
+    {
+      "name": "Jiwei Li",
+      "scholar_id": "PwU16JEAAAAJ",
+      "affiliation": "Shannon.AI, Zhejiang University, Stanford University",
+      "citedby": 21234,
+      "interests": [
+        "Natural Language Processing",
+        "Computational Biology",
+        "Environmental Health",
+        "Deep Learning"
+      ],
+      "papers": [
+        {
+          "title": "A diversity-promoting objective function for neural conversation models",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "diversity",
+            "promoting",
+            "objective",
+            "function",
+            "neural"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jun XIAO （肖俊）",
+      "scholar_id": "fqOwFhQAAAAJ",
+      "affiliation": "Institute of Artificial Intelligence, Zhejiang University",
+      "citedby": 11771,
+      "interests": [
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Cross-Media Analysis"
+      ],
+      "papers": [
+        {
+          "title": "Sca-cnn: Spatial and channel-wise attention in convolutional networks for image captioning",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "sca",
+            "cnn",
+            "spatial",
+            "channel",
+            "wise"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shenqi Lai",
+      "scholar_id": "CgadbL8AAAAJ",
+      "affiliation": "Zhejiang University",
+      "citedby": 3805,
+      "interests": [
+        "image retrieval",
+        "person re-identification",
+        "network architecture"
+      ],
+      "papers": [
+        {
+          "title": "Bag of tricks and a strong baseline for deep person re-identification",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "bag",
+            "tricks",
+            "strong",
+            "baseline",
+            "deep"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tiancheng Zhao",
+      "scholar_id": "3RwJTyUAAAAJ",
+      "affiliation": "Om AI, Zhejiang University, Carnegie Mellon University",
+      "citedby": 2862,
+      "interests": [
+        "Vision and Language",
+        "Generative Models",
+        "Natural Language Processing"
+      ],
+      "papers": [
+        {
+          "title": "Learning discourse-level diversity for neural dialog models using conditional variational autoencoders",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "discourse",
+            "level",
+            "diversity",
+            "neural",
+            "dialog"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Liang Liu",
+      "scholar_id": "Kkg3IPMAAAAJ",
+      "affiliation": "vivo AI Lab; Zhejiang University",
+      "citedby": 1992,
+      "interests": [
+        "AI Agents",
+        "Multimodal LLMs",
+        "Computer Vision"
+      ],
+      "papers": [
+        {
+          "title": "Extended feature pyramid network for small object detection",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "extended",
+            "feature",
+            "pyramid",
+            "small",
+            "object"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hui Zhou",
+      "scholar_id": "cplZ5iwAAAAJ",
+      "affiliation": "The State Key Lab of Brain-Machine Intelligence, Zhejiang University",
+      "citedby": 561,
+      "interests": [
+        "Working memory",
+        "Addiction"
+      ],
+      "papers": [
+        {
+          "title": "Viewing personalized video clips recommended by TikTok activates default mode network and ventral tegmental area",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "viewing",
+            "personalized",
+            "video",
+            "clips",
+            "recommended"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jiquan Wang",
+      "scholar_id": "iySBCncAAAAJ",
+      "affiliation": "State Key Laboratory of Brain-machine Intelligence, Zhejiang University",
+      "citedby": 247,
+      "interests": [
+        "EEG",
+        "BCI",
+        "Deep Learning",
+        "Machine Learning"
+      ],
+      "papers": [
+        {
+          "title": "RpBERT: a text-image relation propagation-based BERT model for multimodal NER",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "rpbert",
+            "text",
+            "image",
+            "relation",
+            "propagation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gehua Ma",
+      "scholar_id": "2fqn5NcAAAAJ",
+      "affiliation": "State Key Lab of Brain-Machine Intelligence, Zhejiang University",
+      "citedby": 64,
+      "interests": [
+        "XAI",
+        "Probabilistic Inference",
+        "Computational Neuroscience",
+        "Biometrics"
+      ],
+      "papers": [
+        {
+          "title": "Exploiting Noise as a Resource for Computation and Learning in Spiking Neural Networks",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "exploiting",
+            "noise",
+            "resource",
+            "computation",
+            "spiking"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shi Liu",
+      "scholar_id": "I27XOcoAAAAJ",
+      "affiliation": "State Key  Laboratory of Brain-machine Intelligence, Zhejiang University",
+      "citedby": 0,
+      "interests": [
+        "brain-machine interface",
+        "machine learning",
+        "deep brain stimulation"
+      ],
+      "papers": [
+        {
+          "title": "A Habenula Neural Biomarker Simultaneously Tracks Weekly and Daily Symptom Variations during Deep Brain Stimulation Therapy for Depression",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "habenula",
+            "neural",
+            "biomarker",
+            "simultaneously",
+            "tracks"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kui Ren",
+      "scholar_id": "uuQA_rcAAAAJ",
+      "affiliation": "Professor and Dean of Computer Science, Zhejiang University, ACM/IEEE Fellow",
+      "citedby": 53840,
+      "interests": [
+        "Data Security & Privacy",
+        "AI Security",
+        "IoT & Vehicular Security"
+      ],
+      "papers": [
+        {
+          "title": "Ensuring data storage security in cloud computing",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "ensuring",
+            "data",
+            "storage",
+            "security",
+            "cloud"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xiaofei He",
+      "scholar_id": "QLLFowsAAAAJ",
+      "affiliation": "Professor of Computer Science, Zhejiang University",
+      "citedby": 45066,
+      "interests": [
+        "machine learning",
+        "computer vision",
+        "data mining"
+      ],
+      "papers": [
+        {
+          "title": "Locality preserving projections",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "locality",
+            "preserving",
+            "projections"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Deng Cai",
+      "scholar_id": "vzxDyJoAAAAJ",
+      "affiliation": "Professor of Computer Science, Zhejiang University",
+      "citedby": 39745,
+      "interests": [
+        "Machine learning",
+        "Computer vision",
+        "Data mining",
+        "Information retrieval"
+      ],
+      "papers": [
+        {
+          "title": "Laplacian score for feature selection",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "laplacian",
+            "score",
+            "feature",
+            "selection"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fei Wu",
+      "scholar_id": "XJLn4MYAAAAJ",
+      "affiliation": "Professor of Computer Science, Zhejiang University",
+      "citedby": 34119,
+      "interests": [
+        "Multimedia Retrieval",
+        "Sparse Representation",
+        "Machine Learning",
+        "Knowledge Graph"
+      ],
+      "papers": [
+        {
+          "title": "Fcanet: Frequency channel attention networks",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "fcanet",
+            "frequency",
+            "channel",
+            "attention",
+            "networks"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yueting Zhuang",
+      "scholar_id": "1RD7UJAAAAAJ",
+      "affiliation": "Professor of Computer Science, Zhejiang University",
+      "citedby": 24959,
+      "interests": [
+        "Artificial Intelligence",
+        "Multimedia Retrieval",
+        "Computer Animation",
+        "Digital Library"
+      ],
+      "papers": [
+        {
+          "title": "Hugginggpt: Solving ai tasks with chatgpt and its friends in hugging face",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "hugginggpt",
+            "solving",
+            "tasks",
+            "chatgpt",
+            "friends"
+          ]
+        }
+      ]
+    }
+  ],
+  "Shanghai Jiao Tong University": [
+    {
+      "name": "Jing Shao",
+      "scholar_id": "VU5ObUwAAAAJ",
+      "affiliation": "Research Scientist, Shanghai AI Laboratory/Shanghai Jiao Tong University",
+      "citedby": 10423,
+      "interests": [
+        "Computer Vision",
+        "Multi-Modal Large Language Model"
+      ],
+      "papers": [
+        {
+          "title": "Spindle net: Person re-identification with human body region guided feature decomposition and fusion",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "spindle",
+            "net",
+            "person",
+            "identification",
+            "human"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zhouhan Lin（林洲汉）",
+      "scholar_id": "LNZ4efwAAAAJ",
+      "affiliation": "Shanghai Jiao Tong University; Mila Lab; Facebook AI Research",
+      "citedby": 10411,
+      "interests": [
+        "Machine Learning",
+        "Deep Learning",
+        "Natural Language Processing"
+      ],
+      "papers": [
+        {
+          "title": "A structured self-attentive sentence embedding",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "structured",
+            "self",
+            "attentive",
+            "sentence",
+            "embedding"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xue Yang (杨学)",
+      "scholar_id": "2xTlvV0AAAAJ",
+      "affiliation": "Assistant Professor, Shanghai Jiao Tong University; Shanghai AI Laboratory",
+      "citedby": 8040,
+      "interests": [
+        "Computer Vision",
+        "Object Detection",
+        "Remote Sensing",
+        "AI Agent",
+        "Vision-Language Models"
+      ],
+      "papers": [
+        {
+          "title": "R3det: Refined single-stage detector with feature refinement for rotating object",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "det",
+            "refined",
+            "single",
+            "stage",
+            "detector"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xiangzhao Ai",
+      "scholar_id": "WL9LYIwAAAAJ",
+      "affiliation": "Shanghai Jiao Tong University (SJTU)",
+      "citedby": 3070,
+      "interests": [
+        "Nanomedicine & Drug delivery"
+      ],
+      "papers": [
+        {
+          "title": "Charge-Convertible Carbon Dots for Imaging-Guided Drug Delivery with Enhanced in Vivo Cancer Therapeutic Efficiency",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "charge",
+            "convertible",
+            "carbon",
+            "dots",
+            "imaging"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yu Wang",
+      "scholar_id": "O7_F8k0AAAAJ",
+      "affiliation": "Shanghai Jiao Tong University & Shanghai AI Laboratory",
+      "citedby": 2628,
+      "interests": [
+        "Natural Language Processing",
+        "Speech and Language",
+        "Large Language Model"
+      ],
+      "papers": [
+        {
+          "title": "An investigation of deep neural networks for noise robust speech recognition",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "investigation",
+            "deep",
+            "neural",
+            "networks",
+            "noise"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zhihua Zhang",
+      "scholar_id": "M5YT8IoAAAAJ",
+      "affiliation": "Professor of Computer Science, Shanghai Jiao Tong University",
+      "citedby": 43209,
+      "interests": [
+        "Artificial Intelligence",
+        "Machine Learning"
+      ],
+      "papers": [
+        {
+          "title": "Formation of dense partonic matter in relativistic nucleus–nucleus collisions at RHIC: experimental evaluation by the PHENIX collaboration",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "nucleus",
+            "formation",
+            "dense",
+            "partonic",
+            "matter"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Liqing Zhang （张丽清）",
+      "scholar_id": "1smFmxAAAAAJ",
+      "affiliation": "Professor, Department of Computer Science, Shanghai Jiao Tong University",
+      "citedby": 16868,
+      "interests": [
+        "Machine Learning",
+        "Cognitive Computing",
+        "Brain Computer Interface"
+      ],
+      "papers": [
+        {
+          "title": "Saliency detection: A spectral residual approach",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "saliency",
+            "detection",
+            "spectral",
+            "residual"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Min-You Wu",
+      "scholar_id": "Sz5Y7RsAAAAJ",
+      "affiliation": "Computer Science, Shanghai Jiaotong University",
+      "citedby": 14693,
+      "interests": [
+        "Computer Science"
+      ],
+      "papers": [
+        {
+          "title": "Performance-effective and low-complexity task scheduling for heterogeneous computing",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "performance",
+            "effective",
+            "low",
+            "complexity",
+            "task"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yanmin Zhu",
+      "scholar_id": "onGydcgAAAAJ",
+      "affiliation": "Department of Computer Science and Engineering, Shanghai Jiao Tong University",
+      "citedby": 12861,
+      "interests": [
+        "Recommendations",
+        "Crowd Sensing",
+        "Sensor Networks",
+        "Data Mining",
+        "Human-computer Interactions"
+      ],
+      "papers": [
+        {
+          "title": "TRAC: Truthful auction for location-aware collaborative sensing in mobile crowdsourcing",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "trac",
+            "truthful",
+            "auction",
+            "location",
+            "aware"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Minglu Li (李明禄)",
+      "scholar_id": "cFW1n8YAAAAJ",
+      "affiliation": "Professor of Computer Science, Shanghai Jiao Tong University",
+      "citedby": 12765,
+      "interests": [
+        "Vehicular Networks",
+        "Big Data",
+        "Cloud Computing",
+        "Grid Computing",
+        "Wireless Sensor Networks"
+      ],
+      "papers": [
+        {
+          "title": "Passive diagnosis for wireless sensor networks",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "passive",
+            "diagnosis",
+            "wireless",
+            "sensor",
+            "networks"
+          ]
+        }
+      ]
+    }
+  ],
+  "Nanjing University": [
+    {
+      "name": "Fei Wu（吴飞）",
+      "scholar_id": "tgeCjhEAAAAJ",
+      "affiliation": "College of Automation & College of Artificial Intelligence, Nanjing University of Posts and",
+      "citedby": 14931,
+      "interests": [
+        "Pattern Recognition",
+        "Artificial Intelligence",
+        "Software Engineering"
+      ],
+      "papers": [
+        {
+          "title": "Open information extraction using wikipedia",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "open",
+            "information",
+            "extraction",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shu-Chuan Chu",
+      "scholar_id": "eL4ZA58AAAAJ",
+      "affiliation": "School of Artificial Intelligence, Nanjing University of Information Science and Technology",
+      "citedby": 10737,
+      "interests": [
+        "Swarm Intelligence",
+        "Computational Intelligence",
+        "Wireless Sensor Networks",
+        "Artificial Intelligence"
+      ],
+      "papers": [
+        {
+          "title": "Cat swarm optimization",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "cat",
+            "swarm",
+            "optimization"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wanjun Gu (顾万君)",
+      "scholar_id": "6IKOjOsAAAAJ",
+      "affiliation": "Professor, School of Artificial Intelligence, Nanjing University of Chinese Medicine",
+      "citedby": 9049,
+      "interests": [
+        "Medical Genomics",
+        "Computational Biology",
+        "Bioinformatics",
+        "Molecular Evolution"
+      ],
+      "papers": [
+        {
+          "title": "The sequence and de novo assembly of the giant panda genome",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "sequence",
+            "novo",
+            "assembly",
+            "giant",
+            "panda"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xiangze Lin (林相泽)",
+      "scholar_id": "vbQkNvAAAAAJ",
+      "affiliation": "Professor, College of Artificial Intelligence, Nanjing Agricultural University",
+      "citedby": 2857,
+      "interests": [
+        "Switched Systems",
+        "Networked Control",
+        "Constrained Control"
+      ],
+      "papers": [
+        {
+          "title": "Finite-time consensus algorithm for multi-agent systems with double-integrator dynamics",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "finite",
+            "time",
+            "consensus",
+            "algorithm",
+            "multi"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Qiang Yang (杨强)",
+      "scholar_id": "vFLN28kAAAAJ",
+      "affiliation": "School of Artificial Intelligence, Nanjing University of Information Science and Technology",
+      "citedby": 2833,
+      "interests": [
+        "Machine Learning",
+        "Evolutionary Computation",
+        "Computational Intelligence",
+        "Swarm Intelligence"
+      ],
+      "papers": [
+        {
+          "title": "Adaptive Multimodal Continuous Ant Colony Optimization",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "adaptive",
+            "multimodal",
+            "continuous",
+            "ant",
+            "colony"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Haoxing Chen (陈昊星)",
+      "scholar_id": "BnS7HzAAAAAJ",
+      "affiliation": "Research Fellow @ DeepLearning Lab, Ant Research Institute | Nanjing University",
+      "citedby": 369,
+      "interests": [
+        "Representation Learning",
+        "Generative Model",
+        "Efficient Learning"
+      ],
+      "papers": [
+        {
+          "title": "Diffusioninst: Diffusion model for instance segmentation",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "diffusioninst",
+            "diffusion",
+            "instance",
+            "segmentation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jian Yang",
+      "scholar_id": "6CIDtZQAAAAJ",
+      "affiliation": "Prof. of Computer Science, Nanjing University of Science and Technology",
+      "citedby": 54189,
+      "interests": [
+        "Pattern Recognition",
+        "Computer Vision",
+        "Biometrics"
+      ],
+      "papers": [
+        {
+          "title": "Two-dimensional PCA: a new approach to appearance-based face representation and recognition",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "two",
+            "dimensional",
+            "pca",
+            "appearance",
+            "face"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Linghao Zhang",
+      "scholar_id": "XUXw0UUAAAAJ",
+      "affiliation": "Department of Computer Science, Nanjing University",
+      "citedby": 9664,
+      "interests": [
+        "software testing",
+        "self-adaptive systems"
+      ],
+      "papers": [
+        {
+          "title": "Trends in the vertical distribution of ozone: A comparison of two analyses of ozonesonde data",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "trends",
+            "vertical",
+            "distribution",
+            "ozone",
+            "comparison"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hui Liu (刘辉)",
+      "scholar_id": "1WMrq8IAAAAJ",
+      "affiliation": "School of Computer Science and Technology, Nanjing Tech University, Nanjing, China",
+      "citedby": 6160,
+      "interests": [
+        "Bioinformatics",
+        "Deep Leaning"
+      ],
+      "papers": [
+        {
+          "title": "End-point binding free energy calculation with MM/PBSA and MM/GBSA: strategies and applications in drug design",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "end",
+            "point",
+            "binding",
+            "free",
+            "energy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shujian Huang",
+      "scholar_id": "HF3-E9kAAAAJ",
+      "affiliation": "School of Computer Science, Nanjing University",
+      "citedby": 6041,
+      "interests": [
+        "Natural Language Processing",
+        "Machine Translation",
+        "Multilingualism",
+        "Large Language Models"
+      ],
+      "papers": [
+        {
+          "title": "Deep matrix factorization models for recommender systems.",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "deep",
+            "matrix",
+            "factorization",
+            "models",
+            "recommender"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Furao Shen",
+      "scholar_id": "bjSi-dIAAAAJ",
+      "affiliation": "Department of Computer Science & Technology, Nanjing University",
+      "citedby": 4383,
+      "interests": [
+        "Neural Networks",
+        "Robotic Intelligence"
+      ],
+      "papers": [
+        {
+          "title": "Robust log-based anomaly detection on unstable log data",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "log",
+            "robust",
+            "anomaly",
+            "detection",
+            "unstable"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Liang He",
+      "scholar_id": "bSMdHv8AAAAJ",
+      "affiliation": "Nanjing University",
+      "citedby": 386,
+      "interests": [
+        "NLP",
+        "Knowledge Graph"
+      ],
+      "papers": [
+        {
+          "title": "Automated cross-prompt scoring of essay traits",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "automated",
+            "cross",
+            "prompt",
+            "scoring",
+            "essay"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yangsheng Ji",
+      "scholar_id": "BseIGRIAAAAJ",
+      "affiliation": "Nanjing University",
+      "citedby": 84,
+      "interests": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Mining",
+        "Natural Language Processing"
+      ],
+      "papers": [
+        {
+          "title": "Transfer learning via multi-view principal component analysis",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "transfer",
+            "multi",
+            "view",
+            "principal",
+            "component"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ning xi",
+      "scholar_id": "af4dCCYAAAAJ",
+      "affiliation": "Nanjing university",
+      "citedby": 73,
+      "interests": [
+        "statistical machine translation"
+      ],
+      "papers": [
+        {
+          "title": "Incremental hmm alignment for mt system combination",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "incremental",
+            "hmm",
+            "alignment",
+            "system",
+            "combination"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Liang He",
+      "scholar_id": "bSMdHv8AAAAJ",
+      "affiliation": "Nanjing University",
+      "citedby": 386,
+      "interests": [
+        "NLP",
+        "Knowledge Graph"
+      ],
+      "papers": [
+        {
+          "title": "Automated cross-prompt scoring of essay traits",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "automated",
+            "cross",
+            "prompt",
+            "scoring",
+            "essay"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yangsheng Ji",
+      "scholar_id": "BseIGRIAAAAJ",
+      "affiliation": "Nanjing University",
+      "citedby": 84,
+      "interests": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Mining",
+        "Natural Language Processing"
+      ],
+      "papers": [
+        {
+          "title": "Transfer learning via multi-view principal component analysis",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "transfer",
+            "multi",
+            "view",
+            "principal",
+            "component"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ning xi",
+      "scholar_id": "af4dCCYAAAAJ",
+      "affiliation": "Nanjing university",
+      "citedby": 73,
+      "interests": [
+        "statistical machine translation"
+      ],
+      "papers": [
+        {
+          "title": "Incremental hmm alignment for mt system combination",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "incremental",
+            "hmm",
+            "alignment",
+            "system",
+            "combination"
+          ]
+        }
+      ]
+    }
+  ],
+  "University of Science and Technology of China": [
+    {
+      "name": "Yan Chen",
+      "scholar_id": "MVOCn1AAAAAJ",
+      "affiliation": "Zhongke Radio Sensing AI Technology/University of Science and Technology of China",
+      "citedby": 9389,
+      "interests": [
+        "Wireless Multimedia",
+        "Wireless Sensing"
+      ],
+      "papers": [
+        {
+          "title": "Advances in energy harvesting communications: Past, present, and future challenges",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "advances",
+            "energy",
+            "harvesting",
+            "communications",
+            "past"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "xiaomeng ai",
+      "scholar_id": "C93rrtoAAAAJ",
+      "affiliation": "Huazhong University of Science and Technology, Wuhan, P. R. China",
+      "citedby": 5207,
+      "interests": [
+        "Energy Storage",
+        "Renewable Energy"
+      ],
+      "papers": [
+        {
+          "title": "Dynamic optimal energy flow in the integrated natural gas and electrical power systems",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "dynamic",
+            "optimal",
+            "energy",
+            "flow",
+            "integrated"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ai-Hui Tang",
+      "scholar_id": "4n_bfbgAAAAJ",
+      "affiliation": "University of Science and Technology of China",
+      "citedby": 2090,
+      "interests": [
+        "Neuroscience",
+        "Physiology"
+      ],
+      "papers": [
+        {
+          "title": "A trans-synaptic nanocolumn aligns neurotransmitter release to receptors",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "trans",
+            "synaptic",
+            "nanocolumn",
+            "aligns",
+            "neurotransmitter"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Runze Wu",
+      "scholar_id": "8Uxbo9AAAAAJ",
+      "affiliation": "Fuxi AI Lab, NetEase Games | University of Science and Technology of China",
+      "citedby": 1760,
+      "interests": [
+        "Data Mining",
+        "Machine Learning",
+        "Online Games"
+      ],
+      "papers": [
+        {
+          "title": "Fuzzy cognitive diagnosis for modelling examinee performance",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "fuzzy",
+            "cognitive",
+            "diagnosis",
+            "modelling",
+            "examinee"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Charles Wang (王超)",
+      "scholar_id": "1A0GlbUAAAAJ",
+      "affiliation": "PhD from University of Science and Technology of China; Director at BST.ai",
+      "citedby": 1029,
+      "interests": [
+        "ISP"
+      ],
+      "papers": [
+        {
+          "title": "Brightness preserving histogram equalization with maximum entropy: a variational perspective",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "brightness",
+            "preserving",
+            "histogram",
+            "equalization",
+            "maximum"
+          ]
+        }
+      ]
+    }
+  ],
+  "Harbin Institute of Technology": [
+    {
+      "name": "Xinman Ai",
+      "scholar_id": "fRkBZ1UAAAAJ",
+      "affiliation": "Harbin Institute of Technology",
+      "citedby": 146,
+      "interests": [
+        "Pavement Recycling",
+        "DEM Modeling",
+        "Rotary Decomposition Process",
+        "RAP Utilization"
+      ],
+      "papers": [
+        {
+          "title": "Performance evaluation of recycled asphalt mixtures with various percentages of RAP from the rotary decomposition process",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "performance",
+            "evaluation",
+            "recycled",
+            "asphalt",
+            "mixtures"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yutao Fan",
+      "scholar_id": "bt7xyvIAAAAJ",
+      "affiliation": "Harbin Institute of Technology, Shanghai AI Lab",
+      "citedby": 6,
+      "interests": [
+        "Multi-Agent System",
+        "Multimodal"
+      ],
+      "papers": [
+        {
+          "title": "Visual-o1: Understanding ambiguous instructions via multi-modal multi-turn chain-of-thoughts reasoning",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "multi",
+            "visual",
+            "understanding",
+            "ambiguous",
+            "instructions"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wangmeng Zuo",
+      "scholar_id": "rUOpCEYAAAAJ",
+      "affiliation": "School of Computer Science and Technology, Harbin Institute of Technology",
+      "citedby": 74256,
+      "interests": [
+        "Computer Vision",
+        "Image Processing",
+        "Generative AI",
+        "Deep Learning",
+        "Biometrics"
+      ],
+      "papers": [
+        {
+          "title": "Beyond a gaussian denoiser: Residual learning of deep cnn for image denoising",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "beyond",
+            "gaussian",
+            "denoiser",
+            "residual",
+            "deep"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yang Liu",
+      "scholar_id": "zKqjcKMAAAAJ",
+      "affiliation": "Computer science, Harbin institute of technology",
+      "citedby": 33617,
+      "interests": [
+        "Artificial Intelligence",
+        "machine learning",
+        "computer vision"
+      ],
+      "papers": [
+        {
+          "title": "Transcriptional Adaptation of Mycobacterium tuberculosis within Macrophages: Insights into the Phagosomal Environment",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "transcriptional",
+            "adaptation",
+            "mycobacterium",
+            "tuberculosis",
+            "within"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Debin Zhao",
+      "scholar_id": "QXyj0hkAAAAJ",
+      "affiliation": "Dept. of Computer Science,Harbin Institute of Technology",
+      "citedby": 15844,
+      "interests": [
+        "Video coding",
+        "Image and Video Processing",
+        "Data Compression"
+      ],
+      "papers": [
+        {
+          "title": "The CAS-PEAL large-scale Chinese face database and baseline evaluations",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "cas",
+            "peal",
+            "large",
+            "scale",
+            "chinese"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Guohua Wang",
+      "scholar_id": "VZ23VIwAAAAJ",
+      "affiliation": "Harbin Institute of Technology, School of Computer Science and Technology",
+      "citedby": 7330,
+      "interests": [
+        "Bioinformatics and Computational Biology"
+      ],
+      "papers": [
+        {
+          "title": "miR2Disease: a manually curated database for microRNA deregulation in human disease",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "disease",
+            "mir",
+            "manually",
+            "curated",
+            "database"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yang Liu",
+      "scholar_id": "3IC_ZtkAAAAJ",
+      "affiliation": "Computer Science, harbin institute of technology",
+      "citedby": 6049,
+      "interests": [
+        "machine learning",
+        "computer vision"
+      ],
+      "papers": [
+        {
+          "title": "Lanthanum complexes of spheroidal carbon shells",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "lanthanum",
+            "complexes",
+            "spheroidal",
+            "carbon",
+            "shells"
+          ]
+        }
+      ]
+    }
+  ],
+  "Huazhong University of Science and Technology": [
+    {
+      "name": "Changxin Gao (高常鑫)",
+      "scholar_id": "4tku-lwAAAAJ",
+      "affiliation": "School of Artificial Intelligence and Automation, Huazhong University of Science & Technology",
+      "citedby": 11718,
+      "interests": [
+        "computer vision",
+        "pattern recognition",
+        "image processing"
+      ],
+      "papers": [
+        {
+          "title": "Bisenet: Bilateral segmentation network for real-time semantic segmentation",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "segmentation",
+            "bisenet",
+            "bilateral",
+            "real",
+            "time"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TAO AI",
+      "scholar_id": "MwGWlDwAAAAJ",
+      "affiliation": "Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology",
+      "citedby": 9831,
+      "interests": [
+        "Imaging diagnosis",
+        "Magnetic resonance",
+        "Breast imaging",
+        "Body imaging"
+      ],
+      "papers": [
+        {
+          "title": "Correlation of chest CT and RT-PCR testing for coronavirus disease 2019 (COVID-19) in China: a report of 1014 cases",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "correlation",
+            "chest",
+            "pcr",
+            "testing",
+            "coronavirus"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jian Huang",
+      "scholar_id": "01hkN4IAAAAJ",
+      "affiliation": "School of Artificial Intelligence and Automation, Huazhong University of Science and Technology",
+      "citedby": 8029,
+      "interests": [
+        "Robot control",
+        "rehabilitation robotics",
+        "robust and nonlinear control",
+        "bioinformatics"
+      ],
+      "papers": [
+        {
+          "title": "Sliding-mode velocity control of mobile-wheeled inverted-pendulum systems",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "sliding",
+            "mode",
+            "velocity",
+            "control",
+            "mobile"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zhi-Wei Liu",
+      "scholar_id": "ILPP4WEAAAAJ",
+      "affiliation": "School of Artificial Intelligence and Automation, Huazhong University of Science and Technology",
+      "citedby": 5458,
+      "interests": [
+        "multi-agent system",
+        "smart grid",
+        "Swarm unmanned system"
+      ],
+      "papers": [
+        {
+          "title": "Synchronization of complex dynamical networks with time-varying delays via impulsive distributed control",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "synchronization",
+            "complex",
+            "dynamical",
+            "networks",
+            "time"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "xiaomeng ai",
+      "scholar_id": "C93rrtoAAAAJ",
+      "affiliation": "Huazhong University of Science and Technology, Wuhan, P. R. China",
+      "citedby": 5211,
+      "interests": [
+        "Energy Storage",
+        "Renewable Energy"
+      ],
+      "papers": [
+        {
+          "title": "Dynamic optimal energy flow in the integrated natural gas and electrical power systems",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "dynamic",
+            "optimal",
+            "energy",
+            "flow",
+            "integrated"
+          ]
+        }
+      ]
+    }
+  ],
+  "Southeast University": [
+    {
+      "name": "Abu Ishaque Hossain",
+      "scholar_id": "2wZaMiIAAAAJ",
+      "affiliation": "Department of International Trade, Southeast University, Nanjing , China",
+      "citedby": 295,
+      "interests": [
+        "international trade",
+        "bilateral trade",
+        "economic relations",
+        "supply chain management",
+        "human resource ma"
+      ],
+      "papers": [
+        {
+          "title": "Factors affecting cryptocurrency adoption in digital business transactions: The mediating role of customer satisfaction",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "factors",
+            "affecting",
+            "cryptocurrency",
+            "adoption",
+            "digital"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ron Schnell",
+      "scholar_id": "dLOxGlIAAAAJ",
+      "affiliation": "Nova Southeastern University, Massachusetts Institute of Technology, Syracuse University",
+      "citedby": 11,
+      "interests": [
+        "Cyber security",
+        "Technology Education",
+        "Code Quality"
+      ],
+      "papers": [
+        {
+          "title": "Antitrust Enforcement and Big Tech: After the Remedy Is Ordered",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "antitrust",
+            "enforcement",
+            "big",
+            "tech",
+            "remedy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sichu Liang",
+      "scholar_id": "QuzVzX0AAAAJ",
+      "affiliation": "Master's student / Bachelor at the School of Artificial Intelligence, Southeast University",
+      "citedby": 7,
+      "interests": [
+        "Natural Language Processing",
+        "Trustworthy Artificial Intelligence",
+        "Graph Neural Networks"
+      ],
+      "papers": [
+        {
+          "title": "Reliable Model Watermarking: Defending Against Theft without Compromising on Evasion",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "reliable",
+            "watermarking",
+            "defending",
+            "theft",
+            "without"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Liu Zicheng",
+      "scholar_id": "vKsxVSoAAAAJ",
+      "affiliation": "Master's student in Artificial Intelligence, Southeast University",
+      "citedby": 0,
+      "interests": [
+        "Multimodal Learning",
+        "Human Computer Interaction",
+        "Virtual Reality"
+      ],
+      "papers": [
+        {
+          "title": "When you were old: Exploring a Virtual Reality Older Adults Experience Simulation System",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "old",
+            "exploring",
+            "virtual",
+            "reality",
+            "older"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "QI Ai",
+      "scholar_id": "BOyDNoAAAAAJ",
+      "affiliation": "Southeast University",
+      "citedby": 0,
+      "interests": [
+        "Traffic Flow Prediction、Traffic Network Modeling and Optimization"
+      ],
+      "papers": [
+        {
+          "title": "Developing a jam-absorption strategy for mixed traffic flow at signalized intersections using deep reinforcement learning",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "developing",
+            "jam",
+            "absorption",
+            "strategy",
+            "mixed"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Min-Ling Zhang",
+      "scholar_id": "uFHCIM0AAAAJ",
+      "affiliation": "Professor, School of Computer Science and Engineering, Southeast University, China",
+      "citedby": 20373,
+      "interests": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Mining"
+      ],
+      "papers": [
+        {
+          "title": "ML-KNN: A lazy learning approach to multi-label learning",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "knn",
+            "lazy",
+            "multi",
+            "label"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xin Geng",
+      "scholar_id": "ZOCxkIcAAAAJ",
+      "affiliation": "School of Computer Science and Engineering, Southeast University",
+      "citedby": 11737,
+      "interests": [
+        "Artificial Intelligence",
+        "Pattern Recognition",
+        "Machine Learning"
+      ],
+      "papers": [
+        {
+          "title": "Automatic age estimation based on facial aging patterns",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "automatic",
+            "age",
+            "estimation",
+            "facial",
+            "aging"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Guohui Xiao",
+      "scholar_id": "hbek3dcAAAAJ",
+      "affiliation": "Professor of Computer Science, Southeast University, China",
+      "citedby": 4182,
+      "interests": [
+        "Artificial Intelligence",
+        "Knowledge Representation",
+        "Knowledge Graphs",
+        "Large Language Models"
+      ],
+      "papers": [
+        {
+          "title": "Ontop: Answering SPARQL queries over relational databases",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "ontop",
+            "answering",
+            "sparql",
+            "queries",
+            "relational"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dewan Md. Farid",
+      "scholar_id": "SvYEHRQAAAAJ",
+      "affiliation": "Dean, School of Science & Engineering, and Professor of Computer Science, Southeast University",
+      "citedby": 3905,
+      "interests": [
+        "Machine Learning",
+        "Data Mining",
+        "Big Data"
+      ],
+      "papers": [
+        {
+          "title": "Hybrid decision tree and naïve Bayes classifiers for multi-class classification tasks",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "hybrid",
+            "decision",
+            "tree",
+            "bayes",
+            "classifiers"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Weiwei Wu",
+      "scholar_id": "XunKDDMAAAAJ",
+      "affiliation": "Computer Science, Southeast University",
+      "citedby": 3812,
+      "interests": [],
+      "papers": [
+        {
+          "title": "Towards an autonomous real-time tracking system of near-miss accidents on construction sites",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "towards",
+            "autonomous",
+            "real",
+            "time",
+            "tracking"
+          ]
+        }
+      ]
+    }
+  ],
+  "Xi'an Jiaotong University": [
+    {
+      "name": "Jianjia Wang",
+      "scholar_id": "IoaRxcwAAAAJ",
+      "affiliation": "Assistant Professor, School of AI and Advanced Computing, Xi'an Jiaotong-Liverpool University",
+      "citedby": 1226,
+      "interests": [
+        "complex networks",
+        "pattern recognition",
+        "statistical mechanics",
+        "network neuroscience",
+        "machine learning"
+      ],
+      "papers": [
+        {
+          "title": "Adaptive stock trading strategies with deep reinforcement learning methods",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "adaptive",
+            "stock",
+            "trading",
+            "strategies",
+            "deep"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gan Hong Seng",
+      "scholar_id": "wByKN6sAAAAJ",
+      "affiliation": "School of AI and Advanced Computing, Xi'an Jiaotong - Liverpool University",
+      "citedby": 749,
+      "interests": [
+        "Medical Imaging",
+        "Machine Learning",
+        "Multimodal",
+        "Computer Vision"
+      ],
+      "papers": [
+        {
+          "title": "Biomechanical effects of the porous structure of gyroid and voronoi hip implants: a finite element analysis using an experimentally validated model",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "biomechanical",
+            "effects",
+            "porous",
+            "structure",
+            "gyroid"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Professor Angelos Stefanidis",
+      "scholar_id": "SBE4UroAAAAJ",
+      "affiliation": "Dean of School of AI and Advanced Computing, Xi'an Jiaotong-Liverpool University",
+      "citedby": 482,
+      "interests": [
+        "Computing Education",
+        "Software Engineering",
+        "Social Informatics",
+        "Digital Addiction"
+      ],
+      "papers": [
+        {
+          "title": "How can social networks design trigger fear of missing out?",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "social",
+            "networks",
+            "design",
+            "trigger",
+            "fear"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Peilin Ai",
+      "scholar_id": "CJh_cYsAAAAJ",
+      "affiliation": "Xi'an Jiaotong University",
+      "citedby": 212,
+      "interests": [],
+      "papers": [
+        {
+          "title": "Task management in decentralized autonomous organization",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "task",
+            "management",
+            "decentralized",
+            "autonomous",
+            "organization"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aï Ito",
+      "scholar_id": "k1Zk74gAAAAJ",
+      "affiliation": "Xi'an Jiaotong Liverpool University (XJTLU)",
+      "citedby": 98,
+      "interests": [
+        "leadership",
+        "self-disclosure",
+        "charisma",
+        "gender"
+      ],
+      "papers": [
+        {
+          "title": "Feeling vulnerable? Disclosure of vulnerability in the charismatic leadership relationship",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "feeling",
+            "vulnerable",
+            "disclosure",
+            "vulnerability",
+            "charismatic"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "heli sun",
+      "scholar_id": "HXjwuE4AAAAJ",
+      "affiliation": "Professor of Computer Science, Xi'an Jiaotong University",
+      "citedby": 2177,
+      "interests": [
+        "Data Mining",
+        "Information Retrieval"
+      ],
+      "papers": [
+        {
+          "title": "A novel ensemble method for classifying imbalanced data",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "novel",
+            "ensemble",
+            "classifying",
+            "imbalanced",
+            "data"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gangmin Li",
+      "scholar_id": "_gsTEOIAAAAJ",
+      "affiliation": "AP in Computer Science and Software Engineering, Xi'an Jiaotong Liverpool University",
+      "citedby": 1561,
+      "interests": [
+        "Data Science",
+        "Web Science",
+        "AI",
+        "Knowledge Engineering"
+      ],
+      "papers": [
+        {
+          "title": "Named entity recognition using BERT BiLSTM CRF for Chinese electronic health records",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "named",
+            "entity",
+            "recognition",
+            "bert",
+            "bilstm"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wenjin Lu",
+      "scholar_id": "-2z5mNAAAAAJ",
+      "affiliation": "Computer Science and Software Engineering, Xi'an Jiaotong-Liverpool University",
+      "citedby": 1144,
+      "interests": [
+        "Machine Learning",
+        "Artificial Intelligence"
+      ],
+      "papers": [
+        {
+          "title": "One-class kernel subspace ensemble for medical image classification",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "one",
+            "class",
+            "kernel",
+            "subspace",
+            "ensemble"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Weizhan Zhang",
+      "scholar_id": "Y9oMV_0AAAAJ",
+      "affiliation": "Professor，Department of Computer Science and Technology, Xi'an Jiaotong University",
+      "citedby": 1044,
+      "interests": [
+        "Multimedia networking"
+      ],
+      "papers": [
+        {
+          "title": "Power-aware and performance-guaranteed virtual machine placement in the cloud",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "power",
+            "aware",
+            "performance",
+            "guaranteed",
+            "virtual"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Linlin Zhu",
+      "scholar_id": "emhGrOAAAAAJ",
+      "affiliation": "PhD student of Computer Science and Technology, Xi 'an Jiaotong University",
+      "citedby": 217,
+      "interests": [
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Natural Language Processing",
+        "Data Mining"
+      ],
+      "papers": [
+        {
+          "title": "Improving YOLOv5 with attention mechanism for detecting boulders from planetary images",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "improving",
+            "yolov",
+            "attention",
+            "mechanism",
+            "detecting"
+          ]
+        }
+      ]
+    }
+  ],
+  "Beihang University": [
+    {
+      "name": "Fuzhen Zhuang (庄福振)",
+      "scholar_id": "klJBYrAAAAAJ",
+      "affiliation": "Professor at Institute of Artificial Intelligence, Beihang University",
+      "citedby": 20992,
+      "interests": [
+        "Data Mining",
+        "Transfer Learning",
+        "Multi-task Learning",
+        "Recommender Systems",
+        "Knowledge Graph"
+      ],
+      "papers": [
+        {
+          "title": "A comprehensive survey on transfer learning",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "comprehensive",
+            "survey",
+            "transfer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hao Chen",
+      "scholar_id": "BEDNoZIAAAAJ",
+      "affiliation": "Shanghai AI Lab",
+      "citedby": 4055,
+      "interests": [
+        "AI4Earth",
+        "Remote Sensing",
+        "Computer Vision"
+      ],
+      "papers": [
+        {
+          "title": "A spatial-temporal attention-based method and a new dataset for remote sensing image change detection",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "spatial",
+            "temporal",
+            "attention",
+            "dataset",
+            "remote"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xingxing Wei",
+      "scholar_id": "ak8D_cQAAAAJ",
+      "affiliation": "Professor of Artificial Intelligence, Beihang University",
+      "citedby": 3896,
+      "interests": [
+        "Computer vision",
+        "Adversarial machine learning"
+      ],
+      "papers": [
+        {
+          "title": "High capacity reversible data hiding in encrypted images by patch-level sparse representation",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "high",
+            "capacity",
+            "reversible",
+            "data",
+            "hiding"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shuang Li（李爽）",
+      "scholar_id": "VXCiAc4AAAAJ",
+      "affiliation": "Associate Professor in School of Artificial Intelligence, Beihang University",
+      "citedby": 3738,
+      "interests": [
+        "Deep Learning",
+        "Transfer Learning",
+        "Domain Adaptation"
+      ],
+      "papers": [
+        {
+          "title": "Domain invariant and class discriminative feature learning for visual domain adaptation",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "domain",
+            "invariant",
+            "class",
+            "discriminative",
+            "feature"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lei Sha",
+      "scholar_id": "EbZ_P6gAAAAJ",
+      "affiliation": "Beihang University, ZGC Lab, Oxtium AI, University of Oxford",
+      "citedby": 2061,
+      "interests": [
+        "NLP",
+        "ML"
+      ],
+      "papers": [
+        {
+          "title": "Table-to-text generation by structure-aware seq2seq learning",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "seq",
+            "table",
+            "text",
+            "generation",
+            "structure"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yunhong Wang",
+      "scholar_id": "0ez7lA0AAAAJ",
+      "affiliation": "Professor, School of Computer Science and Engineering, Beihang University",
+      "citedby": 32311,
+      "interests": [
+        "Biometrics",
+        "Pattern Recognition",
+        "Image Processing",
+        "Computer Vision"
+      ],
+      "papers": [
+        {
+          "title": "Road extraction by deep residual u-net",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "road",
+            "extraction",
+            "deep",
+            "residual",
+            "net"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jianwei Niu",
+      "scholar_id": "KOciOtEAAAAJ",
+      "affiliation": "Professor of Computer Science, Beihang University",
+      "citedby": 16789,
+      "interests": [
+        "Mobile computing",
+        "image analysis",
+        "embedded system",
+        "machine learning"
+      ],
+      "papers": [
+        {
+          "title": "A robust ECC-based provable secure authentication protocol with privacy preserving for industrial Internet of Things",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "robust",
+            "ecc",
+            "provable",
+            "secure",
+            "authentication"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jianxin Li",
+      "scholar_id": "EY2lqD0AAAAJ",
+      "affiliation": "School of Computer Science & Engineering, Beihang University",
+      "citedby": 14232,
+      "interests": [
+        "Big Data",
+        "AI",
+        "Intelligent Computing"
+      ],
+      "papers": [
+        {
+          "title": "Informer: Beyond efficient transformer for long sequence time-series forecasting",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "informer",
+            "beyond",
+            "efficient",
+            "transformer",
+            "long"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yongxin Tong（童咏昕）",
+      "scholar_id": "aeCHfDIAAAAJ",
+      "affiliation": "Professor of Computer Science, Beihang University",
+      "citedby": 13884,
+      "interests": [
+        "Federated Learning",
+        "Spatial Data Science",
+        "Spatial Databases",
+        "Crowdsourcing",
+        "Databases"
+      ],
+      "papers": [
+        {
+          "title": "Federated machine learning: Concept and applications",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "federated",
+            "machine",
+            "concept",
+            "applications"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Di Huang",
+      "scholar_id": "rTQ9XoQAAAAJ",
+      "affiliation": "Computer Science and Engineering, Beihang University",
+      "citedby": 13034,
+      "interests": [
+        "Computer Vision",
+        "Pattern Recognition",
+        "Representation Learning",
+        "Biometrics"
+      ],
+      "papers": [
+        {
+          "title": "Receptive Field Block Net for Accurate and Fast Object Detection",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "receptive",
+            "field",
+            "block",
+            "net",
+            "accurate"
+          ]
+        }
+      ]
+    }
+  ],
+  "Beijing University of Posts and Telecommunications": [
+    {
+      "name": "Yong Liu",
+      "scholar_id": "9Z4RbA8AAAAJ",
+      "affiliation": "School of Artificial Intelligence, Beijing University of Posts and Telecommunications",
+      "citedby": 12038,
+      "interests": [
+        "Medical Image Analysis",
+        "Brain Network",
+        "NeuroImaging",
+        "Alzheimer's Disease"
+      ],
+      "papers": [
+        {
+          "title": "Disrupted small-world networks in schizophrenia",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "disrupted",
+            "small",
+            "world",
+            "networks",
+            "schizophrenia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yang Yang",
+      "scholar_id": "7at76pAAAAAJ",
+      "affiliation": "School of Artificial Intelligence, Beijing University of Posts and Telecommunications",
+      "citedby": 669,
+      "interests": [
+        "Intelligent wireless networks",
+        "6G communication"
+      ],
+      "papers": [
+        {
+          "title": "Transmission capacity analysis of relay-assisted device-to-device overlay/underlay communication",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "device",
+            "transmission",
+            "capacity",
+            "analysis",
+            "relay"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Guangyuan Xu",
+      "scholar_id": "6zn4N-IAAAAJ",
+      "affiliation": "Professor of Artificial Intelligence, Beijing University of Posts and Telecommunications(BUPT)",
+      "citedby": 660,
+      "interests": [
+        "Embodied Intelligence",
+        "Brain-computer Interface",
+        "Rehabilitation Robotics"
+      ],
+      "papers": [
+        {
+          "title": "Sensitive, selective, disposable electrochemical dopamine sensor based on PEDOT-modified laser scribed graphene",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "sensitive",
+            "selective",
+            "disposable",
+            "electrochemical",
+            "dopamine"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zhuqing Jia",
+      "scholar_id": "agrjETIAAAAJ",
+      "affiliation": "School of Artificial Intelligence, Beijing University of Posts and Telecommunications",
+      "citedby": 540,
+      "interests": [
+        "Information theory",
+        "Coding theory",
+        "Privacy and security"
+      ],
+      "papers": [
+        {
+          "title": "Cross Subspace Alignment and the Asymptotic Capacity of  -Secure  -Private Information Retrieval",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "cross",
+            "subspace",
+            "alignment",
+            "asymptotic",
+            "capacity"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wentao Liu",
+      "scholar_id": "yBRGiogAAAAJ",
+      "affiliation": "School of Artificial Intelligence, Beijing University of Posts and Telecommunications,",
+      "citedby": 438,
+      "interests": [
+        "Medical image analysis",
+        "Endovascular intervention"
+      ],
+      "papers": [
+        {
+          "title": "Full-resolution network and dual-threshold iteration for retinal vessel and coronary angiograph segmentation",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "full",
+            "resolution",
+            "dual",
+            "threshold",
+            "iteration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Li Wang",
+      "scholar_id": "O5VlqhcAAAAJ",
+      "affiliation": "School of Computer Science, Beijing University of Posts and Telecommunications",
+      "citedby": 4219,
+      "interests": [
+        "D2D",
+        "Edge Computing and AI",
+        "Cooperative Caching",
+        "Matching Theory",
+        "Emergency Communications"
+      ],
+      "papers": [
+        {
+          "title": "Optimal UAV caching and trajectory in aerial-assisted vehicular networks: A learning-based approach",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "optimal",
+            "uav",
+            "caching",
+            "trajectory",
+            "aerial"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Haifeng Sun",
+      "scholar_id": "dwhbTsEAAAAJ",
+      "affiliation": "Associate Professor of Computer Science, Beijing University of Posts and Telecommunications",
+      "citedby": 3086,
+      "interests": [
+        "Natural language Processing",
+        "intent based networking",
+        "NetAI"
+      ],
+      "papers": [
+        {
+          "title": "Knowledge-driven service offloading decision for vehicular edge computing: A deep reinforcement learning approach",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "knowledge",
+            "driven",
+            "service",
+            "offloading",
+            "decision"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Meina Song",
+      "scholar_id": "6MRGS-4AAAAJ",
+      "affiliation": "Professor of Computer Science, Beijing University of Posts and Telecommunications",
+      "citedby": 2760,
+      "interests": [
+        "data science"
+      ],
+      "papers": [
+        {
+          "title": "A novel bi-directional interrelated model for joint intent detection and slot filling",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "novel",
+            "directional",
+            "interrelated",
+            "joint",
+            "intent"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "zhou anfu",
+      "scholar_id": "ps6k2soAAAAJ",
+      "affiliation": "School of Computer Science, Beijing University of Posts and Telecommunications",
+      "citedby": 2572,
+      "interests": [
+        "mmWave sensing",
+        "Smart healthcare",
+        "5G wireless"
+      ],
+      "papers": [
+        {
+          "title": "Understanding operational 5G: A first measurement study on its coverage, performance and energy consumption",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "understanding",
+            "operational",
+            "first",
+            "measurement",
+            "study"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zhonghong Ou",
+      "scholar_id": "aYvRNFYAAAAJ",
+      "affiliation": "School of Computer Science, Beijing University of Posts and Telecommunications (BUPT), China",
+      "citedby": 1912,
+      "interests": [
+        "Computer Vision",
+        "Deep Learning",
+        "Machine Learning",
+        "Big Data Analytics"
+      ],
+      "papers": [
+        {
+          "title": "Rapl in action: Experiences in using rapl for power measurements",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "rapl",
+            "action",
+            "experiences",
+            "power",
+            "measurements"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Weiran Xu",
+      "scholar_id": "iZZfm-8AAAAJ",
+      "affiliation": "Associate professor of natural language processing, Beijing University of Posts and Telecommunications",
+      "citedby": 3543,
+      "interests": [
+        "natural language processing"
+      ],
+      "papers": [
+        {
+          "title": "Consert: A contrastive framework for self-supervised sentence representation transfer",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "consert",
+            "contrastive",
+            "framework",
+            "self",
+            "supervised"
+          ]
+        }
+      ]
+    }
+  ],
+  "Renmin University of China": [
+    {
+      "name": "Ji-Rong Wen",
+      "scholar_id": "tbxCHJgAAAAJ",
+      "affiliation": "Gaoling School of Artificial Intelligence, Renmin University of China",
+      "citedby": 42325,
+      "interests": [
+        "Large Language Model",
+        "Web Search",
+        "Information Retrieval",
+        "Machine Learning"
+      ],
+      "papers": [
+        {
+          "title": "A survey of large language models",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "survey",
+            "large",
+            "language",
+            "models"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yankai Lin",
+      "scholar_id": "j8K1FqEAAAAJ",
+      "affiliation": "Associate Professor (Tenure Track), Gaoling School of AI, Renmin University of China",
+      "citedby": 17767,
+      "interests": [
+        "Natural Language Processing",
+        "Large Language Models"
+      ],
+      "papers": [
+        {
+          "title": "Learning Entity and Relation Embeddings for Knowledge Graph Completion",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "entity",
+            "relation",
+            "embeddings",
+            "knowledge",
+            "graph"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jun Xu",
+      "scholar_id": "su14mcEAAAAJ",
+      "affiliation": "Professor, Gaoling School of Artificial Intelligence, Renmin University of China",
+      "citedby": 9915,
+      "interests": [
+        "Information Retrieval",
+        "Learning to Rank",
+        "Semantic Matching"
+      ],
+      "papers": [
+        {
+          "title": "Adarank: a boosting algorithm for information retrieval",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "adarank",
+            "boosting",
+            "algorithm",
+            "information",
+            "retrieval"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zikang Liu",
+      "scholar_id": "cmH0cx4AAAAJ",
+      "affiliation": "Gaoling School of Artificial Intelligence, Renmin University of China",
+      "citedby": 5192,
+      "interests": [
+        "NLP"
+      ],
+      "papers": [
+        {
+          "title": "A survey of large language models",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "survey",
+            "large",
+            "language",
+            "models"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zeyu Zhang",
+      "scholar_id": "AuLB6mUAAAAJ",
+      "affiliation": "Gaoling School of Artificial Intelligence, Renmin University of China",
+      "citedby": 1605,
+      "interests": [
+        "LLM-based Agent",
+        "Responsible RecSys",
+        "Causal Learning"
+      ],
+      "papers": [
+        {
+          "title": "A survey on large language model based autonomous agents",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "survey",
+            "large",
+            "language",
+            "autonomous",
+            "agents"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hong Chen",
+      "scholar_id": "FJVLD1oAAAAJ",
+      "affiliation": "Professor of computer science, Renmin University of China",
+      "citedby": 4918,
+      "interests": [
+        "Data privacy",
+        "Management of Data",
+        "Database"
+      ],
+      "papers": [
+        {
+          "title": "Hierarchical reinforcement learning for course recommendation in MOOCs",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "hierarchical",
+            "reinforcement",
+            "course",
+            "recommendation",
+            "moocs"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zhixu Li（李直旭）",
+      "scholar_id": "P1N6z0oAAAAJ",
+      "affiliation": "Professor of Computer Science, Renmin University of China",
+      "citedby": 4360,
+      "interests": [
+        "Knowledge Graph",
+        "LLM",
+        "IE",
+        "Data Governance"
+      ],
+      "papers": [
+        {
+          "title": "Where to go next: A spatio-temporal gated network for next poi recommendation",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "next",
+            "spatio",
+            "temporal",
+            "gated",
+            "poi"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chai Yunpeng",
+      "scholar_id": "KzsOokYAAAAJ",
+      "affiliation": "Professor of Computer Science, Renmin University of China",
+      "citedby": 662,
+      "interests": [
+        "Database",
+        "Storage",
+        "Distributed Systems"
+      ],
+      "papers": [
+        {
+          "title": "An efficient index for massive IOT data in cloud environment",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "efficient",
+            "index",
+            "massive",
+            "iot",
+            "data"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kun He",
+      "scholar_id": "Gaw2AbsAAAAJ",
+      "affiliation": "Associate Professor of Computer Science, Renmin University of China",
+      "citedby": 208,
+      "interests": [
+        "theoretic computer science"
+      ],
+      "papers": [
+        {
+          "title": "A theoretical foundation of the target-decoy search strategy for false discovery rate control in proteomics",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "theoretical",
+            "foundation",
+            "target",
+            "decoy",
+            "search"
+          ]
+        }
+      ]
+    }
+  ],
+  "Central South University": [
+    {
+      "name": "kelong ai",
+      "scholar_id": "VhQDcrgAAAAJ",
+      "affiliation": "Central South University",
+      "citedby": 18286,
+      "interests": [
+        "纳米医学，心脑血管修复，癌症的诊断和治疗"
+      ],
+      "papers": [
+        {
+          "title": "Polydopamine and its derivative materials: synthesis and promising applications in energy, environmental, and biomedical fields",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "polydopamine",
+            "derivative",
+            "materials",
+            "synthesis",
+            "promising"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tian Jin",
+      "scholar_id": "Fsv6T9EAAAAJ",
+      "affiliation": "Professor of Artificial Intelligence, Central South University",
+      "citedby": 7607,
+      "interests": [
+        "AI"
+      ],
+      "papers": [
+        {
+          "title": "Receptor-mediated activation of heterotrimeric G-proteins in living cells",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "receptor",
+            "mediated",
+            "activation",
+            "heterotrimeric",
+            "proteins"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ai-Min Guo",
+      "scholar_id": "iAML1rwAAAAJ",
+      "affiliation": "Central South University",
+      "citedby": 1777,
+      "interests": [
+        "Quantum transport theory",
+        "Spintronics"
+      ],
+      "papers": [
+        {
+          "title": "Spin-selective transport of electrons in DNA double helix",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "spin",
+            "selective",
+            "transport",
+            "electrons",
+            "dna"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jianxin Wang",
+      "scholar_id": "7pgY2F0AAAAJ",
+      "affiliation": "School of Computer Science and Engineering, Central South university",
+      "citedby": 28090,
+      "interests": [
+        "Algorithm",
+        "Bioinformatics",
+        "Computer Network"
+      ],
+      "papers": [
+        {
+          "title": "CytoNCA: a cytoscape plugin for centrality analysis and evaluation of protein interaction networks",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "cytonca",
+            "cytoscape",
+            "plugin",
+            "centrality",
+            "analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Min Li",
+      "scholar_id": "w47WJE4AAAAJ",
+      "affiliation": "School of Computer Science and Engineering, Central South University",
+      "citedby": 15097,
+      "interests": [
+        "Bioinformatics",
+        "Systems Biology"
+      ],
+      "papers": [
+        {
+          "title": "CytoNCA: a cytoscape plugin for centrality analysis and evaluation of protein interaction networks",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "cytonca",
+            "cytoscape",
+            "plugin",
+            "centrality",
+            "analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Feng Lyu",
+      "scholar_id": "qQpcRGsAAAAJ",
+      "affiliation": "Computer Science and Engineering, Central South University",
+      "citedby": 6710,
+      "interests": [
+        "IoTs",
+        "Big Data",
+        "Edge Computing",
+        "SAGIN"
+      ],
+      "papers": [
+        {
+          "title": "Space/Aerial-Assisted Computing Offloading for IoT Applications: A Learning-Based Approach",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "space",
+            "aerial",
+            "assisted",
+            "computing",
+            "offloading"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fei Guo",
+      "scholar_id": "Roc9Z20AAAAJ",
+      "affiliation": "School of Computer Science and Engineering, Central South University",
+      "citedby": 5986,
+      "interests": [
+        "Bioinformatics",
+        "Machine Learning",
+        "Data Mining"
+      ],
+      "papers": [
+        {
+          "title": "Improved prediction of protein–protein interactions using novel negative samples, features, and an ensemble classifier",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "protein",
+            "improved",
+            "prediction",
+            "interactions",
+            "novel"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lei Deng",
+      "scholar_id": "MAs2ET0AAAAJ",
+      "affiliation": "School of Computer Science and Engineering, Central South University",
+      "citedby": 4379,
+      "interests": [
+        "Bioinformatics",
+        "Data mining"
+      ],
+      "papers": [
+        {
+          "title": "Structure-based prediction of protein–protein interactions on a genome-wide scale",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "protein",
+            "structure",
+            "prediction",
+            "interactions",
+            "genome"
+          ]
+        }
+      ]
+    }
+  ],
+  "Northwestern Polytechnical University": [
+    {
+      "name": "Bin Zhao",
+      "scholar_id": "DQB0hqwAAAAJ",
+      "affiliation": "Northwestern Polytechnical University, Shanghai AI Laboratory",
+      "citedby": 3030,
+      "interests": [
+        "Computer Vision",
+        "Embodied Artificial Intelligence"
+      ],
+      "papers": [
+        {
+          "title": "Point-m2ae: multi-scale masked autoencoders for hierarchical point cloud pre-training",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "point",
+            "multi",
+            "scale",
+            "masked",
+            "autoencoders"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Arnab Raha",
+      "scholar_id": "32O1z3gAAAAJ",
+      "affiliation": "Senior Research Scientist, Advanced Architecture, NPU, Intel AI",
+      "citedby": 2665,
+      "interests": [
+        "Approximate Computing",
+        "Hardware Accelerator Design",
+        "Low Power Embedded Systems",
+        "System-on-Chips"
+      ],
+      "papers": [
+        {
+          "title": "Powering the internet of things",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "powering",
+            "internet",
+            "things"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kyeongmin Cho",
+      "scholar_id": "KJd2XC4AAAAJ",
+      "affiliation": "NPU Compiler Engineer at Rebellions",
+      "citedby": 47,
+      "interests": [
+        "NPU compiler",
+        "persistent memory",
+        "concurrency"
+      ],
+      "papers": [
+        {
+          "title": "Revamping hardware persistency models: view-based and axiomatic persistency models for Intel-x86 and Armv8",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "persistency",
+            "models",
+            "revamping",
+            "hardware",
+            "view"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xianze Ai",
+      "scholar_id": "5lqZkZ8AAAAJ",
+      "affiliation": "Northwestern Polytechnical University",
+      "citedby": 2,
+      "interests": [
+        "medical image computing"
+      ],
+      "papers": [
+        {
+          "title": "URL: Combating Label Noise for Lung Nodule Malignancy Grading",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "url",
+            "combating",
+            "label",
+            "noise",
+            "lung"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Guodong Sun",
+      "scholar_id": "IwscJpsAAAAJ",
+      "affiliation": "School of Artificial Intelligence Optics and Electronics, Northwestern Polytechnical University",
+      "citedby": 1,
+      "interests": [
+        "computer vision",
+        "low-level vision",
+        "imaging through atmospheric turbulence"
+      ],
+      "papers": [
+        {
+          "title": "Monte Carlo-Based Restoration of Images Degraded by Atmospheric Turbulence",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "monte",
+            "carlo",
+            "restoration",
+            "images",
+            "degraded"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bin Guo",
+      "scholar_id": "VC6N2iQAAAAJ",
+      "affiliation": "Professor of Computer Science, Northwestern Polytechnical University",
+      "citedby": 17402,
+      "interests": [
+        "Ubiquitous Computing",
+        "Mobile Crowd Sensing"
+      ],
+      "papers": [
+        {
+          "title": "Mobile crowd sensing and computing: The review of an emerging human-powered sensing paradigm",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "sensing",
+            "mobile",
+            "crowd",
+            "computing",
+            "review"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Peng Wang",
+      "scholar_id": "aPLp7pAAAAAJ",
+      "affiliation": "School of Computer Science, Northwestern Polytechnical University, China",
+      "citedby": 7909,
+      "interests": [
+        "Computer Vision",
+        "Machine Learning",
+        "Artificial Intelligence"
+      ],
+      "papers": [
+        {
+          "title": "Fvqa: Fact-based visual question answering",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "fvqa",
+            "fact",
+            "visual",
+            "question",
+            "answering"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xingyu Liao",
+      "scholar_id": "spgKoyUAAAAJ",
+      "affiliation": "Associate Professor,   School of Computer Science, Northwestern Polytechnical University, P.R.China.",
+      "citedby": 1535,
+      "interests": [
+        "Bioinformatics",
+        "Sequence analysis",
+        "Big Data analysis",
+        "Deep learning"
+      ],
+      "papers": [
+        {
+          "title": "Database resources of the national genomics data center, China national center for bioinformation in 2022",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "national",
+            "center",
+            "database",
+            "resources",
+            "genomics"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Congqi Cao",
+      "scholar_id": "fB66KE0AAAAJ",
+      "affiliation": "School of Computer Science, Northwestern Polytechnical University",
+      "citedby": 1512,
+      "interests": [
+        "Computer Vision",
+        "Action Recognition"
+      ],
+      "papers": [
+        {
+          "title": "Decoupling gcn with dropgraph module for skeleton-based action recognition",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "decoupling",
+            "gcn",
+            "dropgraph",
+            "module",
+            "skeleton"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yu-da Lin",
+      "scholar_id": "hZ_te5QAAAAJ",
+      "affiliation": "Department of Computer Science and Information Engineering, National Penghu University of Science",
+      "citedby": 1151,
+      "interests": [
+        "Interaction between SNPs and environment",
+        "algorithm design",
+        "and systems design"
+      ],
+      "papers": [
+        {
+          "title": "Evaluation of breast cancer susceptibility using improved genetic algorithms to generate genotype SNP barcodes",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "evaluation",
+            "breast",
+            "cancer",
+            "susceptibility",
+            "improved"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tao Li",
+      "scholar_id": "CnUGnNMAAAAJ",
+      "affiliation": "Audio, Speech and Language Processing Group (ASLP@NPU), School of Computer Science",
+      "citedby": 282,
+      "interests": [
+        "speech synthesis",
+        "prosody transfer",
+        "diffusion model",
+        "representation learning"
+      ],
+      "papers": [
+        {
+          "title": "Controllable emotion transfer for end-to-end speech synthesis",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "end",
+            "controllable",
+            "emotion",
+            "transfer",
+            "speech"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hanzhao Li",
+      "scholar_id": "inAukKYAAAAJ",
+      "affiliation": "Audio, Speech and Language Processing Group (ASLP@NPU), School of Computer Science, Northwestern",
+      "citedby": 191,
+      "interests": [
+        "Speech Synthesis",
+        "Singing Voice Synthesis",
+        "Spontaneous Speech",
+        "Speech Codec",
+        "Large Language Model"
+      ],
+      "papers": [
+        {
+          "title": "Opencpop: A high-quality open source chinese popular song corpus for singing voice synthesis",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "opencpop",
+            "high",
+            "quality",
+            "open",
+            "source"
+          ]
+        }
+      ]
+    }
+  ],
+  "Wuhan University": [
+    {
+      "name": "Gui-Song Xia",
+      "scholar_id": "SAUCVsEAAAAJ",
+      "affiliation": "School of Artificial Intelligence, Wuhan University, China",
+      "citedby": 29262,
+      "interests": [
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Photogrammetry",
+        "Remote Sensing",
+        "Robotics"
+      ],
+      "papers": [
+        {
+          "title": "Deep learning in remote sensing: A comprehensive review and list of resources",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "deep",
+            "remote",
+            "sensing",
+            "comprehensive",
+            "review"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "xiaomeng ai",
+      "scholar_id": "C93rrtoAAAAJ",
+      "affiliation": "Huazhong University of Science and Technology, Wuhan, P. R. China",
+      "citedby": 5211,
+      "interests": [
+        "Energy Storage",
+        "Renewable Energy"
+      ],
+      "papers": [
+        {
+          "title": "Dynamic optimal energy flow in the integrated natural gas and electrical power systems",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "dynamic",
+            "optimal",
+            "energy",
+            "flow",
+            "integrated"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lei Yu",
+      "scholar_id": "Klc_GHUAAAAJ",
+      "affiliation": "Professor, School of Artificial Intelligence, Wuhan University",
+      "citedby": 3766,
+      "interests": [
+        "Neuromorphic Vision",
+        "Image Processing",
+        "Signal Processing"
+      ],
+      "papers": [
+        {
+          "title": "A normalized Gaussian Wasserstein distance for tiny object detection",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "normalized",
+            "gaussian",
+            "wasserstein",
+            "distance",
+            "tiny"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tinghua Ai",
+      "scholar_id": "ujAtYEQAAAAJ",
+      "affiliation": "Wuhan University",
+      "citedby": 3287,
+      "interests": [
+        "map generalization",
+        "spatial analysis",
+        "spatial cognition"
+      ],
+      "papers": [
+        {
+          "title": "Automated building generalization based on urban morphology and Gestalt theory",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "automated",
+            "building",
+            "generalization",
+            "urban",
+            "morphology"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Qingsong Ai",
+      "scholar_id": "cRsR67gAAAAJ",
+      "affiliation": "Wuhan University of Technology",
+      "citedby": 3196,
+      "interests": [
+        "Rehabilitation Robotics"
+      ],
+      "papers": [
+        {
+          "title": "Recent development of mechanisms and control strategies for robot-assisted lower limb rehabilitation",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "recent",
+            "development",
+            "mechanisms",
+            "control",
+            "strategies"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "bo du",
+      "scholar_id": "Shy1gnMAAAAJ",
+      "affiliation": "School of Computer Science, Wuhan University",
+      "citedby": 32905,
+      "interests": [
+        "machine learning",
+        "computer vision",
+        "remote sensing"
+      ],
+      "papers": [
+        {
+          "title": "Deep learning for remote sensing data: A technical tutorial on the state of the art",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "deep",
+            "remote",
+            "sensing",
+            "data",
+            "technical"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lefei Zhang",
+      "scholar_id": "BLKHwNwAAAAJ",
+      "affiliation": "School of Computer Science, Wuhan University",
+      "citedby": 13251,
+      "interests": [
+        "Pattern Recognition",
+        "Machine Learning",
+        "Image Processing",
+        "Remote Sensing"
+      ],
+      "papers": [
+        {
+          "title": "Deep Learning for Remote Sensing Data: A Technical Tutorial on the State of the Art",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "deep",
+            "remote",
+            "sensing",
+            "data",
+            "technical"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wenyin Gong",
+      "scholar_id": "cbUVIYkAAAAJ",
+      "affiliation": "Professor of Computer Science, China University of Geosciences, Wuhan",
+      "citedby": 8911,
+      "interests": [
+        "Evolutionary Computation"
+      ],
+      "papers": [
+        {
+          "title": "Differential evolution with ranking-based mutation operators",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "differential",
+            "evolution",
+            "ranking",
+            "mutation",
+            "operators"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chang Tang",
+      "scholar_id": "quDLqhwAAAAJ",
+      "affiliation": "Senior Member of IEEE/CCF, School of Computer Science, China University of Geosciences, Wuhan, China",
+      "citedby": 7392,
+      "interests": [
+        "Machine Learning",
+        "Pattern Recognition"
+      ],
+      "papers": [
+        {
+          "title": "Action Recognition From Depth Maps Using Deep Convolutional Neural Networks",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "action",
+            "recognition",
+            "depth",
+            "maps",
+            "deep"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Qin Zou",
+      "scholar_id": "dJ8izFAAAAAJ",
+      "affiliation": "Professor of Computer Science, Wuhan University",
+      "citedby": 7332,
+      "interests": [
+        "Computer Vision",
+        "Pattern Recognition",
+        "Machine Learning"
+      ],
+      "papers": [
+        {
+          "title": "CrackTree: Automatic crack detection from pavement images",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "cracktree",
+            "automatic",
+            "crack",
+            "detection",
+            "pavement"
+          ]
+        }
+      ]
+    }
+  ],
+  "Sun Yat-sen University": [
+    {
+      "name": "Zefeng Chen (陈泽丰)",
+      "scholar_id": "vOQJBxUAAAAJ",
+      "affiliation": "School of Artificial Intelligence, Sun Yat-sen University",
+      "citedby": 1441,
+      "interests": [
+        "evolutionary computation",
+        "multi-objective optimization",
+        "multi-task optimization",
+        "evolutionary machine learning"
+      ],
+      "papers": [
+        {
+          "title": "A vector angle-based evolutionary algorithm for unconstrained many-objective optimization",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "vector",
+            "angle",
+            "evolutionary",
+            "algorithm",
+            "unconstrained"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ai-Yun Peng",
+      "scholar_id": "7DjbCS0AAAAJ",
+      "affiliation": "School of Chemistry, Sun Yat-sen University",
+      "citedby": 749,
+      "interests": [
+        "Organic Chemistry"
+      ],
+      "papers": [
+        {
+          "title": "The Synthesis of Phosphaisocoumarins by Cu(I)-Catalyzed Intramolecular Cyclization of o-Ethynylphenylphosphonic Acid Monoesters",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "synthesis",
+            "phosphaisocoumarins",
+            "catalyzed",
+            "intramolecular",
+            "cyclization"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Y.L. Ai",
+      "scholar_id": "qJw_l-YAAAAJ",
+      "affiliation": "School of Physics and Astronomy, Sun Yat-Sen University",
+      "citedby": 636,
+      "interests": [
+        "astronomy",
+        "astrophysics"
+      ],
+      "papers": [
+        {
+          "title": "A survey of luminous high-redshift quasars with SDSS and WISE. I. Target selection and optical spectroscopy",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "survey",
+            "luminous",
+            "high",
+            "redshift",
+            "quasars"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Libin Zheng",
+      "scholar_id": "_zsllSIAAAAJ",
+      "affiliation": "School of Artificial Intelligence, Sun Yat-sen University",
+      "citedby": 470,
+      "interests": [],
+      "papers": [
+        {
+          "title": "Order dispatch in price-aware ridesharing",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "order",
+            "dispatch",
+            "price",
+            "aware",
+            "ridesharing"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ai-ping Lv",
+      "scholar_id": "pvBG_ucAAAAJ",
+      "affiliation": "Sun Yat-sen University",
+      "citedby": 143,
+      "interests": [],
+      "papers": [
+        {
+          "title": "Insight into the function and evolution of the Wood–Ljungdahl pathway in Actinobacteria",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "insight",
+            "function",
+            "evolution",
+            "wood",
+            "ljungdahl"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zhi Xie",
+      "scholar_id": "31yIF4QAAAAJ",
+      "affiliation": "Professor in Bioinformatics and Machine learning at Sun Yat-sen University",
+      "citedby": 5757,
+      "interests": [
+        "Bioinformatics",
+        "mRNA",
+        "Machine learning"
+      ],
+      "papers": [
+        {
+          "title": "Deep learning and its applications in biomedicine",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "deep",
+            "applications",
+            "biomedicine"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zhi Xie",
+      "scholar_id": "31yIF4QAAAAJ",
+      "affiliation": "Professor in Bioinformatics and Machine learning at Sun Yat-sen University",
+      "citedby": 5757,
+      "interests": [
+        "Bioinformatics",
+        "mRNA",
+        "Machine learning"
+      ],
+      "papers": [
+        {
+          "title": "Deep learning and its applications in biomedicine",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "deep",
+            "applications",
+            "biomedicine"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Liang Lin",
+      "scholar_id": "Nav8m8gAAAAJ",
+      "affiliation": "Fellow of IEEE/IAPR, Professor of Computer Science, Sun Yat-sen University",
+      "citedby": 39879,
+      "interests": [
+        "Embodied AI",
+        "Multimodal Data Analysis and Understanding",
+        "Machine Perception and Learning"
+      ],
+      "papers": [
+        {
+          "title": "Ntire 2017 challenge on single image super-resolution: Methods and results",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "ntire",
+            "challenge",
+            "single",
+            "image",
+            "super"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Guanbin Li (李冠彬)",
+      "scholar_id": "2A2Bx2UAAAAJ",
+      "affiliation": "Professor, School of Computer Science and Engineering, Sun Yat-Sen University, China",
+      "citedby": 15656,
+      "interests": [
+        "Intelligent Perception",
+        "Visual Comprehension",
+        "Deep Learning"
+      ],
+      "papers": [
+        {
+          "title": "Visual saliency based on multiscale deep features",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "visual",
+            "saliency",
+            "multiscale",
+            "deep",
+            "features"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yuedong Yang",
+      "scholar_id": "AfjwTKoAAAAJ",
+      "affiliation": "School of Computer Science and Engineering, Sun Yat-sen University",
+      "citedby": 12099,
+      "interests": [
+        "Bioinformatics",
+        "Structural Bioinformatics",
+        "Multiscale modeling"
+      ],
+      "papers": [
+        {
+          "title": "Deep learning enables accurate diagnosis of novel coronavirus (COVID-19) with CT images",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "deep",
+            "enables",
+            "accurate",
+            "diagnosis",
+            "novel"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Di Wu",
+      "scholar_id": "guhA4VoAAAAJ",
+      "affiliation": "Professor of Computer Science, Sun Yat-Sen University",
+      "citedby": 10370,
+      "interests": [
+        "networking",
+        "multimedia communication",
+        "distributed computing"
+      ],
+      "papers": [
+        {
+          "title": "Vehicular fog computing: A viewpoint of vehicles as the infrastructures",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "vehicular",
+            "fog",
+            "computing",
+            "viewpoint",
+            "vehicles"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Qing Ling",
+      "scholar_id": "u70vRDYAAAAJ",
+      "affiliation": "School of Computer Science and Engineering, Sun Yat-Sen University",
+      "citedby": 9190,
+      "interests": [
+        "Signal Processing",
+        "Optimization",
+        "Control"
+      ],
+      "papers": [
+        {
+          "title": "Extra: An exact first-order algorithm for decentralized consensus optimization",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "extra",
+            "exact",
+            "first",
+            "order",
+            "algorithm"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zhi Xie",
+      "scholar_id": "31yIF4QAAAAJ",
+      "affiliation": "Professor in Bioinformatics and Machine learning at Sun Yat-sen University",
+      "citedby": 5757,
+      "interests": [
+        "Bioinformatics",
+        "mRNA",
+        "Machine learning"
+      ],
+      "papers": [
+        {
+          "title": "Deep learning and its applications in biomedicine",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "deep",
+            "applications",
+            "biomedicine"
+          ]
+        }
+      ]
+    }
+  ],
+  "Sichuan University": [
+    {
+      "name": "Sen Yang",
+      "scholar_id": "I9y7C2UAAAAJ",
+      "affiliation": "Sichuan University;Tencent AI Lab;Stanford University",
+      "citedby": 2543,
+      "interests": [
+        "Computational Pathology",
+        "Medical Image",
+        "Deep Learning"
+      ],
+      "papers": [
+        {
+          "title": "Transformer-based unsupervised contrastive learning for histopathological image classification",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "transformer",
+            "unsupervised",
+            "contrastive",
+            "histopathological",
+            "image"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Feng Xia",
+      "scholar_id": "z6lmdiMAAAAJ",
+      "affiliation": "Sichuan University; Tencent AI lab",
+      "citedby": 585,
+      "interests": [
+        "Recommendation",
+        "LLM"
+      ],
+      "papers": [
+        {
+          "title": "Deep feedback network for recommendation",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "deep",
+            "feedback",
+            "recommendation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yi Zhang",
+      "scholar_id": "RaqG37kAAAAJ",
+      "affiliation": "Professor of Computer Science, Sichuan University",
+      "citedby": 17459,
+      "interests": [
+        "Neural Networks"
+      ],
+      "papers": [
+        {
+          "title": "Entropy-based subspace clustering for mining numerical data",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "entropy",
+            "subspace",
+            "clustering",
+            "mining",
+            "numerical"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xi Peng, 彭玺",
+      "scholar_id": "bw9FOHAAAAAJ",
+      "affiliation": "Cheung Kong Professor, College of Computer Science, Sichuan University",
+      "citedby": 13125,
+      "interests": [
+        "Machine Learning",
+        "Image Processing",
+        "Multi-modal Learning",
+        "AI4Science"
+      ],
+      "papers": [
+        {
+          "title": "Contrastive clustering",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "contrastive",
+            "clustering"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yong Zhao",
+      "scholar_id": "3mixb94AAAAJ",
+      "affiliation": "Professor, Computer Science, Sichuan University Pittsburgh Institute, China",
+      "citedby": 10840,
+      "interests": [
+        "Big Data",
+        "LLM",
+        "Cloud Workflow",
+        "Data Intensive Computing",
+        "Blockchain"
+      ],
+      "papers": [
+        {
+          "title": "Cloud computing and grid computing 360-degree compared",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "computing",
+            "cloud",
+            "grid",
+            "degree",
+            "compared"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jiancheng LV",
+      "scholar_id": "0TCaWKwAAAAJ",
+      "affiliation": "College of Computer Science, Sichuan University",
+      "citedby": 9618,
+      "interests": [
+        "Neural Networks & Applications"
+      ],
+      "papers": [
+        {
+          "title": "Automatically designing CNN architectures using the genetic algorithm for image classification",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "automatically",
+            "designing",
+            "cnn",
+            "architectures",
+            "genetic"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yanan Sun",
+      "scholar_id": "kqErKX4AAAAJ",
+      "affiliation": "Professor, College of Computer Science, Sichuan University",
+      "citedby": 6157,
+      "interests": [
+        "Neural Architecture Search"
+      ],
+      "papers": [
+        {
+          "title": "Automatically designing CNN architectures using the genetic algorithm for image classification",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "automatically",
+            "designing",
+            "cnn",
+            "architectures",
+            "genetic"
+          ]
+        }
+      ]
+    }
+  ],
+  "Tongji University": [
+    {
+      "name": "TAO AI",
+      "scholar_id": "MwGWlDwAAAAJ",
+      "affiliation": "Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology",
+      "citedby": 9831,
+      "interests": [
+        "Imaging diagnosis",
+        "Magnetic resonance",
+        "Breast imaging",
+        "Body imaging"
+      ],
+      "papers": [
+        {
+          "title": "Correlation of chest CT and RT-PCR testing for coronavirus disease 2019 (COVID-19) in China: a report of 1014 cases",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "correlation",
+            "chest",
+            "pcr",
+            "testing",
+            "coronavirus"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ai Du (杜艾)",
+      "scholar_id": "9_nxfS4AAAAJ",
+      "affiliation": "Tongji University",
+      "citedby": 4527,
+      "interests": [
+        "aerogel、superblack materials、超级黑材料、气凝胶、纳米"
+      ],
+      "papers": [
+        {
+          "title": "A special material or a new state of matter: a review and reconsideration of the aerogel",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "special",
+            "material",
+            "state",
+            "matter",
+            "review"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Otthein Herzog",
+      "scholar_id": "73TgHMQAAAAJ",
+      "affiliation": "Professor of Artificial Intelligence, Tongji University, Shanghai, and University of Bremen, Germany",
+      "citedby": 3502,
+      "interests": [
+        "Artificial Intelligence",
+        "Mulitagent Systems",
+        "AAL",
+        "content-based analysis and generation of images and videos",
+        "Smart Cities"
+      ],
+      "papers": [
+        {
+          "title": "Text Understanding in LILOG: Integrating Computational Linguistics and Artificial Intelligence-Final Report on the LILOG-Project",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "lilog",
+            "text",
+            "understanding",
+            "integrating",
+            "computational"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sihan Chen",
+      "scholar_id": "sTD8LlsAAAAJ",
+      "affiliation": "Momenta.ai, Tongji University",
+      "citedby": 789,
+      "interests": [
+        "Computer Vision",
+        "Sensor Fusion",
+        "Multi-task Learning",
+        "Autonomous Driving",
+        "SLAM and Optimization"
+      ],
+      "papers": [
+        {
+          "title": "Valor: Vision-audio-language omni-perception pretraining model and dataset",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "valor",
+            "vision",
+            "audio",
+            "language",
+            "omni"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jing Hou",
+      "scholar_id": "8mO6YIMAAAAJ",
+      "affiliation": "Tongji University; Shanghai AI Laboratory (Intern)",
+      "citedby": 315,
+      "interests": [
+        "Reinforcement Learning",
+        "Autonomous Driving",
+        "Path Planning",
+        "Scheduling"
+      ],
+      "papers": [
+        {
+          "title": "Improved safety-first A-star algorithm for autonomous vehicles",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "improved",
+            "safety",
+            "first",
+            "star",
+            "algorithm"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Duoqian Miao",
+      "scholar_id": "QCI9JhwAAAAJ",
+      "affiliation": "Professor of Computer Science, Tongji University",
+      "citedby": 12576,
+      "interests": [
+        "Rough Sets",
+        "Granular Computing",
+        "Machine Learning",
+        "Natural Language Processing"
+      ],
+      "papers": [
+        {
+          "title": "From soft sets to information systems",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "soft",
+            "sets",
+            "information",
+            "systems"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jihong Guan",
+      "scholar_id": "N2xsxV8AAAAJ",
+      "affiliation": "Professor of Computer Science, Tongji University",
+      "citedby": 8408,
+      "interests": [
+        "Data Mining and Management",
+        "Machine Learning",
+        "Bioinformatics"
+      ],
+      "papers": [
+        {
+          "title": "Improving compound–protein interaction prediction by building up highly credible negative samples",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "improving",
+            "compound",
+            "protein",
+            "interaction",
+            "prediction"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hanli Wang",
+      "scholar_id": "WioFu64AAAAJ",
+      "affiliation": "Department of Computer Science and Technology, Tongji University, Shanghai",
+      "citedby": 5745,
+      "interests": [
+        "Multimedia Computing",
+        "Computer Vision",
+        "Image Processing",
+        "Machine Learning"
+      ],
+      "papers": [
+        {
+          "title": "Mixed Pooling for Convolutional Neural Networks",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "mixed",
+            "pooling",
+            "convolutional",
+            "neural",
+            "networks"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Liu Xiwei",
+      "scholar_id": "U-LWZ5AAAAAJ",
+      "affiliation": "Department of Computer Science and Technology, Tongji University",
+      "citedby": 5606,
+      "interests": [
+        "complex networks",
+        "neural networks"
+      ],
+      "papers": [
+        {
+          "title": "Pinning complex networks by a single controller",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "pinning",
+            "complex",
+            "networks",
+            "single",
+            "controller"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ying Shen",
+      "scholar_id": "A0N_mS0AAAAJ",
+      "affiliation": "Professor with School of Computer Science and Technology , Tongji University",
+      "citedby": 3338,
+      "interests": [
+        "Speech & Language Processing"
+      ],
+      "papers": [
+        {
+          "title": "VSI: A visual saliency-induced index for perceptual image quality assessment",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "vsi",
+            "visual",
+            "saliency",
+            "induced",
+            "index"
+          ]
+        }
+      ]
+    }
+  ],
+  "Shandong University": [
+    {
+      "name": "Yanyu Xu",
+      "scholar_id": "Y3hU1AYAAAAJ",
+      "affiliation": "The Joint SDU-NTU Centre for Artificial Intelligence Research (C-FAIR), Shandong University",
+      "citedby": 1746,
+      "interests": [
+        "Computer vision",
+        "deep learning",
+        "medical imaging analysis"
+      ],
+      "papers": [
+        {
+          "title": "Gaze Prediction in Dynamic 360◦ Immersive Videos",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "gaze",
+            "prediction",
+            "dynamic",
+            "immersive",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yonghui Xu",
+      "scholar_id": "XHJQRCoAAAAJ",
+      "affiliation": "Joint SDU-NTU Centre for Artificial Intelligence Research (C-FAIR), Shandong University",
+      "citedby": 1227,
+      "interests": [
+        "Trustworthy AI",
+        "Cognitive Learning"
+      ],
+      "papers": [
+        {
+          "title": "A unified framework for metric transfer learning",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "unified",
+            "framework",
+            "metric",
+            "transfer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Junru Jin",
+      "scholar_id": "7Lw6yNYAAAAJ",
+      "affiliation": "Undergraduate of Artificial Intelligence, Shandong University",
+      "citedby": 642,
+      "interests": [
+        "bioinfomatics",
+        "nature language processing",
+        "machine learning",
+        "deep learning"
+      ],
+      "papers": [
+        {
+          "title": "DeepBIO: an automated and interpretable deep-learning platform for high-throughput biological sequence prediction, functional annotation and visualization analysis",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "deepbio",
+            "automated",
+            "interpretable",
+            "deep",
+            "platform"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ai-Qing Sun",
+      "scholar_id": "XfL6BjgAAAAJ",
+      "affiliation": "Lecturer of Seed Science, Shandong Agricultural University",
+      "citedby": 620,
+      "interests": [
+        "Seed Biology",
+        "Abiotic Stress Tolerance",
+        "Plant Molecular Biology"
+      ],
+      "papers": [
+        {
+          "title": "Multiple compounds determination and fingerprint analysis of Lidanpaishi tablet and keli by high-performance liquid chromatography",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "multiple",
+            "compounds",
+            "determination",
+            "fingerprint",
+            "analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Da CHEN",
+      "scholar_id": "mYCD3xUAAAAJ",
+      "affiliation": "Shandong Artificial Intelligence Institute,Qilu University of Technology (Shandong Academy of",
+      "citedby": 564,
+      "interests": [
+        "image processing",
+        "computer vision",
+        "medical imaging",
+        "shape"
+      ],
+      "papers": [
+        {
+          "title": "Global minimum for a Finsler elastica minimal path approach",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "global",
+            "minimum",
+            "finsler",
+            "elastica",
+            "minimal"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xiuzhen Cheng",
+      "scholar_id": "O1yGhH0AAAAJ",
+      "affiliation": "School of Computer Science and Technology, Shandong University",
+      "citedby": 22553,
+      "interests": [
+        "Blockchain",
+        "IoT Security",
+        "Edge Computing",
+        "Distributed Computing"
+      ],
+      "papers": [
+        {
+          "title": "Fog computing for the internet of things: Security and privacy issues",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "fog",
+            "computing",
+            "internet",
+            "things",
+            "security"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pengjie Ren",
+      "scholar_id": "4OdmSOcAAAAJ",
+      "affiliation": "Professor of Computer Science, Shandong University",
+      "citedby": 6520,
+      "interests": [
+        "Natural Language Processing",
+        "Recommender Systems"
+      ],
+      "papers": [
+        {
+          "title": "Neural attentive session-based recommendation",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "neural",
+            "attentive",
+            "session",
+            "recommendation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hong Liu",
+      "scholar_id": "TY73ijsAAAAJ",
+      "affiliation": "Professor of Computer Science, Shandong Normal University",
+      "citedby": 4460,
+      "interests": [
+        "Swarm algorithms",
+        "multi-agent systems"
+      ],
+      "papers": [
+        {
+          "title": "A path planning approach for crowd evacuation in buildings based on improved artificial bee colony algorithm",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "path",
+            "planning",
+            "crowd",
+            "evacuation",
+            "buildings"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dongxiao Yu",
+      "scholar_id": "hiQxuHYAAAAJ",
+      "affiliation": "Professor of Computer Science, Shandong University",
+      "citedby": 4402,
+      "interests": [
+        "Distributed Computing",
+        "Wireless Networking",
+        "Graph Algorithms"
+      ],
+      "papers": [
+        {
+          "title": "Connected dominating sets in wireless ad hoc and sensor networks–A comprehensive survey",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "connected",
+            "dominating",
+            "sets",
+            "wireless",
+            "hoc"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pengfei Hu",
+      "scholar_id": "CMddi7oAAAAJ",
+      "affiliation": "Professor of Computer Science, Shandong University",
+      "citedby": 3185,
+      "interests": [
+        "Security & Privacy",
+        "Mobile Computing"
+      ],
+      "papers": [
+        {
+          "title": "Visible light communication, networking, and sensing: A survey, potential and challenges",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "visible",
+            "light",
+            "communication",
+            "networking",
+            "sensing"
+          ]
+        }
+      ]
+    }
+  ],
+  "Jilin University": [
+    {
+      "name": "Xuan Song",
+      "scholar_id": "_qCSLpMAAAAJ",
+      "affiliation": "Dean and Professor, School of Artificial Intelligence, Jilin University; SUSTech",
+      "citedby": 8648,
+      "interests": [
+        "Artificial Intelligence",
+        "Data Mining",
+        "Urban Computing"
+      ],
+      "papers": [
+        {
+          "title": "Application of a hybrid artificial neural network-particle swarm optimization (ANN-PSO) model in behavior prediction of channel shear connectors embedded in normal and high-strength concrete",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "application",
+            "hybrid",
+            "artificial",
+            "neural",
+            "particle"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yupeng Chang",
+      "scholar_id": "Hw-lrpAAAAAJ",
+      "affiliation": "College of Artificial Intelligence, Jilin University",
+      "citedby": 2658,
+      "interests": [
+        "LLMs evaluation",
+        "Benchmarks",
+        "LLMs SFT"
+      ],
+      "papers": [
+        {
+          "title": "A survey on evaluation of large language models",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "survey",
+            "evaluation",
+            "large",
+            "language",
+            "models"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hechang Chen",
+      "scholar_id": "EezEcbgAAAAJ",
+      "affiliation": "School of Artificial Intelligence, Jilin University, China",
+      "citedby": 1302,
+      "interests": [
+        "Machine Learning",
+        "Data Mining",
+        "Deep Reinforcement Learning",
+        "Complex Network Analysis",
+        "Knowledge Graph"
+      ],
+      "papers": [
+        {
+          "title": "Self-paced ensemble for highly imbalanced massive data classification",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "self",
+            "paced",
+            "ensemble",
+            "highly",
+            "imbalanced"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jianhua Jiang (姜建华)",
+      "scholar_id": "4_Ql2oIAAAAJ",
+      "affiliation": "Professor of Computer Science, Jilin University of Finance and Economics, 院长, AI研究中心主任",
+      "citedby": 892,
+      "interests": [
+        "Besiege and Conquer Algorithm",
+        "Evolutionary Computation",
+        "Fintech"
+      ],
+      "papers": [
+        {
+          "title": "REDPC: A residual error-based density peak clustering algorithm",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "redpc",
+            "residual",
+            "error",
+            "density",
+            "peak"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bo Wang",
+      "scholar_id": "AwFj_u8AAAAJ",
+      "affiliation": "School of Artificial Intelligence, JiLin University",
+      "citedby": 476,
+      "interests": [
+        "NLP",
+        "Knowledge Graph"
+      ],
+      "papers": [
+        {
+          "title": "Structure-Augmented Text Representation Learning for Efficient Knowledge Graph Completion",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "structure",
+            "augmented",
+            "text",
+            "representation",
+            "efficient"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Qiang Li",
+      "scholar_id": "wDYOD8AAAAAJ",
+      "affiliation": "Jilin University, Computer Science",
+      "citedby": 1666,
+      "interests": [
+        "Network Security",
+        "AI Security"
+      ],
+      "papers": [
+        {
+          "title": "A hand gesture recognition framework and wearable gesture-based interaction prototype for mobile devices",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "gesture",
+            "hand",
+            "recognition",
+            "framework",
+            "wearable"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wanfu Gao （高万夫）",
+      "scholar_id": "NJ6gLxcAAAAJ",
+      "affiliation": "College of Computer Science and Technology, Jilin University",
+      "citedby": 1638,
+      "interests": [
+        "feature selection",
+        "multi-label learning",
+        "multi-view learning",
+        "partial multi-label learning"
+      ],
+      "papers": [
+        {
+          "title": "Class-specific mutual information variation for feature selection",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "class",
+            "specific",
+            "mutual",
+            "information",
+            "variation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hao Zhang",
+      "scholar_id": "_AroY1wAAAAJ",
+      "affiliation": "College of Computer Science and Technology at Jilin University",
+      "citedby": 1139,
+      "interests": [
+        "RNA Structure Prediction",
+        "Cross-kingdom Regulation",
+        "Muti-omics Data Integration"
+      ],
+      "papers": [
+        {
+          "title": "A new method of RNA secondary structure prediction based on convolutional neural network and dynamic programming",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "rna",
+            "secondary",
+            "structure",
+            "prediction",
+            "convolutional"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jianhua Jiang (姜建华)",
+      "scholar_id": "4_Ql2oIAAAAJ",
+      "affiliation": "Professor of Computer Science, Jilin University of Finance and Economics, 院长, AI研究中心主任",
+      "citedby": 892,
+      "interests": [
+        "Besiege and Conquer Algorithm",
+        "Evolutionary Computation",
+        "Fintech"
+      ],
+      "papers": [
+        {
+          "title": "REDPC: A residual error-based density peak clustering algorithm",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "redpc",
+            "residual",
+            "error",
+            "density",
+            "peak"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zhu Yungang",
+      "scholar_id": "0tOHAuIAAAAJ",
+      "affiliation": "College of Computer Science and Technology, Jilin University",
+      "citedby": 476,
+      "interests": [
+        "Artificial Intelligence",
+        "machine learning",
+        "data ming",
+        "probabilistic graphical models",
+        "Bayesian networks"
+      ],
+      "papers": [
+        {
+          "title": "Feature selection based on improved ant colony optimization for online detection of foreign fiber in cotton",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "feature",
+            "selection",
+            "improved",
+            "ant",
+            "colony"
+          ]
+        }
+      ]
+    }
+  ],
+  "Beijing Jiaotong University": [
+    {
+      "name": "Bo Ai",
+      "scholar_id": "SEBzq_EAAAAJ",
+      "affiliation": "Beijing Jiaotong University",
+      "citedby": 28383,
+      "interests": [
+        "Wireless Mobile Communication"
+      ],
+      "papers": [
+        {
+          "title": "Challenges toward wireless communications for high-speed railway",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "challenges",
+            "toward",
+            "wireless",
+            "communications",
+            "high"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "siwei luo",
+      "scholar_id": "0umoNNgAAAAJ",
+      "affiliation": "professor of computer science, Beijing Jiaotong University",
+      "citedby": 2896,
+      "interests": [],
+      "papers": [
+        {
+          "title": "The improvements of BP neural network learning algorithm",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "improvements",
+            "neural",
+            "algorithm"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Songhe Feng",
+      "scholar_id": "K5lqMYgAAAAJ",
+      "affiliation": "Professor in School of Computer Science and Technology, Beijing Jiaotong University",
+      "citedby": 2416,
+      "interests": [
+        "multi-view learning",
+        "zero-shot learning",
+        "partial-label learning",
+        "multi-label learning"
+      ],
+      "papers": [
+        {
+          "title": "Attention-driven salient edge (s) and region (s) extraction with application to CBIR",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "attention",
+            "driven",
+            "salient",
+            "edge",
+            "region"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zou Qi",
+      "scholar_id": "mECaKR4AAAAJ",
+      "affiliation": "Associate Professor of Computer Science, Beijing Jiaotong University",
+      "citedby": 1049,
+      "interests": [
+        "computer vision",
+        "pattern recognition"
+      ],
+      "papers": [
+        {
+          "title": "Effects of image degradation and degradation removal to CNN-based image classification",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "image",
+            "degradation",
+            "effects",
+            "removal",
+            "cnn"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dong Wang",
+      "scholar_id": "6HZfh-IAAAAJ",
+      "affiliation": "School of Computer Science and Information Technology, Beijing Jiaotong University",
+      "citedby": 937,
+      "interests": [
+        "FPGA",
+        "Deep Learning",
+        "SoC",
+        "OpenCL",
+        "Parallel Computing"
+      ],
+      "papers": [
+        {
+          "title": "PipeCNN: An OpenCL-based open-source FPGA accelerator for convolution neural networks",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "pipecnn",
+            "opencl",
+            "open",
+            "source",
+            "fpga"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Haiyang Liu",
+      "scholar_id": "w0CAJKwAAAAJ",
+      "affiliation": "Ph.D of Computer Science and Information Technology, Beijing Jiaotong University",
+      "citedby": 218,
+      "interests": [
+        "Data Mining"
+      ],
+      "papers": [
+        {
+          "title": "A time series classification method for behaviour-based dropout prediction",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "time",
+            "series",
+            "classification",
+            "behaviour",
+            "dropout"
+          ]
+        }
+      ]
+    }
+  ],
+  "Beijing Institute of Technology": [
+    {
+      "name": "Ai Shigang",
+      "scholar_id": "8_5GDdMAAAAJ",
+      "affiliation": "Beijing Institute of Technology",
+      "citedby": 2301,
+      "interests": [
+        "Image-based FEM",
+        "Woven composites",
+        "High-temperature mechanics"
+      ],
+      "papers": [
+        {
+          "title": "3D printed reversible shape changing components with stimuli responsive materials",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "printed",
+            "reversible",
+            "shape",
+            "changing",
+            "components"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chang-ai Sun",
+      "scholar_id": "RgeJefYAAAAJ",
+      "affiliation": "Professor, University of Science and Technology Beijing",
+      "citedby": 1680,
+      "interests": [
+        "Software Engineering",
+        "Service Oriented Computing"
+      ],
+      "papers": [
+        {
+          "title": "软件体系结构研究综述",
+          "year": null,
+          "venue": null,
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "Jiapu Wang (王家普)",
+      "scholar_id": "k8YPCRgAAAAJ",
+      "affiliation": "Beijing Institute of Artificial Intelligence, Beijing University of Technology",
+      "citedby": 1147,
+      "interests": [
+        "Machine Learning",
+        "Deep Learning",
+        "Knowledge Graph",
+        "Large Language Model"
+      ],
+      "papers": [
+        {
+          "title": "Unifying large language models and knowledge graphs: A roadmap",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "unifying",
+            "large",
+            "language",
+            "models",
+            "knowledge"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yuan Ai",
+      "scholar_id": "oAh7ZtkAAAAJ",
+      "affiliation": "Beijing University of Technology",
+      "citedby": 891,
+      "interests": [
+        "wireless communication",
+        "NOMA",
+        "6G"
+      ],
+      "papers": [
+        {
+          "title": "Edge computing technologies for Internet of Things: a primer",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "edge",
+            "computing",
+            "technologies",
+            "internet",
+            "things"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "qiang ai",
+      "scholar_id": "3ScRb4IAAAAJ",
+      "affiliation": "Beijing Institute of technology",
+      "citedby": 326,
+      "interests": [
+        "Electric Vehicles",
+        "PMSM"
+      ],
+      "papers": [
+        {
+          "title": "Deep reinforcement learning based direct torque control strategy for distributed drive electric vehicles considering active safety and energy saving performance",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "deep",
+            "reinforcement",
+            "direct",
+            "torque",
+            "control"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wu Jianping",
+      "scholar_id": "Y-nqSYgAAAAJ",
+      "affiliation": "Department of Computer Science and Technology, Tsinghua University, Beijing 100084, PR China",
+      "citedby": 10920,
+      "interests": [
+        "compute",
+        "network",
+        "security"
+      ],
+      "papers": [
+        {
+          "title": "A 5-microRNA signature for lung squamous cell carcinoma diagnosis and hsa-miR-31 for prognosis",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "microrna",
+            "signature",
+            "lung",
+            "squamous",
+            "cell"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "yunde jia",
+      "scholar_id": "Sl6TV7gAAAAJ",
+      "affiliation": "Professor of Computer Science, Beijing Institute of Technology",
+      "citedby": 9540,
+      "interests": [
+        "computer vision",
+        "intelligent systems"
+      ],
+      "papers": [
+        {
+          "title": "Go-ICP: A globally optimal solution to 3D ICP point-set registration",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "icp",
+            "globally",
+            "optimal",
+            "solution",
+            "point"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fan Li (李凡)",
+      "scholar_id": "7KohfEEAAAAJ",
+      "affiliation": "Professor of School of Computer Science, Beijing Institute of Technology",
+      "citedby": 7640,
+      "interests": [
+        "Smart Sensing & Mobile Computing"
+      ],
+      "papers": [
+        {
+          "title": "Routing in vehicular ad hoc networks: A survey",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "routing",
+            "vehicular",
+            "hoc",
+            "networks",
+            "survey"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wei Hu",
+      "scholar_id": "ACJickwAAAAJ",
+      "affiliation": "Computer Science Department, Beijing University of Chemical Technology",
+      "citedby": 4036,
+      "interests": [
+        "Computer Vision",
+        "AI",
+        "Computer Graphics"
+      ],
+      "papers": [
+        {
+          "title": "Deep convolutional neural networks for hyperspectral image classification",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "deep",
+            "convolutional",
+            "neural",
+            "networks",
+            "hyperspectral"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ying Chen",
+      "scholar_id": "fqkhUegAAAAJ",
+      "affiliation": "School of Computer Science, Beijing Information Science and Technology University",
+      "citedby": 3477,
+      "interests": [
+        "edge computing",
+        "cloud computing",
+        "service computing",
+        "resource management",
+        "task scheduling"
+      ],
+      "papers": [
+        {
+          "title": "Energy efficient dynamic offloading in mobile edge computing for internet of things",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "energy",
+            "efficient",
+            "dynamic",
+            "offloading",
+            "mobile"
+          ]
+        }
+      ]
+    }
+  ],
+  "Nanjing University of Aeronautics and Astronautics": [
+    {
+      "name": "Jiao Tang",
+      "scholar_id": "lfghkQgAAAAJ",
+      "affiliation": "College of Artificial Intelligence, Nanjing University of Aeronautics and Astronautics",
+      "citedby": 35,
+      "interests": [
+        "Medical Image Analysis"
+      ],
+      "papers": [
+        {
+          "title": "Circumventing drug resistance in gastric cancer: a spatial multi-omics exploration of chemo and immuno-therapeutic response dynamics",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "circumventing",
+            "drug",
+            "resistance",
+            "gastric",
+            "cancer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xiaojun Zhu(朱小军)",
+      "scholar_id": "Fz8BrwIAAAAJ",
+      "affiliation": "Professor of Computer Science, Nanjing University of Aeronautics and Astronautics",
+      "citedby": 1152,
+      "interests": [
+        "Wireless Sensor Networks",
+        "Vehicular Networks",
+        "RFID System",
+        "Smartphone",
+        "UAV Networks"
+      ],
+      "papers": [
+        {
+          "title": "Maximizing lifetime for the shortest path aggregation tree in wireless sensor networks",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "maximizing",
+            "lifetime",
+            "shortest",
+            "path",
+            "aggregation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Liang Liu",
+      "scholar_id": "3_WEhvgAAAAJ",
+      "affiliation": "College of Computer Science And Technology, Nanjing University of Aeronautics and Astronautics",
+      "citedby": 1070,
+      "interests": [
+        "system security",
+        "system software",
+        "database"
+      ],
+      "papers": [
+        {
+          "title": "Energy efficient scheduling of virtual machines in cloud with deadline constraint",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "energy",
+            "efficient",
+            "scheduling",
+            "virtual",
+            "machines"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xingyu Zhao (赵星宇)",
+      "scholar_id": "JkOe0rEAAAAJ",
+      "affiliation": "College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics",
+      "citedby": 447,
+      "interests": [
+        "machine learning",
+        "data mining",
+        "pattern recognition"
+      ],
+      "papers": [
+        {
+          "title": "A review on multi-class TWSVM",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "review",
+            "multi",
+            "class",
+            "twsvm"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Junhua Wang",
+      "scholar_id": "aRQKw90AAAAJ",
+      "affiliation": "College of Computer Science, Nanjing University of Aeronautics and Astronautics",
+      "citedby": 348,
+      "interests": [
+        "Vehicular network",
+        "Edge computing",
+        "SDN in 5G"
+      ],
+      "papers": [
+        {
+          "title": "Network-coding-assisted data dissemination via cooperative vehicle-to-vehicle/-infrastructure communications",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "vehicle",
+            "coding",
+            "assisted",
+            "data",
+            "dissemination"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jiping Zheng (郑吉平)",
+      "scholar_id": "BCHvUSAAAAAJ",
+      "affiliation": "Associate Professor of Computer Science,  Nanjing University of Aeronautics and Astronautics",
+      "citedby": 259,
+      "interests": [
+        "Regret Minimization Query",
+        "Skyline Computation",
+        "Video Summarization",
+        "Submodularity"
+      ],
+      "papers": [
+        {
+          "title": "A robust algorithm for watermark numeric relational databases",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "robust",
+            "algorithm",
+            "watermark",
+            "numeric",
+            "relational"
+          ]
+        }
+      ]
+    }
+  ],
+  "Tianjin University": [
+    {
+      "name": "Tian Jin",
+      "scholar_id": "Fsv6T9EAAAAJ",
+      "affiliation": "Professor of Artificial Intelligence, Central South University",
+      "citedby": 7607,
+      "interests": [
+        "AI"
+      ],
+      "papers": [
+        {
+          "title": "Receptor-mediated activation of heterotrimeric G-proteins in living cells",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "receptor",
+            "mediated",
+            "activation",
+            "heterotrimeric",
+            "proteins"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jin Tian",
+      "scholar_id": "T0crkfoAAAAJ",
+      "affiliation": "Mohamed bin Zayed University of Artificial Intelligence",
+      "citedby": 3541,
+      "interests": [
+        "artificial intelligence",
+        "machine learning",
+        "causal inference"
+      ],
+      "papers": [
+        {
+          "title": "A general identification condition for causal effects",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "general",
+            "identification",
+            "condition",
+            "causal",
+            "effects"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lin Sun",
+      "scholar_id": "v1YY6aAAAAAJ",
+      "affiliation": "Professor of College of Artificial Intelligence, Tianjin University of Science and Technology",
+      "citedby": 1277,
+      "interests": [
+        "Data mining",
+        "Web mining",
+        "Graph machine learning",
+        "Uncertainty"
+      ],
+      "papers": [
+        {
+          "title": "Feature selection using neighborhood entropy-based uncertainty measures for gene expression data classification",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "feature",
+            "selection",
+            "neighborhood",
+            "entropy",
+            "uncertainty"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Minhua Ai",
+      "scholar_id": "vUHBz80AAAAJ",
+      "affiliation": "Tianjin University",
+      "citedby": 792,
+      "interests": [
+        "photocatalysis"
+      ],
+      "papers": [
+        {
+          "title": "Manipulating spin polarization of titanium dioxide for efficient photocatalysis",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "manipulating",
+            "spin",
+            "polarization",
+            "titanium",
+            "dioxide"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yuan Wang",
+      "scholar_id": "N5EMBmMAAAAJ",
+      "affiliation": "College of Artificial Intelligence, Tianjin University of Science and Technology.",
+      "citedby": 543,
+      "interests": [
+        "Artificial intelligence",
+        "Data mining",
+        "recommended system",
+        "natural language processing"
+      ],
+      "papers": [
+        {
+          "title": "Using hashtag graph-based topic model to connect semantically-related words without co-occurrence in microblogs",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "hashtag",
+            "graph",
+            "topic",
+            "connect",
+            "semantically"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Qinghua Hu",
+      "scholar_id": "TVSNq_wAAAAJ",
+      "affiliation": "Professor of Computer Science, Tianjin University",
+      "citedby": 39685,
+      "interests": [
+        "Machine learning",
+        "Data Mining"
+      ],
+      "papers": [
+        {
+          "title": "ECA-Net: Efficient channel attention for deep convolutional neural networks",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "eca",
+            "net",
+            "efficient",
+            "channel",
+            "attention"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wei Feng",
+      "scholar_id": "7ory1i8AAAAJ",
+      "affiliation": "School of Computer Science and Technology, College of Intelligence and Computing, Tianjin University",
+      "citedby": 7888,
+      "interests": [
+        "Computer Vision",
+        "Image Processing",
+        "Machine Learning"
+      ],
+      "papers": [
+        {
+          "title": "Learning Dynamic Siamese Network for Visual Object Tracking",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "dynamic",
+            "siamese",
+            "visual",
+            "object",
+            "tracking"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zhiyong Feng",
+      "scholar_id": "PqwtAv8AAAAJ",
+      "affiliation": "Tianjin University, College of Intelligence and Computing, School of Computer Science and Technology, Tianjin Key Laboratory of Cognitive Computing and Application, Tianjin, China",
+      "citedby": 5752,
+      "interests": [
+        "Knowledge Engineering (Knowledge Graph) 、Service computing (cloud services",
+        "mobile internet",
+        "social computing) 、Computer Cognition"
+      ],
+      "papers": [
+        {
+          "title": "LSTM with sentence representations for document-level sentiment classification",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "lstm",
+            "sentence",
+            "representations",
+            "document",
+            "level"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yahong Han",
+      "scholar_id": "t4283loAAAAJ",
+      "affiliation": "Professor of Computer Science, Tianjin University",
+      "citedby": 4769,
+      "interests": [
+        "Multimedia"
+      ],
+      "papers": [
+        {
+          "title": "Reasoning with heterogeneous graph alignment for video question answering",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "reasoning",
+            "heterogeneous",
+            "graph",
+            "alignment",
+            "video"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dongxiao He",
+      "scholar_id": "JyqwTr4AAAAJ",
+      "affiliation": "Tianjin University, Professor of Computer Science",
+      "citedby": 3873,
+      "interests": [
+        "Graph machine learning",
+        "Network mining"
+      ],
+      "papers": [
+        {
+          "title": "A survey of community detection approaches: From statistical modeling to deep learning",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "survey",
+            "community",
+            "detection",
+            "approaches",
+            "statistical"
+          ]
+        }
+      ]
+    }
+  ],
+  "Nankai University": [
+    {
+      "name": "Boyuan Yang",
+      "scholar_id": "lZrXynkAAAAJ",
+      "affiliation": "Associate Professor of Artificial Intelligence, Nankai University",
+      "citedby": 4185,
+      "interests": [
+        "machine learning",
+        "fault diagnosis"
+      ],
+      "papers": [
+        {
+          "title": "Artificial intelligence for fault diagnosis of rotating machinery: A review",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "artificial",
+            "intelligence",
+            "fault",
+            "diagnosis",
+            "rotating"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Han Zhang",
+      "scholar_id": "qBIW8eYAAAAJ",
+      "affiliation": "Professor of Artificial Intelligence,Nankai University",
+      "citedby": 4108,
+      "interests": [
+        "machine learning",
+        "deep learning",
+        "bioinformatics"
+      ],
+      "papers": [
+        {
+          "title": "dbCAN2: a meta server for automated carbohydrate-active enzyme annotation",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "dbcan",
+            "meta",
+            "server",
+            "automated",
+            "carbohydrate"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yanding Qin（秦岩丁）",
+      "scholar_id": "TYv2TawAAAAJ",
+      "affiliation": "College of Artificial Intelligence, Nankai University",
+      "citedby": 2030,
+      "interests": [
+        "Micro/nano manipulation robot",
+        "medical robot"
+      ],
+      "papers": [
+        {
+          "title": "A novel direct inverse modeling approach for hysteresis compensation of piezoelectric actuator in feedforward applications",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "novel",
+            "direct",
+            "inverse",
+            "modeling",
+            "hysteresis"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jin Tao",
+      "scholar_id": "54vg5qoAAAAJ",
+      "affiliation": "Senior AI Scientist @ Silo AI, Associate Professor @ Nankai University",
+      "citedby": 1482,
+      "interests": [
+        "Reinforcement Learning",
+        "complex system modeling and control",
+        "machine learning"
+      ],
+      "papers": [
+        {
+          "title": "Folo: Latency and quality optimized task allocation in vehicular fog computing",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "folo",
+            "latency",
+            "quality",
+            "optimized",
+            "task"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hui Chen (陈晖)",
+      "scholar_id": "Rbe8uRsAAAAJ",
+      "affiliation": "Lightelligence, GlobalFoundries, Stevens Institute of Technology, Nankai University",
+      "citedby": 433,
+      "interests": [
+        "semiconductor packaging",
+        "fiber optics",
+        "sapphire fiber",
+        "surface-enhanced Raman scattering",
+        "anodized aluminum oxide"
+      ],
+      "papers": [
+        {
+          "title": "Review and perspective: Sapphire optical fiber cladding development for harsh environment sensing",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "review",
+            "perspective",
+            "sapphire",
+            "optical",
+            "fiber"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ming-Ming Cheng",
+      "scholar_id": "huWpVyEAAAAJ",
+      "affiliation": "Professor of Computer Science, Nankai University",
+      "citedby": 63371,
+      "interests": [
+        "Computer Vision",
+        "Computer Graphics",
+        "Visual Attention",
+        "Saliency"
+      ],
+      "papers": [
+        {
+          "title": "Global contrast based salient region detection",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "global",
+            "contrast",
+            "salient",
+            "region",
+            "detection"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yun Liu",
+      "scholar_id": "UB3doCoAAAAJ",
+      "affiliation": "Professor of Computer Science, Nankai University",
+      "citedby": 8295,
+      "interests": [
+        "Computer Vision"
+      ],
+      "papers": [
+        {
+          "title": "Structure-measure: A New Way to Evaluate Foreground Maps",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "structure",
+            "measure",
+            "way",
+            "evaluate",
+            "foreground"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bo Ning (宁博)",
+      "scholar_id": "Pubrhj4AAAAJ",
+      "affiliation": "Associate Professor, College of Computer Science, Nankai University, P.R. China",
+      "citedby": 1306,
+      "interests": [
+        "Structural graph theory",
+        "Extremal graph theory",
+        "Spectral graph theory"
+      ],
+      "papers": [
+        {
+          "title": "Eigenvalues and triangles in graphs",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "eigenvalues",
+            "triangles",
+            "graphs"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wenhao Tang",
+      "scholar_id": "LexKIRcAAAAJ",
+      "affiliation": "PhD of Computer Science, Nankai University",
+      "citedby": 178,
+      "interests": [
+        "computer vision",
+        "deep learning"
+      ],
+      "papers": [
+        {
+          "title": "Multiple instance learning framework with masked hard instance mining for whole slide image classification",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "instance",
+            "multiple",
+            "framework",
+            "masked",
+            "hard"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "李林轩",
+      "scholar_id": "LJzZEXUAAAAJ",
+      "affiliation": "PhD Candidate in Computer Science and Technology, nankai university",
+      "citedby": 40,
+      "interests": [
+        "Generative models",
+        "Computer Vision",
+        "Deep Learning"
+      ],
+      "papers": [
+        {
+          "title": "Faster diffusion: Rethinking the role of unet encoder in diffusion models",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "diffusion",
+            "faster",
+            "rethinking",
+            "role",
+            "unet"
+          ]
+        }
+      ]
+    }
+  ],
+  "University of Electronic Science and Technology of China": [
+    {
+      "name": "Wenjie Ai",
+      "scholar_id": "uA8pHd8AAAAJ",
+      "affiliation": "University of Electronic Science  and Technology  of China",
+      "citedby": 138,
+      "interests": [
+        "Deep-Learning",
+        "Super-Resolution",
+        "Face Restoration"
+      ],
+      "papers": [
+        {
+          "title": "Joint face image restoration and frontalization for recognition",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "joint",
+            "face",
+            "image",
+            "restoration",
+            "frontalization"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xingjian Ran",
+      "scholar_id": "8AubXI4AAAAJ",
+      "affiliation": "Undergraduate, University of Electronic Science and Technology of China; Shanghai AI Laboratory",
+      "citedby": 47,
+      "interests": [
+        "Computer Vision",
+        "3D vision"
+      ],
+      "papers": [
+        {
+          "title": "GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "gala",
+            "towards",
+            "text",
+            "complex",
+            "scene"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Qingzhong Ai",
+      "scholar_id": "vo9lDq4AAAAJ",
+      "affiliation": "University of Electronic Science and Technology of China",
+      "citedby": 42,
+      "interests": [
+        "Machine learning"
+      ],
+      "papers": [
+        {
+          "title": "Boosting adversarial robustness via self-paced adversarial training",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "adversarial",
+            "boosting",
+            "robustness",
+            "self",
+            "paced"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ai Hu Song",
+      "scholar_id": "L36_dr8AAAAJ",
+      "affiliation": "Candidate of PhD., University of Electronic Science and Technology of China",
+      "citedby": 33,
+      "interests": [
+        "antenna",
+        "phased array",
+        "shared aperture",
+        "packadge"
+      ],
+      "papers": [
+        {
+          "title": "Shared-aperture dual-polarized Ku-band and single-polarized Ka-band phased array antenna with scanning coverage enhancement",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "polarized",
+            "band",
+            "shared",
+            "aperture",
+            "dual"
+          ]
+        }
+      ]
+    }
+  ],
+  "Beijing University of Aeronautics and Astronautics": [
+    {
+      "name": "Boyang Liu",
+      "scholar_id": "QhyVBo4AAAAJ",
+      "affiliation": "Institute of Artificial Intelligence, Beijing University of Astronautics and Aeronautics",
+      "citedby": 0,
+      "interests": [
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Multimodal Large Language Model"
+      ],
+      "papers": [
+        {
+          "title": "Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "rethinking",
+            "multi",
+            "modal",
+            "object",
+            "detection"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yunhong Wang",
+      "scholar_id": "0ez7lA0AAAAJ",
+      "affiliation": "Professor, School of Computer Science and Engineering, Beihang University",
+      "citedby": 32311,
+      "interests": [
+        "Biometrics",
+        "Pattern Recognition",
+        "Image Processing",
+        "Computer Vision"
+      ],
+      "papers": [
+        {
+          "title": "Road extraction by deep residual u-net",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "road",
+            "extraction",
+            "deep",
+            "residual",
+            "net"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Qingjie Liu",
+      "scholar_id": "HsLdRZYAAAAJ",
+      "affiliation": "Associate Professor, School of Computer Science and Engineering, Beihang University",
+      "citedby": 7193,
+      "interests": [
+        "Computer Vision and Pattern Recognition"
+      ],
+      "papers": [
+        {
+          "title": "Road extraction by deep residual u-net",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "road",
+            "extraction",
+            "deep",
+            "residual",
+            "net"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ziwei Zhang",
+      "scholar_id": "AnrzkUUAAAAJ",
+      "affiliation": "Associate Professor, School of Computer Science and Engineering, Beihang University, China",
+      "citedby": 6218,
+      "interests": [
+        "Graph Neural Networks",
+        "Data Mining",
+        "Machine Learning"
+      ],
+      "papers": [
+        {
+          "title": "Deep learning on graphs: A survey",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "deep",
+            "graphs",
+            "survey"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lei Shi",
+      "scholar_id": "NmaU6U0AAAAJ",
+      "affiliation": "Professor, School of Computer Science and Engineering, Beihang University",
+      "citedby": 4245,
+      "interests": [
+        "Visual Analytics",
+        "Data Mining",
+        "AI"
+      ],
+      "papers": [
+        {
+          "title": "Dcell: a scalable and fault-tolerant network structure for data centers",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "dcell",
+            "scalable",
+            "fault",
+            "tolerant",
+            "structure"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yuan Yuan (袁源)",
+      "scholar_id": "ygShHQUAAAAJ",
+      "affiliation": "School of Computer Science and Engineering, Beihang University, China",
+      "citedby": 4097,
+      "interests": [
+        "Computational Intelligence",
+        "Evolutionary Computation",
+        "Multiobjective Optimization",
+        "Machine Learning"
+      ],
+      "papers": [
+        {
+          "title": "A New Dominance Relation-Based Evolutionary Algorithm for Many-Objective Optimization",
+          "year": null,
+          "venue": null,
+          "keywords": [
+            "dominance",
+            "relation",
+            "evolutionary",
+            "algorithm",
+            "many"
+          ]
+        }
+      ]
+    }
+  ]
+}

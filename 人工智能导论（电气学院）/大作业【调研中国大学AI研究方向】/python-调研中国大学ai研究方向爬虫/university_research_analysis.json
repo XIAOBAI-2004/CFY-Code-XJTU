@@ -1,0 +1,5340 @@
+{
+  "Tsinghua University": [
+    {
+      "interest": "Machine Learning",
+      "count": 9,
+      "centrality": 13.386146545410156,
+      "normalized_count": 0.1956521739130435,
+      "raw_importance": 10.457775646707287,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Artificial Intelligence",
+      "count": 1,
+      "centrality": 13.68370246887207,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 8.479787461654,
+      "normalized_importance": 0.7066119805314094
+    },
+    {
+      "interest": "Algorithms",
+      "count": 1,
+      "centrality": 12.668423652648926,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 7.870619885817818,
+      "normalized_importance": 0.6162562999719498
+    },
+    {
+      "interest": "Computer Vision",
+      "count": 4,
+      "centrality": 10.40927791595459,
+      "normalized_count": 0.08695652173913043,
+      "raw_importance": 7.323827714505403,
+      "normalized_importance": 0.535152543430574
+    },
+    {
+      "interest": "Pattern Recognition",
+      "count": 1,
+      "centrality": 11.497214317321777,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 7.167893998519234,
+      "normalized_importance": 0.5120234446587694
+    },
+    {
+      "interest": "Reinforcement Learning",
+      "count": 1,
+      "centrality": 11.172842979431152,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 6.973271481887154,
+      "normalized_importance": 0.4831557723793515
+    },
+    {
+      "interest": "Robotics",
+      "count": 3,
+      "centrality": 9.962158203125,
+      "normalized_count": 0.06521739130434782,
+      "raw_importance": 6.785990574048913,
+      "normalized_importance": 0.4553770550694396
+    },
+    {
+      "interest": "Natural Language Processing",
+      "count": 3,
+      "centrality": 9.872238159179688,
+      "normalized_count": 0.06521739130434782,
+      "raw_importance": 6.732038833784021,
+      "normalized_importance": 0.4473745834961454
+    },
+    {
+      "interest": "Artificial Intelligence of Things",
+      "count": 1,
+      "centrality": 10.388595581054688,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 6.5027228521264115,
+      "normalized_importance": 0.41336095176699067
+    },
+    {
+      "interest": "Algorithm",
+      "count": 1,
+      "centrality": 10.360433578491211,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 6.485825650588326,
+      "normalized_importance": 0.41085464938799693
+    },
+    {
+      "interest": "Information Retrieval",
+      "count": 1,
+      "centrality": 10.096177101135254,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 6.327271573439888,
+      "normalized_importance": 0.38733688167595315
+    },
+    {
+      "interest": "Computational Biology",
+      "count": 1,
+      "centrality": 10.034337997436523,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 6.290168397322945,
+      "normalized_importance": 0.3818334982689127
+    },
+    {
+      "interest": "Social Computing",
+      "count": 1,
+      "centrality": 9.849763870239258,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 6.179423921004585,
+      "normalized_importance": 0.3654071602252128
+    },
+    {
+      "interest": "Parallel Computing",
+      "count": 1,
+      "centrality": 9.847029685974121,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 6.177783124343208,
+      "normalized_importance": 0.36516378663659904
+    },
+    {
+      "interest": "Conversational Ai",
+      "count": 1,
+      "centrality": 9.800117492675781,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 6.149635903731636,
+      "normalized_importance": 0.3609888085597951
+    },
+    {
+      "interest": "Dialogue Systems",
+      "count": 1,
+      "centrality": 9.788470268249512,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 6.142647378341011,
+      "normalized_importance": 0.3599522252076523
+    },
+    {
+      "interest": "Text Generation",
+      "count": 1,
+      "centrality": 9.69798469543457,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 6.088356130019478,
+      "normalized_importance": 0.35189939560032935
+    },
+    {
+      "interest": "Computational Genomics",
+      "count": 1,
+      "centrality": 9.579010963439941,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 6.0169721769249955,
+      "normalized_importance": 0.34131126530790057
+    },
+    {
+      "interest": "Representation Learning And Reasoning",
+      "count": 1,
+      "centrality": 9.183652877807617,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 5.779757134810738,
+      "normalized_importance": 0.3061259937678759
+    },
+    {
+      "interest": "Natural Language Generation",
+      "count": 1,
+      "centrality": 9.12027645111084,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 5.741731278792671,
+      "normalized_importance": 0.3004857525015016
+    },
+    {
+      "interest": "System",
+      "count": 1,
+      "centrality": 9.019506454467773,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 5.6812692808068315,
+      "normalized_importance": 0.2915176373346754
+    },
+    {
+      "interest": "Networking",
+      "count": 1,
+      "centrality": 8.964622497558594,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 5.648338906661324,
+      "normalized_importance": 0.286633190944188
+    },
+    {
+      "interest": "Deep Generative Models",
+      "count": 1,
+      "centrality": 8.722809791564941,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 5.503251187697701,
+      "normalized_importance": 0.2651128407026591
+    },
+    {
+      "interest": "Medical Informatics",
+      "count": 1,
+      "centrality": 8.365873336791992,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 5.289089314833931,
+      "normalized_importance": 0.23334696454627915
+    },
+    {
+      "interest": "Mobile Computing",
+      "count": 1,
+      "centrality": 8.349577903747559,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 5.279312245742134,
+      "normalized_importance": 0.23189676633037193
+    },
+    {
+      "interest": "Edge Computing",
+      "count": 1,
+      "centrality": 8.087956428527832,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 5.122339360610298,
+      "normalized_importance": 0.20861353125995655
+    },
+    {
+      "interest": "Bayesian Methods",
+      "count": 1,
+      "centrality": 7.78596830368042,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 4.941146485701851,
+      "normalized_importance": 0.18173783042771052
+    },
+    {
+      "interest": "Sentiment And Emotion",
+      "count": 1,
+      "centrality": 6.836716175079346,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 4.371595017806343,
+      "normalized_importance": 0.09725826760019546
+    },
+    {
+      "interest": "Numerical Linear Algebra",
+      "count": 1,
+      "centrality": 6.130123138427734,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 3.947639338866524,
+      "normalized_importance": 0.03437441524631277
+    },
+    {
+      "interest": "Adversarial Robustness",
+      "count": 1,
+      "centrality": 6.020893573760986,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 3.8821014093316117,
+      "normalized_importance": 0.02465340503421086
+    },
+    {
+      "interest": "Llms",
+      "count": 1,
+      "centrality": 5.743875980377197,
+      "normalized_count": 0.021739130434782608,
+      "raw_importance": 3.7158909963524858,
+      "normalized_importance": 0.0
+    }
+  ],
+  "Peking University": [
+    {
+      "interest": "Machine Learning",
+      "count": 3,
+      "centrality": 15.426254272460938,
+      "normalized_count": 0.046875,
+      "raw_importance": 10.024502563476563,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Artificial Intelligence",
+      "count": 1,
+      "centrality": 14.916282653808594,
+      "normalized_count": 0.015625,
+      "raw_importance": 9.206019973754882,
+      "normalized_importance": 0.8714442406163386
+    },
+    {
+      "interest": "Deep Learning",
+      "count": 3,
+      "centrality": 12.989180564880371,
+      "normalized_count": 0.046875,
+      "raw_importance": 8.562258529663087,
+      "normalized_importance": 0.7703312269170675
+    },
+    {
+      "interest": "Ml Systems",
+      "count": 1,
+      "centrality": 13.830671310424805,
+      "normalized_count": 0.015625,
+      "raw_importance": 8.554652786254882,
+      "normalized_importance": 0.7691366234743096
+    },
+    {
+      "interest": "Pattern Recognition",
+      "count": 1,
+      "centrality": 13.67416000366211,
+      "normalized_count": 0.015625,
+      "raw_importance": 8.460746383666992,
+      "normalized_importance": 0.754387123549358
+    },
+    {
+      "interest": "Computer Vision",
+      "count": 2,
+      "centrality": 13.019289016723633,
+      "normalized_count": 0.03125,
+      "raw_importance": 8.32407350540161,
+      "normalized_importance": 0.7329204657692195
+    },
+    {
+      "interest": "Large-Scale Optimization",
+      "count": 3,
+      "centrality": 11.723188400268555,
+      "normalized_count": 0.046875,
+      "raw_importance": 7.802663135528564,
+      "normalized_importance": 0.6510246418490815
+    },
+    {
+      "interest": "Human–Computer Interaction",
+      "count": 1,
+      "centrality": 12.169103622436523,
+      "normalized_count": 0.015625,
+      "raw_importance": 7.557712650299072,
+      "normalized_importance": 0.6125512570324521
+    },
+    {
+      "interest": "Visual Information Processing",
+      "count": 1,
+      "centrality": 12.162972450256348,
+      "normalized_count": 0.015625,
+      "raw_importance": 7.554033851623535,
+      "normalized_importance": 0.6119734429612766
+    },
+    {
+      "interest": "Parallel Computing",
+      "count": 1,
+      "centrality": 11.787818908691406,
+      "normalized_count": 0.015625,
+      "raw_importance": 7.328941440582275,
+      "normalized_importance": 0.5766190857687209
+    },
+    {
+      "interest": "Computational Systems Biology",
+      "count": 3,
+      "centrality": 10.653397560119629,
+      "normalized_count": 0.046875,
+      "raw_importance": 7.160788822174072,
+      "normalized_importance": 0.5502080321638197
+    },
+    {
+      "interest": "Mixture-Of-Experts",
+      "count": 1,
+      "centrality": 11.454547882080078,
+      "normalized_count": 0.015625,
+      "raw_importance": 7.128978824615478,
+      "normalized_importance": 0.5452117641387076
+    },
+    {
+      "interest": "Distributed Signal Processing",
+      "count": 3,
+      "centrality": 10.551102638244629,
+      "normalized_count": 0.046875,
+      "raw_importance": 7.0994117736816404,
+      "normalized_importance": 0.5405677866940225
+    },
+    {
+      "interest": "Stochastic Models",
+      "count": 3,
+      "centrality": 10.51756763458252,
+      "normalized_count": 0.046875,
+      "raw_importance": 7.079290676116943,
+      "normalized_importance": 0.5374074470489948
+    },
+    {
+      "interest": "Natural Language Processing",
+      "count": 3,
+      "centrality": 10.442008972167969,
+      "normalized_count": 0.046875,
+      "raw_importance": 7.033955860137939,
+      "normalized_importance": 0.5302868903409026
+    },
+    {
+      "interest": "Approximate Computing",
+      "count": 1,
+      "centrality": 11.00896167755127,
+      "normalized_count": 0.015625,
+      "raw_importance": 6.861627197265625,
+      "normalized_importance": 0.5032199222742335
+    },
+    {
+      "interest": "Big Data Analytics",
+      "count": 1,
+      "centrality": 10.92192268371582,
+      "normalized_count": 0.015625,
+      "raw_importance": 6.809403991699218,
+      "normalized_importance": 0.49501743399489045
+    },
+    {
+      "interest": "Brain Network",
+      "count": 1,
+      "centrality": 10.806790351867676,
+      "normalized_count": 0.015625,
+      "raw_importance": 6.740324592590332,
+      "normalized_importance": 0.4841674113777573
+    },
+    {
+      "interest": "Human Behavior Analysis",
+      "count": 1,
+      "centrality": 10.164204597473145,
+      "normalized_count": 0.015625,
+      "raw_importance": 6.354773139953613,
+      "normalized_importance": 0.4236103996616727
+    },
+    {
+      "interest": "Combinatorial Optimization",
+      "count": 1,
+      "centrality": 10.142159461975098,
+      "normalized_count": 0.015625,
+      "raw_importance": 6.341546154022216,
+      "normalized_importance": 0.4215328903265677
+    },
+    {
+      "interest": "Visual Motion Tracking",
+      "count": 1,
+      "centrality": 9.844596862792969,
+      "normalized_count": 0.015625,
+      "raw_importance": 6.163008308410644,
+      "normalized_importance": 0.3934906709690084
+    },
+    {
+      "interest": "Graph Mining",
+      "count": 1,
+      "centrality": 9.82666301727295,
+      "normalized_count": 0.015625,
+      "raw_importance": 6.1522480010986325,
+      "normalized_importance": 0.39180059289640384
+    },
+    {
+      "interest": "Large Language Model",
+      "count": 2,
+      "centrality": 9.367668151855469,
+      "normalized_count": 0.03125,
+      "raw_importance": 6.133101177215576,
+      "normalized_importance": 0.38879327848925377
+    },
+    {
+      "interest": "Search Engine And Web Mining",
+      "count": 1,
+      "centrality": 9.411604881286621,
+      "normalized_count": 0.015625,
+      "raw_importance": 5.903213119506836,
+      "normalized_importance": 0.35268568841573544
+    },
+    {
+      "interest": "Database",
+      "count": 1,
+      "centrality": 9.393545150756836,
+      "normalized_count": 0.015625,
+      "raw_importance": 5.892377471923828,
+      "normalized_importance": 0.35098377695061683
+    },
+    {
+      "interest": "Algorithmic Game Theory",
+      "count": 1,
+      "centrality": 9.159005165100098,
+      "normalized_count": 0.015625,
+      "raw_importance": 5.7516532897949215,
+      "normalized_importance": 0.328880797211759
+    },
+    {
+      "interest": "Medical Image Analysis",
+      "count": 1,
+      "centrality": 9.105741500854492,
+      "normalized_count": 0.015625,
+      "raw_importance": 5.71969518661499,
+      "normalized_importance": 0.32386126683402117
+    },
+    {
+      "interest": "Ai4S",
+      "count": 3,
+      "centrality": 7.98180627822876,
+      "normalized_count": 0.046875,
+      "raw_importance": 5.557833957672119,
+      "normalized_importance": 0.29843837639893067
+    },
+    {
+      "interest": "Neuroimaging",
+      "count": 1,
+      "centrality": 8.807595252990723,
+      "normalized_count": 0.015625,
+      "raw_importance": 5.5408073425292965,
+      "normalized_importance": 0.2957640746276942
+    },
+    {
+      "interest": "Environmental Reinforcement Learning",
+      "count": 2,
+      "centrality": 8.22671890258789,
+      "normalized_count": 0.03125,
+      "raw_importance": 5.4485313415527346,
+      "normalized_importance": 0.2812706553083374
+    },
+    {
+      "interest": "Multi-Modality",
+      "count": 1,
+      "centrality": 8.012734413146973,
+      "normalized_count": 0.015625,
+      "raw_importance": 5.06389102935791,
+      "normalized_importance": 0.22085675274678307
+    },
+    {
+      "interest": "Healthcare",
+      "count": 1,
+      "centrality": 7.873878002166748,
+      "normalized_count": 0.015625,
+      "raw_importance": 4.980577087402343,
+      "normalized_importance": 0.20777096789339217
+    },
+    {
+      "interest": "Body Posture Tracking",
+      "count": 1,
+      "centrality": 7.777812957763672,
+      "normalized_count": 0.015625,
+      "raw_importance": 4.922937965393066,
+      "normalized_importance": 0.19871782346104716
+    },
+    {
+      "interest": "Nonlinear Dynamics",
+      "count": 3,
+      "centrality": 6.775798320770264,
+      "normalized_count": 0.046875,
+      "raw_importance": 4.834229278564453,
+      "normalized_importance": 0.18478470778774053
+    },
+    {
+      "interest": "Computing System Virtualization",
+      "count": 1,
+      "centrality": 7.5972418785095215,
+      "normalized_count": 0.015625,
+      "raw_importance": 4.814595317840576,
+      "normalized_importance": 0.18170088076165156
+    },
+    {
+      "interest": "Web Technology Enabled Social Sciences",
+      "count": 1,
+      "centrality": 6.6263604164123535,
+      "normalized_count": 0.015625,
+      "raw_importance": 4.232066488265991,
+      "normalized_importance": 0.09020542687019964
+    },
+    {
+      "interest": "Single-Cell Multiomics",
+      "count": 3,
+      "centrality": 5.765547752380371,
+      "normalized_count": 0.046875,
+      "raw_importance": 4.228078889846802,
+      "normalized_importance": 0.0895791108686946
+    },
+    {
+      "interest": "Foundation Models",
+      "count": 1,
+      "centrality": 6.5066022872924805,
+      "normalized_count": 0.015625,
+      "raw_importance": 4.160211420059204,
+      "normalized_importance": 0.07891944110228073
+    },
+    {
+      "interest": "Wireless Mobile Communication",
+      "count": 1,
+      "centrality": 6.390065670013428,
+      "normalized_count": 0.015625,
+      "raw_importance": 4.090289449691772,
+      "normalized_importance": 0.06793707921570273
+    },
+    {
+      "interest": "Alzheimer'S Disease",
+      "count": 1,
+      "centrality": 5.904006481170654,
+      "normalized_count": 0.015625,
+      "raw_importance": 3.7986539363861085,
+      "normalized_importance": 0.022131065322356324
+    },
+    {
+      "interest": "Reputation Issues In Cyber Systems",
+      "count": 1,
+      "centrality": 5.669167995452881,
+      "normalized_count": 0.015625,
+      "raw_importance": 3.657750940322876,
+      "normalized_importance": 0.0
+    }
+  ],
+  "Fudan University": [
+    {
+      "interest": "Machine Learning",
+      "count": 2,
+      "centrality": 9.034004211425781,
+      "normalized_count": 0.06896551724137931,
+      "raw_importance": 6.027299078579607,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Deep Learning",
+      "count": 3,
+      "centrality": 8.39260196685791,
+      "normalized_count": 0.10344827586206896,
+      "raw_importance": 5.94590638917068,
+      "normalized_importance": 0.9774110123889015
+    },
+    {
+      "interest": "Artificial Intelligence",
+      "count": 1,
+      "centrality": 9.256077766418457,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 5.8570953171828695,
+      "normalized_importance": 0.9527631942687526
+    },
+    {
+      "interest": "Generative Ai",
+      "count": 1,
+      "centrality": 8.073007583618164,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 5.147253112135262,
+      "normalized_importance": 0.7557600372027017
+    },
+    {
+      "interest": "Pattern Recognition",
+      "count": 1,
+      "centrality": 7.849222183227539,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 5.012981967268319,
+      "normalized_importance": 0.718495643435235
+    },
+    {
+      "interest": "Natural Language Processing",
+      "count": 3,
+      "centrality": 6.650439262390137,
+      "normalized_count": 0.10344827586206896,
+      "raw_importance": 4.900608528071436,
+      "normalized_importance": 0.6873085399709221
+    },
+    {
+      "interest": "Computer Vision",
+      "count": 1,
+      "centrality": 7.619248390197754,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 4.874997691450448,
+      "normalized_importance": 0.6802007410353837
+    },
+    {
+      "interest": "Vision-Language Model",
+      "count": 1,
+      "centrality": 7.264402866363525,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 4.6620903771499105,
+      "normalized_importance": 0.6211123791693169
+    },
+    {
+      "interest": "Embodied Ai",
+      "count": 1,
+      "centrality": 7.2046098709106445,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 4.626214579878182,
+      "normalized_importance": 0.6111557363062484
+    },
+    {
+      "interest": "Multimodal Learning",
+      "count": 1,
+      "centrality": 6.940101146697998,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 4.467509345350594,
+      "normalized_importance": 0.5671101272645235
+    },
+    {
+      "interest": "Large Language Model",
+      "count": 3,
+      "centrality": 5.860411167144775,
+      "normalized_count": 0.10344827586206896,
+      "raw_importance": 4.426591623240504,
+      "normalized_importance": 0.5557541943849077
+    },
+    {
+      "interest": "Trustworthy Ai",
+      "count": 1,
+      "centrality": 6.798498630523682,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 4.382547454176278,
+      "normalized_importance": 0.5435305758196781
+    },
+    {
+      "interest": "Information Retrieval",
+      "count": 1,
+      "centrality": 6.782839775085449,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 4.3731523316482015,
+      "normalized_importance": 0.5409231388627148
+    },
+    {
+      "interest": "Reasoning",
+      "count": 1,
+      "centrality": 6.598499298095703,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 4.262548045454354,
+      "normalized_importance": 0.5102270300510902
+    },
+    {
+      "interest": "Mllm",
+      "count": 1,
+      "centrality": 6.472161293029785,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 4.186745242414803,
+      "normalized_importance": 0.48918940872193006
+    },
+    {
+      "interest": "Medical Image",
+      "count": 1,
+      "centrality": 5.810686111450195,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 3.7898600857833338,
+      "normalized_importance": 0.37904150783202784
+    },
+    {
+      "interest": "Rlhf",
+      "count": 1,
+      "centrality": 4.808122634887695,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 3.188321904478402,
+      "normalized_importance": 0.21209606563351246
+    },
+    {
+      "interest": "Safety",
+      "count": 1,
+      "centrality": 4.712690353393555,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 3.1310625832656336,
+      "normalized_importance": 0.19620483379330658
+    },
+    {
+      "interest": "Cancer Biology",
+      "count": 1,
+      "centrality": 3.9904849529266357,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 2.697739438352914,
+      "normalized_importance": 0.07594426465474663
+    },
+    {
+      "interest": "Foundation Model",
+      "count": 1,
+      "centrality": 3.817927837371826,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 2.594204978285165,
+      "normalized_importance": 0.04721025116070878
+    },
+    {
+      "interest": "Transcriptional Regulation",
+      "count": 1,
+      "centrality": 3.544358253479004,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 2.430063323316903,
+      "normalized_importance": 0.001655867376744763
+    },
+    {
+      "interest": "Epigenetics",
+      "count": 1,
+      "centrality": 3.534414291381836,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 2.4240968983748865,
+      "normalized_importance": 0.0
+    }
+  ],
+  "Zhejiang University": [
+    {
+      "interest": "Machine Learning",
+      "count": 5,
+      "centrality": 13.065823554992676,
+      "normalized_count": 0.10638297872340426,
+      "raw_importance": 9.328855930490697,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Artificial Intelligence",
+      "count": 2,
+      "centrality": 13.632862091064453,
+      "normalized_count": 0.0425531914893617,
+      "raw_importance": 8.77546269842919,
+      "normalized_importance": 0.921581448955626
+    },
+    {
+      "interest": "Computer Vision",
+      "count": 4,
+      "centrality": 11.870626449584961,
+      "normalized_count": 0.0851063829787234,
+      "raw_importance": 8.313865326820537,
+      "normalized_importance": 0.856170824195006
+    },
+    {
+      "interest": "Deep Learning",
+      "count": 2,
+      "centrality": 11.84057331085205,
+      "normalized_count": 0.0425531914893617,
+      "raw_importance": 7.700089048832021,
+      "normalized_importance": 0.7691956976543933
+    },
+    {
+      "interest": "Data Mining",
+      "count": 2,
+      "centrality": 10.98767375946045,
+      "normalized_count": 0.0425531914893617,
+      "raw_importance": 7.18834931799706,
+      "normalized_importance": 0.6966796532235223
+    },
+    {
+      "interest": "Information Retrieval",
+      "count": 1,
+      "centrality": 11.208192825317383,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 7.022788321718257,
+      "normalized_importance": 0.6732188432868302
+    },
+    {
+      "interest": "Image Retrieval",
+      "count": 1,
+      "centrality": 11.133338928222656,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 6.977875983461421,
+      "normalized_importance": 0.6668545433892767
+    },
+    {
+      "interest": "Computational Neuroscience",
+      "count": 1,
+      "centrality": 10.511588096618652,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 6.604825293764155,
+      "normalized_importance": 0.6139914202838744
+    },
+    {
+      "interest": "Ai Agents",
+      "count": 1,
+      "centrality": 10.363822937011719,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 6.51616648410229,
+      "normalized_importance": 0.6014280295732528
+    },
+    {
+      "interest": "Explainable Artificial Intelligence",
+      "count": 1,
+      "centrality": 10.293997764587402,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 6.474271094545405,
+      "normalized_importance": 0.5954912461900304
+    },
+    {
+      "interest": "Generative Models",
+      "count": 1,
+      "centrality": 10.26950740814209,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 6.459576880678218,
+      "normalized_importance": 0.593409003593914
+    },
+    {
+      "interest": "Multimedia Retrieval",
+      "count": 2,
+      "centrality": 9.613724708557129,
+      "normalized_count": 0.0425531914893617,
+      "raw_importance": 6.363979887455068,
+      "normalized_importance": 0.5798624380444368
+    },
+    {
+      "interest": "Probabilistic Inference",
+      "count": 1,
+      "centrality": 10.060933113098145,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 6.334432399019282,
+      "normalized_importance": 0.5756754131661181
+    },
+    {
+      "interest": "Natural Language Processing",
+      "count": 2,
+      "centrality": 9.304986953735352,
+      "normalized_count": 0.0425531914893617,
+      "raw_importance": 6.178737234562002,
+      "normalized_importance": 0.5536126402697585
+    },
+    {
+      "interest": "Ai Security",
+      "count": 1,
+      "centrality": 9.64857292175293,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 6.087016379579585,
+      "normalized_importance": 0.540615342631191
+    },
+    {
+      "interest": "Brain-Machine Interface",
+      "count": 1,
+      "centrality": 9.600634574890137,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 6.058253085359614,
+      "normalized_importance": 0.5365394419419278
+    },
+    {
+      "interest": "Vision And Language",
+      "count": 1,
+      "centrality": 9.147063255310059,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 5.786110675081294,
+      "normalized_importance": 0.49797551984217675
+    },
+    {
+      "interest": "Computational Biology",
+      "count": 1,
+      "centrality": 8.951878547668457,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 5.668999469026606,
+      "normalized_importance": 0.4813802841981547
+    },
+    {
+      "interest": "Biometrics",
+      "count": 1,
+      "centrality": 8.906876564025879,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 5.641998564943354,
+      "normalized_importance": 0.4775541228856842
+    },
+    {
+      "interest": "Working Memory",
+      "count": 1,
+      "centrality": 8.794330596923828,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 5.574470793947261,
+      "normalized_importance": 0.46798510460000087
+    },
+    {
+      "interest": "Eeg",
+      "count": 1,
+      "centrality": 8.463912010192871,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 5.376219546541255,
+      "normalized_importance": 0.4398919248073887
+    },
+    {
+      "interest": "Sparse Representation",
+      "count": 1,
+      "centrality": 8.322978019714355,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 5.291659152254145,
+      "normalized_importance": 0.42790929977413017
+    },
+    {
+      "interest": "Bci",
+      "count": 1,
+      "centrality": 8.079999923706055,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 5.145872390016597,
+      "normalized_importance": 0.40725059635354227
+    },
+    {
+      "interest": "Knowledge Graph",
+      "count": 1,
+      "centrality": 7.855040550231934,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 5.010896956666987,
+      "normalized_importance": 0.3881239115720298
+    },
+    {
+      "interest": "Network Architecture",
+      "count": 1,
+      "centrality": 7.780429363250732,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 4.966130053743403,
+      "normalized_importance": 0.3817802205786759
+    },
+    {
+      "interest": "Digital Library",
+      "count": 1,
+      "centrality": 7.688582897186279,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 4.911022460207026,
+      "normalized_importance": 0.37397120271164014
+    },
+    {
+      "interest": "Computer Animation",
+      "count": 1,
+      "centrality": 7.671667098999023,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 4.900872981294673,
+      "normalized_importance": 0.37253297147921743
+    },
+    {
+      "interest": "Multimodal Llms",
+      "count": 1,
+      "centrality": 7.382946968078613,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 4.727640902742427,
+      "normalized_importance": 0.34798513134053927
+    },
+    {
+      "interest": "Deep Brain Stimulation",
+      "count": 1,
+      "centrality": 7.030416011810303,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 4.516122138246577,
+      "normalized_importance": 0.31801187892350014
+    },
+    {
+      "interest": "Cross-Media Analysis",
+      "count": 1,
+      "centrality": 7.015284061431885,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 4.5070431587543895,
+      "normalized_importance": 0.3167253427400222
+    },
+    {
+      "interest": "Data Security & Privacy",
+      "count": 1,
+      "centrality": 6.7930450439453125,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 4.373699462160151,
+      "normalized_importance": 0.2978298831066117
+    },
+    {
+      "interest": "Addiction",
+      "count": 1,
+      "centrality": 5.752842426300049,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 3.7495780346241405,
+      "normalized_importance": 0.2093887978392725
+    },
+    {
+      "interest": "Person Re-Identification",
+      "count": 1,
+      "centrality": 5.581920623779297,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 3.6470249054279735,
+      "normalized_importance": 0.1948565135056324
+    },
+    {
+      "interest": "Environmental Health",
+      "count": 1,
+      "centrality": 3.4587793350219727,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 2.373140132173579,
+      "normalized_importance": 0.014340756664939027
+    },
+    {
+      "interest": "Iot & Vehicular Security",
+      "count": 1,
+      "centrality": 3.2901103496551514,
+      "normalized_count": 0.02127659574468085,
+      "raw_importance": 2.2719385979023388,
+      "normalized_importance": 0.0
+    }
+  ],
+  "Shanghai Jiao Tong University": [
+    {
+      "interest": "Machine Learning",
+      "count": 3,
+      "centrality": 10.683280944824219,
+      "normalized_count": 0.1,
+      "raw_importance": 7.449968852996826,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Artificial Intelligence",
+      "count": 1,
+      "centrality": 10.945570945739746,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 6.914009424845378,
+      "normalized_importance": 0.9096446201894152
+    },
+    {
+      "interest": "Computer Vision",
+      "count": 2,
+      "centrality": 9.781641006469727,
+      "normalized_count": 0.06666666666666667,
+      "raw_importance": 6.562318032582601,
+      "normalized_importance": 0.8503542939913711
+    },
+    {
+      "interest": "Deep Learning",
+      "count": 1,
+      "centrality": 9.6947660446167,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 6.163526388804118,
+      "normalized_importance": 0.7831235139243578
+    },
+    {
+      "interest": "Cognitive Computing",
+      "count": 1,
+      "centrality": 9.362095832824707,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 5.9639242617289225,
+      "normalized_importance": 0.7494733436771733
+    },
+    {
+      "interest": "Data Mining",
+      "count": 1,
+      "centrality": 9.189875602722168,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 5.860592219034831,
+      "normalized_importance": 0.7320529840868389
+    },
+    {
+      "interest": "Object Detection",
+      "count": 1,
+      "centrality": 8.961800575256348,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 5.723747107187907,
+      "normalized_importance": 0.7089827824881896
+    },
+    {
+      "interest": "Natural Language Processing",
+      "count": 2,
+      "centrality": 8.03345012664795,
+      "normalized_count": 0.06666666666666667,
+      "raw_importance": 5.513403600056966,
+      "normalized_importance": 0.6735217634646823
+    },
+    {
+      "interest": "Big Data",
+      "count": 1,
+      "centrality": 8.522945404052734,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 5.460434290568034,
+      "normalized_importance": 0.6645918672341331
+    },
+    {
+      "interest": "Human-Computer Interactions",
+      "count": 1,
+      "centrality": 8.448732376098633,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 5.41590628306071,
+      "normalized_importance": 0.6570850582870276
+    },
+    {
+      "interest": "Computer Science",
+      "count": 1,
+      "centrality": 8.34579086303711,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 5.354141565958659,
+      "normalized_importance": 0.646672377439342
+    },
+    {
+      "interest": "Sensor Networks",
+      "count": 1,
+      "centrality": 8.102387428283691,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 5.208099219004313,
+      "normalized_importance": 0.6220516486408921
+    },
+    {
+      "interest": "Ai Agent",
+      "count": 1,
+      "centrality": 8.083124160766602,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 5.196541163126628,
+      "normalized_importance": 0.6201031195660287
+    },
+    {
+      "interest": "Vision-Language Models",
+      "count": 1,
+      "centrality": 8.048855781555176,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 5.175980421702067,
+      "normalized_importance": 0.6166368616684655
+    },
+    {
+      "interest": "Cloud Computing",
+      "count": 1,
+      "centrality": 7.974532604217529,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 5.131386610666911,
+      "normalized_importance": 0.6091189591526348
+    },
+    {
+      "interest": "Crowd Sensing",
+      "count": 1,
+      "centrality": 7.747926235198975,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 4.995422693888346,
+      "normalized_importance": 0.5861973149090887
+    },
+    {
+      "interest": "Remote Sensing",
+      "count": 1,
+      "centrality": 7.577764511108398,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 4.893325659434001,
+      "normalized_importance": 0.5689851607028005
+    },
+    {
+      "interest": "Speech And Language",
+      "count": 1,
+      "centrality": 7.457516193389893,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 4.821176382700602,
+      "normalized_importance": 0.556821786089185
+    },
+    {
+      "interest": "Brain Computer Interface",
+      "count": 1,
+      "centrality": 7.381406784057617,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 4.7755111185709636,
+      "normalized_importance": 0.5491232513347628
+    },
+    {
+      "interest": "Large Language Model",
+      "count": 1,
+      "centrality": 7.307875156402588,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 4.731391760508219,
+      "normalized_importance": 0.5416853350572046
+    },
+    {
+      "interest": "Grid Computing",
+      "count": 1,
+      "centrality": 7.285247325897217,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 4.71781525293986,
+      "normalized_importance": 0.5393965228199213
+    },
+    {
+      "interest": "Recommendations",
+      "count": 1,
+      "centrality": 6.458940029144287,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 4.222030731836955,
+      "normalized_importance": 0.4558140791581532
+    },
+    {
+      "interest": "Wireless Sensor Networks",
+      "count": 1,
+      "centrality": 6.144834041595459,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 4.033567282358805,
+      "normalized_importance": 0.42404173658225347
+    },
+    {
+      "interest": "Vehicular Networks",
+      "count": 1,
+      "centrality": 5.878565311431885,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 3.8738060919443766,
+      "normalized_importance": 0.3971081996750385
+    },
+    {
+      "interest": "Multi-Modal Large Language Model",
+      "count": 1,
+      "centrality": 5.676689624786377,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 3.752680632273356,
+      "normalized_importance": 0.37668811498494487
+    },
+    {
+      "interest": "Nanomedicine & Drug Delivery",
+      "count": 1,
+      "centrality": 1.9526994228363037,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 1.518286320368449,
+      "normalized_importance": 0.0
+    }
+  ],
+  "Nanjing University": [
+    {
+      "interest": "Artificial Intelligence",
+      "count": 4,
+      "centrality": 13.673164367675781,
+      "normalized_count": 0.08333333333333333,
+      "raw_importance": 9.270566050211588,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Machine Learning",
+      "count": 3,
+      "centrality": 13.416631698608398,
+      "normalized_count": 0.0625,
+      "raw_importance": 8.849979209899903,
+      "normalized_importance": 0.9313349503397268
+    },
+    {
+      "interest": "Computational Intelligence",
+      "count": 2,
+      "centrality": 12.498557090759277,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 8.032467873891195,
+      "normalized_importance": 0.7978679677701471
+    },
+    {
+      "interest": "Neural Networks",
+      "count": 1,
+      "centrality": 12.723782539367676,
+      "normalized_count": 0.020833333333333332,
+      "raw_importance": 7.900936381022135,
+      "normalized_importance": 0.7763941230748382
+    },
+    {
+      "interest": "Pattern Recognition",
+      "count": 2,
+      "centrality": 11.313921928405762,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 7.321686776479085,
+      "normalized_importance": 0.6818257746401449
+    },
+    {
+      "interest": "Data Mining",
+      "count": 2,
+      "centrality": 11.061263084411621,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 7.170091660817464,
+      "normalized_importance": 0.6570763408788649
+    },
+    {
+      "interest": "Robotic Intelligence",
+      "count": 1,
+      "centrality": 11.099435806274414,
+      "normalized_count": 0.020833333333333332,
+      "raw_importance": 6.92632843653361,
+      "normalized_importance": 0.6172795324756465
+    },
+    {
+      "interest": "Natural Language Processing",
+      "count": 5,
+      "centrality": 9.223669052124023,
+      "normalized_count": 0.10416666666666667,
+      "raw_importance": 6.867534955342611,
+      "normalized_importance": 0.6076809028497445
+    },
+    {
+      "interest": "Bioinformatics",
+      "count": 2,
+      "centrality": 10.258068084716797,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 6.688174279530843,
+      "normalized_importance": 0.5783984609583427
+    },
+    {
+      "interest": "Swarm Intelligence",
+      "count": 2,
+      "centrality": 10.193035125732422,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 6.649154694875081,
+      "normalized_importance": 0.5720281196606322
+    },
+    {
+      "interest": "Computational Biology",
+      "count": 1,
+      "centrality": 10.579889297485352,
+      "normalized_count": 0.020833333333333332,
+      "raw_importance": 6.614600435892741,
+      "normalized_importance": 0.5663867878794522
+    },
+    {
+      "interest": "Machine Translation",
+      "count": 1,
+      "centrality": 10.30447769165039,
+      "normalized_count": 0.020833333333333332,
+      "raw_importance": 6.449353472391764,
+      "normalized_importance": 0.5394085520730366
+    },
+    {
+      "interest": "Efficient Learning",
+      "count": 1,
+      "centrality": 10.17335319519043,
+      "normalized_count": 0.020833333333333332,
+      "raw_importance": 6.370678679148356,
+      "normalized_importance": 0.5265640974508545
+    },
+    {
+      "interest": "Evolutionary Computation",
+      "count": 1,
+      "centrality": 10.014055252075195,
+      "normalized_count": 0.020833333333333332,
+      "raw_importance": 6.275100008646647,
+      "normalized_importance": 0.5109599141349925
+    },
+    {
+      "interest": "Statistical Machine Translation",
+      "count": 2,
+      "centrality": 9.189215660095215,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 6.046863110860189,
+      "normalized_importance": 0.4736979353503024
+    },
+    {
+      "interest": "Computer Vision",
+      "count": 1,
+      "centrality": 9.6005277633667,
+      "normalized_count": 0.020833333333333332,
+      "raw_importance": 6.026983515421549,
+      "normalized_importance": 0.4704523906085584
+    },
+    {
+      "interest": "Generative Model",
+      "count": 1,
+      "centrality": 9.257142066955566,
+      "normalized_count": 0.020833333333333332,
+      "raw_importance": 5.820952192942301,
+      "normalized_importance": 0.4368156962718424
+    },
+    {
+      "interest": "Representation Learning",
+      "count": 1,
+      "centrality": 8.806621551513672,
+      "normalized_count": 0.020833333333333332,
+      "raw_importance": 5.550639883677165,
+      "normalized_importance": 0.3926844815963697
+    },
+    {
+      "interest": "Knowledge Graph",
+      "count": 2,
+      "centrality": 8.297277450561523,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 5.511700185139974,
+      "normalized_importance": 0.3863271825143756
+    },
+    {
+      "interest": "Large Language Models",
+      "count": 1,
+      "centrality": 8.42988109588623,
+      "normalized_count": 0.020833333333333332,
+      "raw_importance": 5.3245957056681315,
+      "normalized_importance": 0.35578048646208665
+    },
+    {
+      "interest": "Self-Adaptive Systems",
+      "count": 1,
+      "centrality": 8.076963424682617,
+      "normalized_count": 0.020833333333333332,
+      "raw_importance": 5.112844721476237,
+      "normalized_importance": 0.32120999958148655
+    },
+    {
+      "interest": "Software Engineering",
+      "count": 1,
+      "centrality": 7.968750953674316,
+      "normalized_count": 0.020833333333333332,
+      "raw_importance": 5.047917620340983,
+      "normalized_importance": 0.31060999454936067
+    },
+    {
+      "interest": "Biometrics",
+      "count": 1,
+      "centrality": 7.439896106719971,
+      "normalized_count": 0.020833333333333332,
+      "raw_importance": 4.730604426066081,
+      "normalized_importance": 0.2588054106812602
+    },
+    {
+      "interest": "Medical Genomics",
+      "count": 1,
+      "centrality": 7.189901351928711,
+      "normalized_count": 0.020833333333333332,
+      "raw_importance": 4.5806076685587565,
+      "normalized_importance": 0.23431692503228532
+    },
+    {
+      "interest": "Switched Systems",
+      "count": 1,
+      "centrality": 6.766406059265137,
+      "normalized_count": 0.020833333333333332,
+      "raw_importance": 4.326510683695475,
+      "normalized_importance": 0.1928330258422085
+    },
+    {
+      "interest": "Networked Control",
+      "count": 1,
+      "centrality": 6.292176246643066,
+      "normalized_count": 0.020833333333333332,
+      "raw_importance": 4.0419726530710856,
+      "normalized_importance": 0.1463793184732829
+    },
+    {
+      "interest": "Molecular Evolution",
+      "count": 1,
+      "centrality": 5.869194984436035,
+      "normalized_count": 0.020833333333333332,
+      "raw_importance": 3.7881837050120035,
+      "normalized_importance": 0.1049457094027016
+    },
+    {
+      "interest": "Software Testing",
+      "count": 1,
+      "centrality": 5.848522186279297,
+      "normalized_count": 0.020833333333333332,
+      "raw_importance": 3.775780216852824,
+      "normalized_importance": 0.10292071468394264
+    },
+    {
+      "interest": "Constrained Control",
+      "count": 1,
+      "centrality": 5.471765995025635,
+      "normalized_count": 0.020833333333333332,
+      "raw_importance": 3.5497265021006266,
+      "normalized_importance": 0.06601516258001579
+    },
+    {
+      "interest": "Wireless Sensor Networks",
+      "count": 1,
+      "centrality": 5.148105621337891,
+      "normalized_count": 0.020833333333333332,
+      "raw_importance": 3.35553027788798,
+      "normalized_importance": 0.03431066757128679
+    },
+    {
+      "interest": "Multilingualism",
+      "count": 1,
+      "centrality": 5.01783561706543,
+      "normalized_count": 0.020833333333333332,
+      "raw_importance": 3.2773680845896402,
+      "normalized_importance": 0.02154990006746038
+    },
+    {
+      "interest": "Deep Leaning",
+      "count": 1,
+      "centrality": 4.797840118408203,
+      "normalized_count": 0.020833333333333332,
+      "raw_importance": 3.1453707377115885,
+      "normalized_importance": 0.0
+    }
+  ],
+  "University of Science and Technology of China": [
+    {
+      "interest": "Machine Learning",
+      "count": 1,
+      "centrality": 3.2049639225006104,
+      "normalized_count": 0.1,
+      "raw_importance": 2.322978401184082,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Data Mining",
+      "count": 1,
+      "centrality": 3.016322135925293,
+      "normalized_count": 0.1,
+      "raw_importance": 2.2097933530807494,
+      "normalized_importance": 0.798052812784547
+    },
+    {
+      "interest": "Wireless Multimedia",
+      "count": 1,
+      "centrality": 2.7164387702941895,
+      "normalized_count": 0.1,
+      "raw_importance": 2.029863381385803,
+      "normalized_importance": 0.47701790324086646
+    },
+    {
+      "interest": "Neuroscience",
+      "count": 1,
+      "centrality": 2.656414270401001,
+      "normalized_count": 0.1,
+      "raw_importance": 1.9938485860824586,
+      "normalized_importance": 0.4127595340346198
+    },
+    {
+      "interest": "Wireless Sensing",
+      "count": 1,
+      "centrality": 2.6375155448913574,
+      "normalized_count": 0.1,
+      "raw_importance": 1.9825093984603883,
+      "normalized_importance": 0.39252791259735365
+    },
+    {
+      "interest": "Renewable Energy",
+      "count": 1,
+      "centrality": 2.553056478500366,
+      "normalized_count": 0.1,
+      "raw_importance": 1.9318340063095094,
+      "normalized_importance": 0.3021117924701871
+    },
+    {
+      "interest": "Isp",
+      "count": 1,
+      "centrality": 2.445788621902466,
+      "normalized_count": 0.1,
+      "raw_importance": 1.8674732685089113,
+      "normalized_importance": 0.18727798549882801
+    },
+    {
+      "interest": "Energy Storage",
+      "count": 1,
+      "centrality": 2.4408962726593018,
+      "normalized_count": 0.1,
+      "raw_importance": 1.8645378589630128,
+      "normalized_importance": 0.18204056491145162
+    },
+    {
+      "interest": "Online Games",
+      "count": 1,
+      "centrality": 2.330343008041382,
+      "normalized_count": 0.1,
+      "raw_importance": 1.798205876350403,
+      "normalized_importance": 0.06368962072303376
+    },
+    {
+      "interest": "Physiology",
+      "count": 1,
+      "centrality": 2.2708497047424316,
+      "normalized_count": 0.1,
+      "raw_importance": 1.762509846687317,
+      "normalized_importance": 0.0
+    }
+  ],
+  "Harbin Institute of Technology": [
+    {
+      "interest": "Computer Vision",
+      "count": 3,
+      "centrality": 6.901991367340088,
+      "normalized_count": 0.15,
+      "raw_importance": 5.161194820404052,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Image Processing",
+      "count": 1,
+      "centrality": 7.307119846343994,
+      "normalized_count": 0.05,
+      "raw_importance": 4.72427209854126,
+      "normalized_importance": 0.8730068472188374
+    },
+    {
+      "interest": "Machine Learning",
+      "count": 2,
+      "centrality": 6.7265191078186035,
+      "normalized_count": 0.1,
+      "raw_importance": 4.7159115600585935,
+      "normalized_importance": 0.8705768267879123
+    },
+    {
+      "interest": "Image And Video Processing",
+      "count": 1,
+      "centrality": 6.83147668838501,
+      "normalized_count": 0.05,
+      "raw_importance": 4.438886013031006,
+      "normalized_importance": 0.7900583601172607
+    },
+    {
+      "interest": "Artificial Intelligence",
+      "count": 1,
+      "centrality": 6.668388366699219,
+      "normalized_count": 0.05,
+      "raw_importance": 4.341033306121826,
+      "normalized_importance": 0.7616171206559947
+    },
+    {
+      "interest": "Deep Learning",
+      "count": 1,
+      "centrality": 6.305206298828125,
+      "normalized_count": 0.05,
+      "raw_importance": 4.123123970031738,
+      "normalized_importance": 0.6982809922611423
+    },
+    {
+      "interest": "Generative Ai",
+      "count": 1,
+      "centrality": 5.965780258178711,
+      "normalized_count": 0.05,
+      "raw_importance": 3.919468250274658,
+      "normalized_importance": 0.6390877284647352
+    },
+    {
+      "interest": "Multimodal",
+      "count": 1,
+      "centrality": 5.808936595916748,
+      "normalized_count": 0.05,
+      "raw_importance": 3.8253620529174803,
+      "normalized_importance": 0.6117354254128758
+    },
+    {
+      "interest": "Video Coding",
+      "count": 1,
+      "centrality": 5.803637504577637,
+      "normalized_count": 0.05,
+      "raw_importance": 3.822182741165161,
+      "normalized_importance": 0.610811347073851
+    },
+    {
+      "interest": "Data Compression",
+      "count": 1,
+      "centrality": 5.488921165466309,
+      "normalized_count": 0.05,
+      "raw_importance": 3.6333528423309325,
+      "normalized_importance": 0.5559272611877496
+    },
+    {
+      "interest": "Biometrics",
+      "count": 1,
+      "centrality": 4.729678153991699,
+      "normalized_count": 0.05,
+      "raw_importance": 3.177806940078735,
+      "normalized_importance": 0.42352121437722695
+    },
+    {
+      "interest": "Bioinformatics And Computational Biology",
+      "count": 1,
+      "centrality": 4.287990570068359,
+      "normalized_count": 0.05,
+      "raw_importance": 2.912794437408447,
+      "normalized_importance": 0.34649438204165706
+    },
+    {
+      "interest": "Dem Modeling",
+      "count": 1,
+      "centrality": 4.2558488845825195,
+      "normalized_count": 0.05,
+      "raw_importance": 2.893509473800659,
+      "normalized_importance": 0.34088913835146495
+    },
+    {
+      "interest": "Multi-Agent System",
+      "count": 1,
+      "centrality": 3.9939095973968506,
+      "normalized_count": 0.05,
+      "raw_importance": 2.736345853805542,
+      "normalized_importance": 0.29520896973815086
+    },
+    {
+      "interest": "Rotary Decomposition Process",
+      "count": 1,
+      "centrality": 2.943307876586914,
+      "normalized_count": 0.05,
+      "raw_importance": 2.105984773635864,
+      "normalized_importance": 0.11199226583227051
+    },
+    {
+      "interest": "Rap Utilization",
+      "count": 1,
+      "centrality": 2.926407814025879,
+      "normalized_count": 0.05,
+      "raw_importance": 2.095844712257385,
+      "normalized_importance": 0.10904502070306907
+    },
+    {
+      "interest": "Pavement Recycling",
+      "count": 1,
+      "centrality": 2.301121473312378,
+      "normalized_count": 0.05,
+      "raw_importance": 1.7206729316711427,
+      "normalized_importance": 0.0
+    }
+  ],
+  "Huazhong University of Science and Technology": [
+    {
+      "interest": "Image Processing",
+      "count": 1,
+      "centrality": 5.8197407722473145,
+      "normalized_count": 0.0625,
+      "raw_importance": 3.891844654083252,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Computer Vision",
+      "count": 1,
+      "centrality": 5.3346028327941895,
+      "normalized_count": 0.0625,
+      "raw_importance": 3.6007617950439452,
+      "normalized_importance": 0.8281260283364205
+    },
+    {
+      "interest": "Pattern Recognition",
+      "count": 1,
+      "centrality": 5.155189514160156,
+      "normalized_count": 0.0625,
+      "raw_importance": 3.493113899230957,
+      "normalized_importance": 0.7645638129051535
+    },
+    {
+      "interest": "Robot Control",
+      "count": 1,
+      "centrality": 4.852909088134766,
+      "normalized_count": 0.0625,
+      "raw_importance": 3.311745548248291,
+      "normalized_importance": 0.657472316963596
+    },
+    {
+      "interest": "Body Imaging",
+      "count": 1,
+      "centrality": 4.622594833374023,
+      "normalized_count": 0.0625,
+      "raw_importance": 3.17355694770813,
+      "normalized_importance": 0.5758769125077735
+    },
+    {
+      "interest": "Imaging Diagnosis",
+      "count": 1,
+      "centrality": 4.375944137573242,
+      "normalized_count": 0.0625,
+      "raw_importance": 3.0255664825439452,
+      "normalized_importance": 0.4884938591048445
+    },
+    {
+      "interest": "Breast Imaging",
+      "count": 1,
+      "centrality": 4.160717964172363,
+      "normalized_count": 0.0625,
+      "raw_importance": 2.8964308738708495,
+      "normalized_importance": 0.4122439211349772
+    },
+    {
+      "interest": "Smart Grid",
+      "count": 1,
+      "centrality": 3.919674873352051,
+      "normalized_count": 0.0625,
+      "raw_importance": 2.751804971694946,
+      "normalized_importance": 0.32684752131109
+    },
+    {
+      "interest": "Multi-Agent System",
+      "count": 1,
+      "centrality": 3.6884231567382812,
+      "normalized_count": 0.0625,
+      "raw_importance": 2.6130539417266845,
+      "normalized_importance": 0.24492002248218372
+    },
+    {
+      "interest": "Magnetic Resonance",
+      "count": 1,
+      "centrality": 3.561400890350342,
+      "normalized_count": 0.0625,
+      "raw_importance": 2.536840581893921,
+      "normalized_importance": 0.1999187713212084
+    },
+    {
+      "interest": "Bioinformatics",
+      "count": 1,
+      "centrality": 3.499537944793701,
+      "normalized_count": 0.0625,
+      "raw_importance": 2.4997228622436523,
+      "normalized_importance": 0.17800209125134048
+    },
+    {
+      "interest": "Swarm Unmanned System",
+      "count": 1,
+      "centrality": 3.355386257171631,
+      "normalized_count": 0.0625,
+      "raw_importance": 2.4132317543029784,
+      "normalized_importance": 0.12693219904123412
+    },
+    {
+      "interest": "Rehabilitation Robotics",
+      "count": 1,
+      "centrality": 3.286106586456299,
+      "normalized_count": 0.0625,
+      "raw_importance": 2.3716640710830688,
+      "normalized_importance": 0.10238797533998671
+    },
+    {
+      "interest": "Robust And Nonlinear Control",
+      "count": 1,
+      "centrality": 3.1966514587402344,
+      "normalized_count": 0.0625,
+      "raw_importance": 2.3179909229278564,
+      "normalized_importance": 0.07069590946029033
+    },
+    {
+      "interest": "Renewable Energy",
+      "count": 1,
+      "centrality": 3.1619105339050293,
+      "normalized_count": 0.0625,
+      "raw_importance": 2.2971463441848754,
+      "normalized_importance": 0.05838793451448091
+    },
+    {
+      "interest": "Energy Storage",
+      "count": 1,
+      "centrality": 2.9971024990081787,
+      "normalized_count": 0.0625,
+      "raw_importance": 2.198261523246765,
+      "normalized_importance": 0.0
+    }
+  ],
+  "Southeast University": [
+    {
+      "interest": "Machine Learning",
+      "count": 3,
+      "centrality": 9.274008750915527,
+      "normalized_count": 0.10714285714285714,
+      "raw_importance": 6.5501197269984655,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Artificial Intelligence",
+      "count": 3,
+      "centrality": 9.226476669311523,
+      "normalized_count": 0.10714285714285714,
+      "raw_importance": 6.521600573403495,
+      "normalized_importance": 0.9927804095705037
+    },
+    {
+      "interest": "Data Mining",
+      "count": 2,
+      "centrality": 8.23576831817627,
+      "normalized_count": 0.07142857142857142,
+      "raw_importance": 5.598603943416051,
+      "normalized_importance": 0.7591248905129607
+    },
+    {
+      "interest": "Pattern Recognition",
+      "count": 1,
+      "centrality": 7.625624656677246,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 4.903946508680071,
+      "normalized_importance": 0.5832731720916002
+    },
+    {
+      "interest": "Human Computer Interaction",
+      "count": 1,
+      "centrality": 7.467395782470703,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 4.809009184156145,
+      "normalized_importance": 0.5592398992508597
+    },
+    {
+      "interest": "Knowledge Representation",
+      "count": 1,
+      "centrality": 7.310762405395508,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 4.715028871808733,
+      "normalized_importance": 0.5354488929250584
+    },
+    {
+      "interest": "Big Data",
+      "count": 1,
+      "centrality": 7.0415425300598145,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 4.553496946607317,
+      "normalized_importance": 0.4945572746882567
+    },
+    {
+      "interest": "Natural Language Processing",
+      "count": 1,
+      "centrality": 6.78440523147583,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 4.399214853559221,
+      "normalized_importance": 0.45550094299512006
+    },
+    {
+      "interest": "Knowledge Graphs",
+      "count": 1,
+      "centrality": 6.51853084564209,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 4.239690174375261,
+      "normalized_importance": 0.4151174567436879
+    },
+    {
+      "interest": "Trustworthy Artificial Intelligence",
+      "count": 1,
+      "centrality": 6.336560249328613,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 4.130507816587175,
+      "normalized_importance": 0.3874780703666773
+    },
+    {
+      "interest": "Multimodal Learning",
+      "count": 1,
+      "centrality": 6.100117206573486,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 3.988641847882952,
+      "normalized_importance": 0.3515648660523373
+    },
+    {
+      "interest": "Cyber Security",
+      "count": 1,
+      "centrality": 6.00086784362793,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 3.929092277799334,
+      "normalized_importance": 0.3364899619243226
+    },
+    {
+      "interest": "Graph Neural Networks",
+      "count": 1,
+      "centrality": 6.000823020935059,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 3.9290653364998955,
+      "normalized_importance": 0.3364831417658303
+    },
+    {
+      "interest": "Virtual Reality",
+      "count": 1,
+      "centrality": 5.974672794342041,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 3.913375248227801,
+      "normalized_importance": 0.332511214241756
+    },
+    {
+      "interest": "Large Language Models",
+      "count": 1,
+      "centrality": 5.679508209228516,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 3.7362764971596856,
+      "normalized_importance": 0.28767887221486693
+    },
+    {
+      "interest": "International Trade",
+      "count": 1,
+      "centrality": 5.679054260253906,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 3.7360042231423516,
+      "normalized_importance": 0.28760994636532516
+    },
+    {
+      "interest": "Economic Relations",
+      "count": 1,
+      "centrality": 5.205765247344971,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 3.4520307677132744,
+      "normalized_importance": 0.21572239773175358
+    },
+    {
+      "interest": "Technology Education",
+      "count": 1,
+      "centrality": 5.1782097816467285,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 3.4354973929268975,
+      "normalized_importance": 0.21153699321133151
+    },
+    {
+      "interest": "Supply Chain Management",
+      "count": 1,
+      "centrality": 4.924591541290283,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 3.283326496396746,
+      "normalized_importance": 0.17301510845137538
+    },
+    {
+      "interest": "Code Quality",
+      "count": 1,
+      "centrality": 4.614377498626709,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 3.0971981184823174,
+      "normalized_importance": 0.12589692693263466
+    },
+    {
+      "interest": "Human Resource Ma",
+      "count": 1,
+      "centrality": 4.304659366607666,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 2.9113670485360283,
+      "normalized_importance": 0.07885400857884887
+    },
+    {
+      "interest": "Bilateral Trade",
+      "count": 1,
+      "centrality": 4.181753635406494,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 2.837623705182757,
+      "normalized_importance": 0.06018596732231509
+    },
+    {
+      "interest": "Traffic Flow Prediction、Traffic Network Modeling And Optimization",
+      "count": 1,
+      "centrality": 3.7855048179626465,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 2.5998743670327324,
+      "normalized_importance": 0.0
+    }
+  ],
+  "Xi'an Jiaotong University": [
+    {
+      "interest": "Artificial Intelligence",
+      "count": 3,
+      "centrality": 10.716303825378418,
+      "normalized_count": 0.1,
+      "raw_importance": 7.429782390594482,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Machine Learning",
+      "count": 3,
+      "centrality": 10.122807502746582,
+      "normalized_count": 0.1,
+      "raw_importance": 7.0736846923828125,
+      "normalized_importance": 0.917266901838197
+    },
+    {
+      "interest": "Data Mining",
+      "count": 2,
+      "centrality": 9.2333345413208,
+      "normalized_count": 0.06666666666666667,
+      "raw_importance": 6.206667582194011,
+      "normalized_importance": 0.7158305767918752
+    },
+    {
+      "interest": "Data Science",
+      "count": 1,
+      "centrality": 9.65876579284668,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 6.128592809041341,
+      "normalized_importance": 0.6976912630483733
+    },
+    {
+      "interest": "Pattern Recognition",
+      "count": 1,
+      "centrality": 8.797737121582031,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 5.611975987752278,
+      "normalized_importance": 0.5776643423398305
+    },
+    {
+      "interest": "Web Science",
+      "count": 1,
+      "centrality": 8.727181434631348,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 5.569642384847005,
+      "normalized_importance": 0.5678288670129923
+    },
+    {
+      "interest": "Deep Learning",
+      "count": 1,
+      "centrality": 8.591269493103027,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 5.488095124562581,
+      "normalized_importance": 0.5488827813634102
+    },
+    {
+      "interest": "Information Retrieval",
+      "count": 1,
+      "centrality": 8.50291919708252,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 5.43508513768514,
+      "normalized_importance": 0.5365668341671429
+    },
+    {
+      "interest": "Computer Vision",
+      "count": 1,
+      "centrality": 8.323792457580566,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 5.3276089032491045,
+      "normalized_importance": 0.5115966029684789
+    },
+    {
+      "interest": "Complex Networks",
+      "count": 1,
+      "centrality": 7.728415489196777,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 4.970383008321126,
+      "normalized_importance": 0.4286013879490131
+    },
+    {
+      "interest": "Software Engineering",
+      "count": 1,
+      "centrality": 7.63063907623291,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 4.911716779073079,
+      "normalized_importance": 0.4149713113505499
+    },
+    {
+      "interest": "Social Informatics",
+      "count": 1,
+      "centrality": 7.569864749908447,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 4.875252564748128,
+      "normalized_importance": 0.40649948623544907
+    },
+    {
+      "interest": "Network Neuroscience",
+      "count": 1,
+      "centrality": 7.288595199584961,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 4.706490834554036,
+      "normalized_importance": 0.36729063748348606
+    },
+    {
+      "interest": "Computing Education",
+      "count": 1,
+      "centrality": 7.251826286315918,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 4.68442948659261,
+      "normalized_importance": 0.3621650675187249
+    },
+    {
+      "interest": "Natural Language Processing",
+      "count": 1,
+      "centrality": 7.235611915588379,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 4.674700578053792,
+      "normalized_importance": 0.3599047250644167
+    },
+    {
+      "interest": "Knowledge Engineering",
+      "count": 1,
+      "centrality": 7.119114398956299,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 4.604801972707112,
+      "normalized_importance": 0.34366500150944296
+    },
+    {
+      "interest": "Multimodal",
+      "count": 1,
+      "centrality": 7.00656795501709,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 4.537274201711019,
+      "normalized_importance": 0.327976100023911
+    },
+    {
+      "interest": "Leadership",
+      "count": 1,
+      "centrality": 6.289064407348633,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 4.1067720254262285,
+      "normalized_importance": 0.22795641725621102
+    },
+    {
+      "interest": "Gender",
+      "count": 1,
+      "centrality": 6.226309299468994,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 4.069119056065877,
+      "normalized_importance": 0.2192084056127276
+    },
+    {
+      "interest": "Multimedia Networking",
+      "count": 1,
+      "centrality": 6.172664642333984,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 4.036932309468587,
+      "normalized_importance": 0.21173037562512628
+    },
+    {
+      "interest": "Digital Addiction",
+      "count": 1,
+      "centrality": 5.867471218109131,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 3.853816111882528,
+      "normalized_importance": 0.1691865163809188
+    },
+    {
+      "interest": "Charisma",
+      "count": 1,
+      "centrality": 5.754798889160156,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 3.786212762196859,
+      "normalized_importance": 0.15348005550318924
+    },
+    {
+      "interest": "Statistical Mechanics",
+      "count": 1,
+      "centrality": 5.357912063598633,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 3.5480807622273765,
+      "normalized_importance": 0.09815423276442257
+    },
+    {
+      "interest": "Medical Imaging",
+      "count": 1,
+      "centrality": 4.936904430389404,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 3.295476039250692,
+      "normalized_importance": 0.03946592490082452
+    },
+    {
+      "interest": "Self-Disclosure",
+      "count": 1,
+      "centrality": 4.653790473937988,
+      "normalized_count": 0.03333333333333333,
+      "raw_importance": 3.1256078084309897,
+      "normalized_importance": 0.0
+    }
+  ],
+  "Beihang University": [
+    {
+      "interest": "Machine Learning",
+      "count": 2,
+      "centrality": 13.331945419311523,
+      "normalized_count": 0.05714285714285714,
+      "raw_importance": 8.639167442321778,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Computer Vision",
+      "count": 4,
+      "centrality": 10.858317375183105,
+      "normalized_count": 0.11428571428571428,
+      "raw_importance": 7.79499080657959,
+      "normalized_importance": 0.8361755964261491
+    },
+    {
+      "interest": "Pattern Recognition",
+      "count": 2,
+      "centrality": 11.90051555633545,
+      "normalized_count": 0.05714285714285714,
+      "raw_importance": 7.780309810638427,
+      "normalized_importance": 0.8333265417353419
+    },
+    {
+      "interest": "Artificial Intelligence",
+      "count": 1,
+      "centrality": 11.999070167541504,
+      "normalized_count": 0.02857142857142857,
+      "raw_importance": 7.5194423866271975,
+      "normalized_importance": 0.7827015322988825
+    },
+    {
+      "interest": "Data Mining",
+      "count": 1,
+      "centrality": 11.542814254760742,
+      "normalized_count": 0.02857142857142857,
+      "raw_importance": 7.245688743591309,
+      "normalized_importance": 0.7295757699907442
+    },
+    {
+      "interest": "Deep Learning",
+      "count": 1,
+      "centrality": 11.540898323059082,
+      "normalized_count": 0.02857142857142857,
+      "raw_importance": 7.244539089202881,
+      "normalized_importance": 0.7293526633131534
+    },
+    {
+      "interest": "Image Processing",
+      "count": 1,
+      "centrality": 10.728338241577148,
+      "normalized_count": 0.02857142857142857,
+      "raw_importance": 6.757003135681153,
+      "normalized_importance": 0.6347394231157566
+    },
+    {
+      "interest": "Intelligent Computing",
+      "count": 1,
+      "centrality": 10.591924667358398,
+      "normalized_count": 0.02857142857142857,
+      "raw_importance": 6.675154991149903,
+      "normalized_importance": 0.618855634233505
+    },
+    {
+      "interest": "Big Data",
+      "count": 1,
+      "centrality": 10.072535514831543,
+      "normalized_count": 0.02857142857142857,
+      "raw_importance": 6.363521404266358,
+      "normalized_importance": 0.5583787336143692
+    },
+    {
+      "interest": "Transfer Learning",
+      "count": 2,
+      "centrality": 9.341523170471191,
+      "normalized_count": 0.05714285714285714,
+      "raw_importance": 6.2449141883850094,
+      "normalized_importance": 0.5353613275661271
+    },
+    {
+      "interest": "Image Analysis",
+      "count": 1,
+      "centrality": 9.413084030151367,
+      "normalized_count": 0.02857142857142857,
+      "raw_importance": 5.967850513458252,
+      "normalized_importance": 0.4815932068019824
+    },
+    {
+      "interest": "Spatial Databases",
+      "count": 1,
+      "centrality": 9.300607681274414,
+      "normalized_count": 0.02857142857142857,
+      "raw_importance": 5.90036470413208,
+      "normalized_importance": 0.46849663199232944
+    },
+    {
+      "interest": "Crowdsourcing",
+      "count": 1,
+      "centrality": 9.041889190673828,
+      "normalized_count": 0.02857142857142857,
+      "raw_importance": 5.74513370513916,
+      "normalized_importance": 0.4383718633722764
+    },
+    {
+      "interest": "Databases",
+      "count": 1,
+      "centrality": 8.930683135986328,
+      "normalized_count": 0.02857142857142857,
+      "raw_importance": 5.678409881591797,
+      "normalized_importance": 0.42542316266913116
+    },
+    {
+      "interest": "Representation Learning",
+      "count": 1,
+      "centrality": 8.902867317199707,
+      "normalized_count": 0.02857142857142857,
+      "raw_importance": 5.661720581054688,
+      "normalized_importance": 0.4221843680960583
+    },
+    {
+      "interest": "Remote Sensing",
+      "count": 1,
+      "centrality": 8.766168594360352,
+      "normalized_count": 0.02857142857142857,
+      "raw_importance": 5.579701251983643,
+      "normalized_importance": 0.4062673584351857
+    },
+    {
+      "interest": "Natural Language Processing",
+      "count": 1,
+      "centrality": 8.734939575195312,
+      "normalized_count": 0.02857142857142857,
+      "raw_importance": 5.560963935852051,
+      "normalized_importance": 0.40263111749950287
+    },
+    {
+      "interest": "Spatial Data Science",
+      "count": 1,
+      "centrality": 8.70986270904541,
+      "normalized_count": 0.02857142857142857,
+      "raw_importance": 5.54591781616211,
+      "normalized_importance": 0.399711205386396
+    },
+    {
+      "interest": "Domain Adaptation",
+      "count": 1,
+      "centrality": 8.63770866394043,
+      "normalized_count": 0.02857142857142857,
+      "raw_importance": 5.50262529373169,
+      "normalized_importance": 0.3913096797268572
+    },
+    {
+      "interest": "Biometrics",
+      "count": 2,
+      "centrality": 7.977194786071777,
+      "normalized_count": 0.05714285714285714,
+      "raw_importance": 5.426316871643066,
+      "normalized_importance": 0.3765009522555744
+    },
+    {
+      "interest": "Adversarial Machine Learning",
+      "count": 1,
+      "centrality": 8.222700119018555,
+      "normalized_count": 0.02857142857142857,
+      "raw_importance": 5.25362045288086,
+      "normalized_importance": 0.3429867721596225
+    },
+    {
+      "interest": "Multi-Task Learning",
+      "count": 1,
+      "centrality": 7.978154182434082,
+      "normalized_count": 0.02857142857142857,
+      "raw_importance": 5.106892890930176,
+      "normalized_importance": 0.314512215643044
+    },
+    {
+      "interest": "Federated Learning",
+      "count": 1,
+      "centrality": 7.805665016174316,
+      "normalized_count": 0.02857142857142857,
+      "raw_importance": 5.003399200439453,
+      "normalized_importance": 0.2944278027365046
+    },
+    {
+      "interest": "Recommender Systems",
+      "count": 1,
+      "centrality": 7.6762237548828125,
+      "normalized_count": 0.02857142857142857,
+      "raw_importance": 4.925734348297119,
+      "normalized_importance": 0.2793558408482406
+    },
+    {
+      "interest": "Knowledge Graph",
+      "count": 1,
+      "centrality": 7.582696437835693,
+      "normalized_count": 0.02857142857142857,
+      "raw_importance": 4.869618244171143,
+      "normalized_importance": 0.2684657179757404
+    },
+    {
+      "interest": "Mobile Computing",
+      "count": 1,
+      "centrality": 7.351746082305908,
+      "normalized_count": 0.02857142857142857,
+      "raw_importance": 4.73104793548584,
+      "normalized_importance": 0.24157419170949215
+    },
+    {
+      "interest": "Embedded System",
+      "count": 1,
+      "centrality": 7.310934543609619,
+      "normalized_count": 0.02857142857142857,
+      "raw_importance": 4.706560916900635,
+      "normalized_importance": 0.23682213977489186
+    },
+    {
+      "interest": "Ai4Earth",
+      "count": 1,
+      "centrality": 5.277052402496338,
+      "normalized_count": 0.02857142857142857,
+      "raw_importance": 3.486231632232666,
+      "normalized_importance": 0.0
+    }
+  ],
+  "Beijing University of Posts and Telecommunications": [
+    {
+      "interest": "Machine Learning",
+      "count": 1,
+      "centrality": 8.854854583740234,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 5.6871064893661005,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Deep Learning",
+      "count": 1,
+      "centrality": 8.4807767868042,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 5.462659715837048,
+      "normalized_importance": 0.9508407315430615
+    },
+    {
+      "interest": "Information Theory",
+      "count": 1,
+      "centrality": 8.326766967773438,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 5.370253919786022,
+      "normalized_importance": 0.9306016286875176
+    },
+    {
+      "interest": "Brain Network",
+      "count": 1,
+      "centrality": 8.284449577331543,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 5.344863294786022,
+      "normalized_importance": 0.9250404681012511
+    },
+    {
+      "interest": "Edge Computing And Ai",
+      "count": 1,
+      "centrality": 8.282854080200195,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 5.343906282609509,
+      "normalized_importance": 0.9248308593028617
+    },
+    {
+      "interest": "Computer Vision",
+      "count": 1,
+      "centrality": 8.106882095336914,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 5.23832309169154,
+      "normalized_importance": 0.9017055884635161
+    },
+    {
+      "interest": "Data Science",
+      "count": 1,
+      "centrality": 7.763453960418701,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 5.032266020005749,
+      "normalized_importance": 0.8565741092037297
+    },
+    {
+      "interest": "Intelligent Wireless Networks",
+      "count": 1,
+      "centrality": 7.551921367645264,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 4.905346750443981,
+      "normalized_importance": 0.8287757214316824
+    },
+    {
+      "interest": "Brain-Computer Interface",
+      "count": 1,
+      "centrality": 7.4792070388793945,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 4.861718057817028,
+      "normalized_importance": 0.819219983206753
+    },
+    {
+      "interest": "Coding Theory",
+      "count": 1,
+      "centrality": 7.377950191497803,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 4.80096375865321,
+      "normalized_importance": 0.8059133232109447
+    },
+    {
+      "interest": "Emergency Communications",
+      "count": 1,
+      "centrality": 6.854997634887695,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 4.48719251078944,
+      "normalized_importance": 0.7371898358322899
+    },
+    {
+      "interest": "Neuroimaging",
+      "count": 1,
+      "centrality": 6.662424564361572,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 4.371648430055187,
+      "normalized_importance": 0.7118828893606799
+    },
+    {
+      "interest": "Intent Based Networking",
+      "count": 1,
+      "centrality": 6.6038408279418945,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 4.336498140519665,
+      "normalized_importance": 0.7041841263424082
+    },
+    {
+      "interest": "Smart Healthcare",
+      "count": 1,
+      "centrality": 6.551654815673828,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 4.305186628526257,
+      "normalized_importance": 0.6973261483921154
+    },
+    {
+      "interest": "Big Data Analytics",
+      "count": 1,
+      "centrality": 6.509790420532227,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 4.280068039125012,
+      "normalized_importance": 0.6918245701772894
+    },
+    {
+      "interest": "Natural Language Processing",
+      "count": 2,
+      "centrality": 5.821933269500732,
+      "normalized_count": 0.06451612903225806,
+      "raw_importance": 4.2415471061583485,
+      "normalized_importance": 0.6833875547765097
+    },
+    {
+      "interest": "Privacy And Security",
+      "count": 1,
+      "centrality": 6.24682092666626,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 4.122286199754284,
+      "normalized_importance": 0.6572665336446273
+    },
+    {
+      "interest": "Medical Image Analysis",
+      "count": 2,
+      "centrality": 5.525589942932129,
+      "normalized_count": 0.06451612903225806,
+      "raw_importance": 4.063741205584618,
+      "normalized_importance": 0.6444437648431681
+    },
+    {
+      "interest": "Embodied Intelligence",
+      "count": 1,
+      "centrality": 5.948751449584961,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 3.9434446088729365,
+      "normalized_importance": 0.6180959025004726
+    },
+    {
+      "interest": "Matching Theory",
+      "count": 1,
+      "centrality": 5.872756004333496,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 3.8978472940383417,
+      "normalized_importance": 0.6081089884289311
+    },
+    {
+      "interest": "6G Communication",
+      "count": 1,
+      "centrality": 5.633952617645264,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 3.754565357392834,
+      "normalized_importance": 0.5767267810670826
+    },
+    {
+      "interest": "Netai",
+      "count": 1,
+      "centrality": 5.501095771789551,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 3.674851059144543,
+      "normalized_importance": 0.5592674229937666
+    },
+    {
+      "interest": "5G Wireless",
+      "count": 1,
+      "centrality": 5.335336208343506,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 3.5753954641280634,
+      "normalized_importance": 0.537484243765633
+    },
+    {
+      "interest": "Alzheimer'S Disease",
+      "count": 1,
+      "centrality": 4.9536237716674805,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 3.3463679544387324,
+      "normalized_importance": 0.48732168336961756
+    },
+    {
+      "interest": "D2D",
+      "count": 1,
+      "centrality": 4.538530349731445,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 3.0973118535933954,
+      "normalized_importance": 0.4327723774037224
+    },
+    {
+      "interest": "Cooperative Caching",
+      "count": 1,
+      "centrality": 3.9999587535858154,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 2.7741688482223017,
+      "normalized_importance": 0.3619962486082542
+    },
+    {
+      "interest": "Rehabilitation Robotics",
+      "count": 1,
+      "centrality": 3.90499210357666,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 2.71718895358424,
+      "normalized_importance": 0.34951627443389627
+    },
+    {
+      "interest": "Mmwave Sensing",
+      "count": 1,
+      "centrality": 3.5589964389801025,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 2.509591459458874,
+      "normalized_importance": 0.3040474054266276
+    },
+    {
+      "interest": "Endovascular Intervention",
+      "count": 1,
+      "centrality": 1.245344638824463,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 1.1214003555236325,
+      "normalized_importance": 0.0
+    }
+  ],
+  "Renmin University of China": [
+    {
+      "interest": "Information Retrieval",
+      "count": 2,
+      "centrality": 7.887441635131836,
+      "normalized_count": 0.08333333333333333,
+      "raw_importance": 5.3991319338480634,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Machine Learning",
+      "count": 1,
+      "centrality": 7.943258285522461,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 5.09928830464681,
+      "normalized_importance": 0.8976895706548261
+    },
+    {
+      "interest": "Database",
+      "count": 2,
+      "centrality": 6.865833759307861,
+      "normalized_count": 0.08333333333333333,
+      "raw_importance": 4.78616730372111,
+      "normalized_importance": 0.790848734559567
+    },
+    {
+      "interest": "Natural Language Processing",
+      "count": 2,
+      "centrality": 6.400517463684082,
+      "normalized_count": 0.08333333333333333,
+      "raw_importance": 4.506977240244548,
+      "normalized_importance": 0.6955855624211942
+    },
+    {
+      "interest": "Web Search",
+      "count": 1,
+      "centrality": 6.824182033538818,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 4.427842934926351,
+      "normalized_importance": 0.6685839390263458
+    },
+    {
+      "interest": "Management Of Data",
+      "count": 1,
+      "centrality": 6.665643692016602,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 4.332719643910726,
+      "normalized_importance": 0.6361266719819879
+    },
+    {
+      "interest": "Large Language Model",
+      "count": 2,
+      "centrality": 6.096930980682373,
+      "normalized_count": 0.08333333333333333,
+      "raw_importance": 4.324825445810954,
+      "normalized_importance": 0.6334330719909693
+    },
+    {
+      "interest": "Semantic Matching",
+      "count": 1,
+      "centrality": 6.622420310974121,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 4.306785662968953,
+      "normalized_importance": 0.627277670481271
+    },
+    {
+      "interest": "Knowledge Graph",
+      "count": 1,
+      "centrality": 6.493685245513916,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 4.229544719060262,
+      "normalized_importance": 0.6009220858874742
+    },
+    {
+      "interest": "Data Privacy",
+      "count": 1,
+      "centrality": 6.164072513580322,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 4.031776984532674,
+      "normalized_importance": 0.5334412396742665
+    },
+    {
+      "interest": "Large Language Models",
+      "count": 1,
+      "centrality": 6.090324878692627,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 3.987528403600057,
+      "normalized_importance": 0.5183430655853579
+    },
+    {
+      "interest": "Distributed Systems",
+      "count": 1,
+      "centrality": 5.939552307128906,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 3.897064765294393,
+      "normalized_importance": 0.48747573083546125
+    },
+    {
+      "interest": "Theoretic Computer Science",
+      "count": 1,
+      "centrality": 5.779036998748779,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 3.800755580266317,
+      "normalized_importance": 0.4546138217918888
+    },
+    {
+      "interest": "Causal Learning",
+      "count": 1,
+      "centrality": 5.696897983551025,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 3.751472314198812,
+      "normalized_importance": 0.43779774961343154
+    },
+    {
+      "interest": "Storage",
+      "count": 1,
+      "centrality": 5.46474027633667,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 3.6121776898701987,
+      "normalized_importance": 0.3902686663425987
+    },
+    {
+      "interest": "Learning To Rank",
+      "count": 1,
+      "centrality": 5.436880111694336,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 3.595461448033651,
+      "normalized_importance": 0.38456487372278936
+    },
+    {
+      "interest": "Data Governance",
+      "count": 1,
+      "centrality": 5.32633638381958,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 3.529135306676229,
+      "normalized_importance": 0.3619335574691701
+    },
+    {
+      "interest": "Llm-Based Agent",
+      "count": 1,
+      "centrality": 4.510386943817139,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 3.039565642674764,
+      "normalized_importance": 0.19488621131814204
+    },
+    {
+      "interest": "Ie",
+      "count": 1,
+      "centrality": 4.068737506866455,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 2.77457602818807,
+      "normalized_importance": 0.10446841153908168
+    },
+    {
+      "interest": "Responsible Recsys",
+      "count": 1,
+      "centrality": 3.558457374572754,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 2.468407948811849,
+      "normalized_importance": 0.0
+    }
+  ],
+  "Central South University": [
+    {
+      "interest": "Bioinformatics",
+      "count": 4,
+      "centrality": 4.797934055328369,
+      "normalized_count": 0.2222222222222222,
+      "raw_importance": 4.123205020692613,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Machine Learning",
+      "count": 1,
+      "centrality": 5.750196933746338,
+      "normalized_count": 0.05555555555555555,
+      "raw_importance": 3.761229414410061,
+      "normalized_importance": 0.8667636763563031
+    },
+    {
+      "interest": "Data Mining",
+      "count": 2,
+      "centrality": 5.21140718460083,
+      "normalized_count": 0.1111111111111111,
+      "raw_importance": 3.749066628350152,
+      "normalized_importance": 0.8622867865555518
+    },
+    {
+      "interest": "Artificial Intelligence",
+      "count": 1,
+      "centrality": 5.708420276641846,
+      "normalized_count": 0.05555555555555555,
+      "raw_importance": 3.7361635155147974,
+      "normalized_importance": 0.8575373965748346
+    },
+    {
+      "interest": "Big Data",
+      "count": 1,
+      "centrality": 5.041266441345215,
+      "normalized_count": 0.05555555555555555,
+      "raw_importance": 3.3358711189693873,
+      "normalized_importance": 0.7101973925177544
+    },
+    {
+      "interest": "Computer Network",
+      "count": 1,
+      "centrality": 4.7807135581970215,
+      "normalized_count": 0.05555555555555555,
+      "raw_importance": 3.1795393413967554,
+      "normalized_importance": 0.6526546439155109
+    },
+    {
+      "interest": "Iots",
+      "count": 1,
+      "centrality": 4.586428642272949,
+      "normalized_count": 0.05555555555555555,
+      "raw_importance": 3.062968391842312,
+      "normalized_importance": 0.6097470985099089
+    },
+    {
+      "interest": "Algorithm",
+      "count": 1,
+      "centrality": 4.3984270095825195,
+      "normalized_count": 0.05555555555555555,
+      "raw_importance": 2.9501673168606226,
+      "normalized_importance": 0.5682271721039132
+    },
+    {
+      "interest": "Edge Computing",
+      "count": 1,
+      "centrality": 4.029218673706055,
+      "normalized_count": 0.05555555555555555,
+      "raw_importance": 2.7286423630184595,
+      "normalized_importance": 0.48668805749785765
+    },
+    {
+      "interest": "Systems Biology",
+      "count": 1,
+      "centrality": 3.959141492843628,
+      "normalized_count": 0.05555555555555555,
+      "raw_importance": 2.6865960545010035,
+      "normalized_importance": 0.47121161247663823
+    },
+    {
+      "interest": "Spintronics",
+      "count": 1,
+      "centrality": 3.764277219772339,
+      "normalized_count": 0.05555555555555555,
+      "raw_importance": 2.56967749065823,
+      "normalized_importance": 0.4281761168748926
+    },
+    {
+      "interest": "Sagin",
+      "count": 1,
+      "centrality": 2.7281956672668457,
+      "normalized_count": 0.05555555555555555,
+      "raw_importance": 1.9480285829967923,
+      "normalized_importance": 0.19935899876976498
+    },
+    {
+      "interest": "Quantum Transport Theory",
+      "count": 1,
+      "centrality": 2.283447027206421,
+      "normalized_count": 0.05555555555555555,
+      "raw_importance": 1.6811794228023953,
+      "normalized_importance": 0.10113690740608204
+    },
+    {
+      "interest": "纳米医学，心脑血管修复，癌症的诊断和治疗",
+      "count": 1,
+      "centrality": 1.825500249862671,
+      "normalized_count": 0.05555555555555555,
+      "raw_importance": 1.4064113087124295,
+      "normalized_importance": 0.0
+    }
+  ],
+  "Northwestern Polytechnical University": [
+    {
+      "interest": "Computer Vision",
+      "count": 4,
+      "centrality": 9.34321403503418,
+      "normalized_count": 0.1111111111111111,
+      "raw_importance": 7.02815064324273,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Machine Learning",
+      "count": 1,
+      "centrality": 10.269113540649414,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 6.51702406141493,
+      "normalized_importance": 0.8944676583555502
+    },
+    {
+      "interest": "Artificial Intelligence",
+      "count": 1,
+      "centrality": 10.251418113708496,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 6.506406805250379,
+      "normalized_importance": 0.8922755127213372
+    },
+    {
+      "interest": "Deep Learning",
+      "count": 1,
+      "centrality": 10.056295394897461,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 6.38933326933119,
+      "normalized_importance": 0.8681033314468557
+    },
+    {
+      "interest": "Speech Synthesis",
+      "count": 2,
+      "centrality": 8.47054672241211,
+      "normalized_count": 0.05555555555555555,
+      "raw_importance": 5.793439430660672,
+      "normalized_importance": 0.745069088262872
+    },
+    {
+      "interest": "Approximate Computing",
+      "count": 1,
+      "centrality": 8.130395889282227,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 5.233793279859754,
+      "normalized_importance": 0.6295189077672281
+    },
+    {
+      "interest": "Action Recognition",
+      "count": 1,
+      "centrality": 8.080972671508789,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 5.20413925382826,
+      "normalized_importance": 0.62339623890681
+    },
+    {
+      "interest": "Bioinformatics",
+      "count": 1,
+      "centrality": 8.027414321899414,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 5.172004244062635,
+      "normalized_importance": 0.6167613211586342
+    },
+    {
+      "interest": "Algorithm Design",
+      "count": 1,
+      "centrality": 7.9662370681762695,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 5.135297796461317,
+      "normalized_importance": 0.6091825383159107
+    },
+    {
+      "interest": "Medical Image Computing",
+      "count": 1,
+      "centrality": 7.835736274719238,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 5.056997320387098,
+      "normalized_importance": 0.5930158334608472
+    },
+    {
+      "interest": "Speech Codec",
+      "count": 1,
+      "centrality": 7.771304130554199,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 5.018338224622938,
+      "normalized_importance": 0.5850338872132866
+    },
+    {
+      "interest": "Low-Level Vision",
+      "count": 1,
+      "centrality": 7.692593097686768,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 4.971111795637342,
+      "normalized_importance": 0.5752830430671406
+    },
+    {
+      "interest": "Embodied Artificial Intelligence",
+      "count": 1,
+      "centrality": 7.561161994934082,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 4.892252943250868,
+      "normalized_importance": 0.5590010502152359
+    },
+    {
+      "interest": "And Systems Design",
+      "count": 1,
+      "centrality": 7.422294616699219,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 4.808932325575086,
+      "normalized_importance": 0.5417978363672238
+    },
+    {
+      "interest": "Representation Learning",
+      "count": 1,
+      "centrality": 7.328500747680664,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 4.752656004163954,
+      "normalized_importance": 0.5301784602893554
+    },
+    {
+      "interest": "Big Data Analysis",
+      "count": 1,
+      "centrality": 7.312518119812012,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 4.743066808912489,
+      "normalized_importance": 0.5281985784648686
+    },
+    {
+      "interest": "Sequence Analysis",
+      "count": 1,
+      "centrality": 7.3032121658325195,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 4.73748304578993,
+      "normalized_importance": 0.5270456984964579
+    },
+    {
+      "interest": "Large Language Model",
+      "count": 1,
+      "centrality": 7.154973983764648,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 4.648540041181776,
+      "normalized_importance": 0.5086816300192799
+    },
+    {
+      "interest": "Spontaneous Speech",
+      "count": 1,
+      "centrality": 7.034323215484619,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 4.576149484846327,
+      "normalized_importance": 0.4937351467123362
+    },
+    {
+      "interest": "Ubiquitous Computing",
+      "count": 1,
+      "centrality": 6.586904525756836,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 4.307698509428236,
+      "normalized_importance": 0.4383080547553925
+    },
+    {
+      "interest": "Singing Voice Synthesis",
+      "count": 1,
+      "centrality": 6.467729568481445,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 4.23619343969557,
+      "normalized_importance": 0.42354439793020265
+    },
+    {
+      "interest": "Persistent Memory",
+      "count": 1,
+      "centrality": 5.740960121154785,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 3.80013181898329,
+      "normalized_importance": 0.33351072413754385
+    },
+    {
+      "interest": "Concurrency",
+      "count": 1,
+      "centrality": 5.735718250274658,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 3.796986601087782,
+      "normalized_importance": 0.3328613307753203
+    },
+    {
+      "interest": "Mobile Crowd Sensing",
+      "count": 1,
+      "centrality": 5.435512065887451,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 3.6168630335066054,
+      "normalized_importance": 0.29567120498648386
+    },
+    {
+      "interest": "Hardware Accelerator Design",
+      "count": 1,
+      "centrality": 5.176008224487305,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 3.4611606809828017,
+      "normalized_importance": 0.2635233292046633
+    },
+    {
+      "interest": "System-On-Chips",
+      "count": 1,
+      "centrality": 5.163287162780762,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 3.4535279485914443,
+      "normalized_importance": 0.2619473984058289
+    },
+    {
+      "interest": "Low Power Embedded Systems",
+      "count": 1,
+      "centrality": 5.109843730926514,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 3.4214618417951796,
+      "normalized_importance": 0.2553267070586297
+    },
+    {
+      "interest": "Npu Compiler",
+      "count": 1,
+      "centrality": 4.723642349243164,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 3.1897411558363173,
+      "normalized_importance": 0.20748332057450514
+    },
+    {
+      "interest": "Prosody Transfer",
+      "count": 1,
+      "centrality": 4.465154647827148,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 3.0346484396192763,
+      "normalized_importance": 0.17546131644423144
+    },
+    {
+      "interest": "Diffusion Model",
+      "count": 1,
+      "centrality": 3.715184211730957,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 2.584666273328993,
+      "normalized_importance": 0.08255346661760161
+    },
+    {
+      "interest": "Interaction Between Snps And Environment",
+      "count": 1,
+      "centrality": 3.6919565200805664,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 2.5707295152876113,
+      "normalized_importance": 0.07967594319516562
+    },
+    {
+      "interest": "Imaging Through Atmospheric Turbulence",
+      "count": 1,
+      "centrality": 3.0487966537475586,
+      "normalized_count": 0.027777777777777776,
+      "raw_importance": 2.1848336670133803,
+      "normalized_importance": 0.0
+    }
+  ],
+  "Wuhan University": [
+    {
+      "interest": "Computer Vision",
+      "count": 3,
+      "centrality": 7.49412202835083,
+      "normalized_count": 0.1111111111111111,
+      "raw_importance": 5.252028867933485,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Pattern Recognition",
+      "count": 3,
+      "centrality": 7.311087131500244,
+      "normalized_count": 0.1111111111111111,
+      "raw_importance": 5.142208025190565,
+      "normalized_importance": 0.9670590063414076
+    },
+    {
+      "interest": "Machine Learning",
+      "count": 4,
+      "centrality": 6.755375385284424,
+      "normalized_count": 0.14814814814814814,
+      "raw_importance": 5.060632924680357,
+      "normalized_importance": 0.9425903827041241
+    },
+    {
+      "interest": "Image Processing",
+      "count": 2,
+      "centrality": 7.388266563415527,
+      "normalized_count": 0.07407407407407407,
+      "raw_importance": 4.936663737120452,
+      "normalized_importance": 0.9054055631445879
+    },
+    {
+      "interest": "Remote Sensing",
+      "count": 3,
+      "centrality": 6.091907978057861,
+      "normalized_count": 0.1111111111111111,
+      "raw_importance": 4.41070048544142,
+      "normalized_importance": 0.7476417752744696
+    },
+    {
+      "interest": "Artificial Intelligence",
+      "count": 1,
+      "centrality": 6.8299880027771,
+      "normalized_count": 0.037037037037037035,
+      "raw_importance": 4.349844748885543,
+      "normalized_importance": 0.7293879686025541
+    },
+    {
+      "interest": "Signal Processing",
+      "count": 1,
+      "centrality": 6.8188982009887695,
+      "normalized_count": 0.037037037037037035,
+      "raw_importance": 4.3431909631799765,
+      "normalized_importance": 0.7273921515312374
+    },
+    {
+      "interest": "Robotics",
+      "count": 1,
+      "centrality": 6.5264811515808105,
+      "normalized_count": 0.037037037037037035,
+      "raw_importance": 4.1677406381677695,
+      "normalized_importance": 0.6747654560946129
+    },
+    {
+      "interest": "Spatial Analysis",
+      "count": 1,
+      "centrality": 6.254858016967773,
+      "normalized_count": 0.037037037037037035,
+      "raw_importance": 4.004766757399947,
+      "normalized_importance": 0.6258810964520974
+    },
+    {
+      "interest": "Spatial Cognition",
+      "count": 1,
+      "centrality": 5.723662376403809,
+      "normalized_count": 0.037037037037037035,
+      "raw_importance": 3.6860495161127163,
+      "normalized_importance": 0.5302811869822388
+    },
+    {
+      "interest": "Neuromorphic Vision",
+      "count": 1,
+      "centrality": 5.468049049377441,
+      "normalized_count": 0.037037037037037035,
+      "raw_importance": 3.532681519896896,
+      "normalized_importance": 0.48427813269314696
+    },
+    {
+      "interest": "Photogrammetry",
+      "count": 1,
+      "centrality": 5.241980075836182,
+      "normalized_count": 0.037037037037037035,
+      "raw_importance": 3.397039945037277,
+      "normalized_importance": 0.44359215591775697
+    },
+    {
+      "interest": "Evolutionary Computation",
+      "count": 1,
+      "centrality": 4.746358871459961,
+      "normalized_count": 0.037037037037037035,
+      "raw_importance": 3.099667365462692,
+      "normalized_importance": 0.3543946227961384
+    },
+    {
+      "interest": "Map Generalization",
+      "count": 1,
+      "centrality": 4.585392951965332,
+      "normalized_count": 0.037037037037037035,
+      "raw_importance": 3.0030878137659145,
+      "normalized_importance": 0.32542538234475477
+    },
+    {
+      "interest": "Rehabilitation Robotics",
+      "count": 1,
+      "centrality": 3.951138734817505,
+      "normalized_count": 0.037037037037037035,
+      "raw_importance": 2.622535283477218,
+      "normalized_importance": 0.21127784737868016
+    },
+    {
+      "interest": "Renewable Energy",
+      "count": 1,
+      "centrality": 3.6519908905029297,
+      "normalized_count": 0.037037037037037035,
+      "raw_importance": 2.44304638615361,
+      "normalized_importance": 0.157439773650131
+    },
+    {
+      "interest": "Energy Storage",
+      "count": 1,
+      "centrality": 2.7771856784820557,
+      "normalized_count": 0.037037037037037035,
+      "raw_importance": 1.918163354308517,
+      "normalized_importance": 0.0
+    }
+  ],
+  "Sun Yat-sen University": [
+    {
+      "interest": "Machine Learning",
+      "count": 3,
+      "centrality": 9.609935760498047,
+      "normalized_count": 0.0967741935483871,
+      "raw_importance": 6.694993905098207,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Bioinformatics",
+      "count": 4,
+      "centrality": 7.649642467498779,
+      "normalized_count": 0.12903225806451613,
+      "raw_importance": 5.828495253286054,
+      "normalized_importance": 0.7682439265115291
+    },
+    {
+      "interest": "Machine Perception And Learning",
+      "count": 1,
+      "centrality": 8.772332191467285,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 5.573077020337505,
+      "normalized_importance": 0.6999290749630329
+    },
+    {
+      "interest": "Deep Learning",
+      "count": 1,
+      "centrality": 8.740598678588867,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 5.554036912610454,
+      "normalized_importance": 0.694836556242559
+    },
+    {
+      "interest": "Evolutionary Machine Learning",
+      "count": 1,
+      "centrality": 8.113375663757324,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 5.17770319907896,
+      "normalized_importance": 0.594181323153631
+    },
+    {
+      "interest": "Signal Processing",
+      "count": 1,
+      "centrality": 8.015275955200195,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 5.118843373944682,
+      "normalized_importance": 0.5784385150940804
+    },
+    {
+      "interest": "Optimization",
+      "count": 1,
+      "centrality": 7.917733669281006,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 5.060317811658305,
+      "normalized_importance": 0.5627851098800858
+    },
+    {
+      "interest": "Intelligent Perception",
+      "count": 1,
+      "centrality": 7.917489528656006,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 5.060171422650737,
+      "normalized_importance": 0.5627459562801062
+    },
+    {
+      "interest": "Evolutionary Computation",
+      "count": 1,
+      "centrality": 7.584139347076416,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 4.86016112296812,
+      "normalized_importance": 0.5092506604539049
+    },
+    {
+      "interest": "Multi-Task Optimization",
+      "count": 1,
+      "centrality": 7.39340877532959,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 4.745723066022319,
+      "normalized_importance": 0.4786427481623594
+    },
+    {
+      "interest": "Embodied Ai",
+      "count": 1,
+      "centrality": 7.248553276062012,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 4.658809480359477,
+      "normalized_importance": 0.455396605420073
+    },
+    {
+      "interest": "Networking",
+      "count": 1,
+      "centrality": 6.954338073730469,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 4.482280549695415,
+      "normalized_importance": 0.40818170007398735
+    },
+    {
+      "interest": "Multimodal Data Analysis And Understanding",
+      "count": 1,
+      "centrality": 6.927868366241455,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 4.466398534467143,
+      "normalized_importance": 0.40393385331659126
+    },
+    {
+      "interest": "Distributed Computing",
+      "count": 1,
+      "centrality": 6.7678985595703125,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 4.370416936566753,
+      "normalized_importance": 0.3782623554902264
+    },
+    {
+      "interest": "Multi-Objective Optimization",
+      "count": 1,
+      "centrality": 6.547581195831299,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 4.2382262322210495,
+      "normalized_importance": 0.34290627210017743
+    },
+    {
+      "interest": "Visual Comprehension",
+      "count": 1,
+      "centrality": 6.282170295715332,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 4.078979787518901,
+      "normalized_importance": 0.3003137872024979
+    },
+    {
+      "interest": "Structural Bioinformatics",
+      "count": 1,
+      "centrality": 6.260134696960449,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 4.065758285214824,
+      "normalized_importance": 0.29677752842909594
+    },
+    {
+      "interest": "Multimedia Communication",
+      "count": 1,
+      "centrality": 6.084139823913574,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 3.9601615044378464,
+      "normalized_importance": 0.2685343277793152
+    },
+    {
+      "interest": "Multiscale Modeling",
+      "count": 1,
+      "centrality": 5.971502304077148,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 3.8925788971685593,
+      "normalized_importance": 0.2504585008128367
+    },
+    {
+      "interest": "Astronomy",
+      "count": 1,
+      "centrality": 5.876914024353027,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 3.8358259770178025,
+      "normalized_importance": 0.23527921125983287
+    },
+    {
+      "interest": "Control",
+      "count": 1,
+      "centrality": 5.809064865112305,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 3.795116481473369,
+      "normalized_importance": 0.22439093945312766
+    },
+    {
+      "interest": "Mrna",
+      "count": 3,
+      "centrality": 3.9048566818237305,
+      "normalized_count": 0.0967741935483871,
+      "raw_importance": 3.271946362526186,
+      "normalized_importance": 0.08446244414603926
+    },
+    {
+      "interest": "Astrophysics",
+      "count": 1,
+      "centrality": 4.862308979034424,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 3.227062997510356,
+      "normalized_importance": 0.07245781791925363
+    },
+    {
+      "interest": "Organic Chemistry",
+      "count": 1,
+      "centrality": 4.41079568862915,
+      "normalized_count": 0.03225806451612903,
+      "raw_importance": 2.9561548802160447,
+      "normalized_importance": 0.0
+    }
+  ],
+  "Sichuan University": [
+    {
+      "interest": "Machine Learning",
+      "count": 1,
+      "centrality": 7.150785446166992,
+      "normalized_count": 0.058823529411764705,
+      "raw_importance": 4.666942142037785,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Neural Networks",
+      "count": 1,
+      "centrality": 7.133374214172363,
+      "normalized_count": 0.058823529411764705,
+      "raw_importance": 4.6564951167387125,
+      "normalized_importance": 0.9955589558042723
+    },
+    {
+      "interest": "Deep Learning",
+      "count": 1,
+      "centrality": 6.904116153717041,
+      "normalized_count": 0.058823529411764705,
+      "raw_importance": 4.5189404712003824,
+      "normalized_importance": 0.9370842950587277
+    },
+    {
+      "interest": "Neural Networks & Applications",
+      "count": 1,
+      "centrality": 5.976278305053711,
+      "normalized_count": 0.058823529411764705,
+      "raw_importance": 3.9622376189512365,
+      "normalized_importance": 0.7004291803299788
+    },
+    {
+      "interest": "Big Data",
+      "count": 1,
+      "centrality": 5.824728012084961,
+      "normalized_count": 0.058823529411764705,
+      "raw_importance": 3.8713076339048498,
+      "normalized_importance": 0.6617747240855092
+    },
+    {
+      "interest": "Image Processing",
+      "count": 1,
+      "centrality": 5.804192543029785,
+      "normalized_count": 0.058823529411764705,
+      "raw_importance": 3.858986161736881,
+      "normalized_importance": 0.6565368500603322
+    },
+    {
+      "interest": "Data Intensive Computing",
+      "count": 1,
+      "centrality": 5.146029472351074,
+      "normalized_count": 0.058823529411764705,
+      "raw_importance": 3.464088462380802,
+      "normalized_importance": 0.48866531865059665
+    },
+    {
+      "interest": "Neural Architecture Search",
+      "count": 1,
+      "centrality": 5.102418422698975,
+      "normalized_count": 0.058823529411764705,
+      "raw_importance": 3.4379217849058263,
+      "normalized_importance": 0.477541829638654
+    },
+    {
+      "interest": "Large Language Model",
+      "count": 2,
+      "centrality": 4.34490966796875,
+      "normalized_count": 0.11764705882352941,
+      "raw_importance": 3.3598871679867015,
+      "normalized_importance": 0.44436921134650875
+    },
+    {
+      "interest": "Ai4Science",
+      "count": 1,
+      "centrality": 4.959993362426758,
+      "normalized_count": 0.058823529411764705,
+      "raw_importance": 3.352466605691349,
+      "normalized_importance": 0.44121472055440375
+    },
+    {
+      "interest": "Recommendation",
+      "count": 1,
+      "centrality": 4.554073333740234,
+      "normalized_count": 0.058823529411764705,
+      "raw_importance": 3.1089146361631506,
+      "normalized_importance": 0.337680457961272
+    },
+    {
+      "interest": "Medical Image",
+      "count": 1,
+      "centrality": 4.481988430023193,
+      "normalized_count": 0.058823529411764705,
+      "raw_importance": 3.0656638369840734,
+      "normalized_importance": 0.3192944863419748
+    },
+    {
+      "interest": "Computational Pathology",
+      "count": 1,
+      "centrality": 4.441511154174805,
+      "normalized_count": 0.058823529411764705,
+      "raw_importance": 3.0413773284238927,
+      "normalized_importance": 0.3089702596087192
+    },
+    {
+      "interest": "Multi-Modal Learning",
+      "count": 1,
+      "centrality": 4.166350841522217,
+      "normalized_count": 0.058823529411764705,
+      "raw_importance": 2.8762812838834875,
+      "normalized_importance": 0.23878771392187487
+    },
+    {
+      "interest": "Blockchain",
+      "count": 1,
+      "centrality": 4.090773105621338,
+      "normalized_count": 0.058823529411764705,
+      "raw_importance": 2.8309345469755285,
+      "normalized_importance": 0.21951075641721912
+    },
+    {
+      "interest": "Cloud Workflow",
+      "count": 1,
+      "centrality": 3.230151891708374,
+      "normalized_count": 0.058823529411764705,
+      "raw_importance": 2.3145617471021764,
+      "normalized_importance": 0.0
+    }
+  ],
+  "Tongji University": [
+    {
+      "interest": "Machine Learning",
+      "count": 3,
+      "centrality": 11.08892822265625,
+      "normalized_count": 0.09090909090909091,
+      "raw_importance": 7.707902483506636,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Artificial Intelligence",
+      "count": 1,
+      "centrality": 11.123237609863281,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 7.0254581942702785,
+      "normalized_importance": 0.8686345665194566
+    },
+    {
+      "interest": "Computer Vision",
+      "count": 2,
+      "centrality": 10.142006874084473,
+      "normalized_count": 0.06060606060606061,
+      "raw_importance": 6.788234904318145,
+      "normalized_importance": 0.8229708532937025
+    },
+    {
+      "interest": "Image Processing",
+      "count": 1,
+      "centrality": 10.626591682434082,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 6.727470256343032,
+      "normalized_importance": 0.8112741119663256
+    },
+    {
+      "interest": "Neural Networks",
+      "count": 1,
+      "centrality": 10.506711959838867,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 6.655542708888198,
+      "normalized_importance": 0.7974285957833568
+    },
+    {
+      "interest": "Autonomous Driving",
+      "count": 2,
+      "centrality": 9.030281066894531,
+      "normalized_count": 0.06060606060606061,
+      "raw_importance": 6.121199324636748,
+      "normalized_importance": 0.6945714814272556
+    },
+    {
+      "interest": "Reinforcement Learning",
+      "count": 1,
+      "centrality": 9.441569328308105,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 6.016456939234878,
+      "normalized_importance": 0.674409353794098
+    },
+    {
+      "interest": "Granular Computing",
+      "count": 1,
+      "centrality": 8.3540678024292,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 5.363955832972671,
+      "normalized_importance": 0.548807759608903
+    },
+    {
+      "interest": "Speech & Language Processing",
+      "count": 1,
+      "centrality": 8.238080024719238,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 5.294363357081558,
+      "normalized_importance": 0.5354117272783371
+    },
+    {
+      "interest": "Multimedia Computing",
+      "count": 1,
+      "centrality": 8.095582962036133,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 5.208865024104263,
+      "normalized_importance": 0.5189539361434826
+    },
+    {
+      "interest": "Data Mining And Management",
+      "count": 1,
+      "centrality": 8.030895233154297,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 5.170052386775161,
+      "normalized_importance": 0.5114827930660516
+    },
+    {
+      "interest": "Bioinformatics",
+      "count": 1,
+      "centrality": 7.839678764343262,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 5.05532250548854,
+      "normalized_importance": 0.4893981469988201
+    },
+    {
+      "interest": "Complex Networks",
+      "count": 1,
+      "centrality": 7.638747215270996,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 4.934763766780044,
+      "normalized_importance": 0.466191489371088
+    },
+    {
+      "interest": "Natural Language Processing",
+      "count": 1,
+      "centrality": 7.487967491149902,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 4.844295836939956,
+      "normalized_importance": 0.4487770879218079
+    },
+    {
+      "interest": "Slam And Optimization",
+      "count": 1,
+      "centrality": 7.303910732269287,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 4.733861781611587,
+      "normalized_importance": 0.4275193562973572
+    },
+    {
+      "interest": "Body Imaging",
+      "count": 1,
+      "centrality": 7.053573131561279,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 4.583659030451919,
+      "normalized_importance": 0.3986064474676283
+    },
+    {
+      "interest": "Multi-Task Learning",
+      "count": 1,
+      "centrality": 6.9706711769104,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 4.533918239131118,
+      "normalized_importance": 0.38903171628944827
+    },
+    {
+      "interest": "Content-Based Analysis And Generation Of Images And Videos",
+      "count": 1,
+      "centrality": 6.725024700164795,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 4.386530257716323,
+      "normalized_importance": 0.360660629632628
+    },
+    {
+      "interest": "Scheduling",
+      "count": 1,
+      "centrality": 6.591338157653809,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 4.306318141474868,
+      "normalized_importance": 0.34522039577523683
+    },
+    {
+      "interest": "Path Planning",
+      "count": 1,
+      "centrality": 6.580752372741699,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 4.299966670527603,
+      "normalized_importance": 0.343997785010686
+    },
+    {
+      "interest": "Smart Cities",
+      "count": 1,
+      "centrality": 6.102325916290283,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 4.012910939707901,
+      "normalized_importance": 0.2887416987528609
+    },
+    {
+      "interest": "Rough Sets",
+      "count": 1,
+      "centrality": 5.956197738647461,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 3.9252339377547756,
+      "normalized_importance": 0.27186453009674266
+    },
+    {
+      "interest": "Imaging Diagnosis",
+      "count": 1,
+      "centrality": 5.860147476196289,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 3.867603875651504,
+      "normalized_importance": 0.26077117316034243
+    },
+    {
+      "interest": "Breast Imaging",
+      "count": 1,
+      "centrality": 5.849283218383789,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 3.8610852732802883,
+      "normalized_importance": 0.2595163908437664
+    },
+    {
+      "interest": "Sensor Fusion",
+      "count": 1,
+      "centrality": 5.357625961303711,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 3.5660909190322414,
+      "normalized_importance": 0.2027321788116451
+    },
+    {
+      "interest": "Aal",
+      "count": 1,
+      "centrality": 5.307006359100342,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 3.5357190146590725,
+      "normalized_importance": 0.1968858138459781
+    },
+    {
+      "interest": "Magnetic Resonance",
+      "count": 1,
+      "centrality": 5.137164115905762,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 3.4338136687423244,
+      "normalized_importance": 0.17726979514455715
+    },
+    {
+      "interest": "Mulitagent Systems",
+      "count": 1,
+      "centrality": 4.860365867614746,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 3.2677348628188625,
+      "normalized_importance": 0.14530086423522326
+    },
+    {
+      "interest": "Aerogel、Superblack Materials、超级黑材料、气凝胶、纳米",
+      "count": 1,
+      "centrality": 3.6023011207580566,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 2.512895919337417,
+      "normalized_importance": 0.0
+    }
+  ],
+  "Shandong University": [
+    {
+      "interest": "Machine Learning",
+      "count": 1,
+      "centrality": 8.764578819274902,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 5.617368267322409,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Computer Vision",
+      "count": 2,
+      "centrality": 7.9519877433776855,
+      "normalized_count": 0.06896551724137931,
+      "raw_importance": 5.488434406806682,
+      "normalized_importance": 0.9718039961856041
+    },
+    {
+      "interest": "Deep Learning",
+      "count": 2,
+      "centrality": 7.924073219299316,
+      "normalized_count": 0.06896551724137931,
+      "raw_importance": 5.471685501624798,
+      "normalized_importance": 0.968141248537264
+    },
+    {
+      "interest": "Image Processing",
+      "count": 1,
+      "centrality": 8.48297119140625,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 5.448403404498922,
+      "normalized_importance": 0.9630497846134932
+    },
+    {
+      "interest": "Distributed Computing",
+      "count": 2,
+      "centrality": 7.218689918518066,
+      "normalized_count": 0.06896551724137931,
+      "raw_importance": 5.048455330421184,
+      "normalized_importance": 0.8755868219972396
+    },
+    {
+      "interest": "Edge Computing",
+      "count": 1,
+      "centrality": 7.069358825683594,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 4.6002359850653285,
+      "normalized_importance": 0.7775676180364748
+    },
+    {
+      "interest": "Mobile Computing",
+      "count": 1,
+      "centrality": 6.885113716125488,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 4.489688919330465,
+      "normalized_importance": 0.7533925450598125
+    },
+    {
+      "interest": "Graph Algorithms",
+      "count": 1,
+      "centrality": 6.668128967285156,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 4.359498070026266,
+      "normalized_importance": 0.7249216556526585
+    },
+    {
+      "interest": "Trustworthy Ai",
+      "count": 1,
+      "centrality": 6.109542369842529,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 4.024346159244406,
+      "normalized_importance": 0.6516286935323254
+    },
+    {
+      "interest": "Cognitive Learning",
+      "count": 1,
+      "centrality": 6.104723930358887,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 4.02145509555422,
+      "normalized_importance": 0.6509964589702788
+    },
+    {
+      "interest": "Swarm Algorithms",
+      "count": 1,
+      "centrality": 5.986783027648926,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 3.9506905539282435,
+      "normalized_importance": 0.6355212589132182
+    },
+    {
+      "interest": "Natural Language Processing",
+      "count": 1,
+      "centrality": 5.967637538909912,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 3.939203308368551,
+      "normalized_importance": 0.6330091614834008
+    },
+    {
+      "interest": "Blockchain",
+      "count": 1,
+      "centrality": 5.869694232940674,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 3.88043742015444,
+      "normalized_importance": 0.6201578964889788
+    },
+    {
+      "interest": "Nature Language Processing",
+      "count": 1,
+      "centrality": 5.865851879119873,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 3.8781319124945277,
+      "normalized_importance": 0.6196537147130435
+    },
+    {
+      "interest": "Wireless Networking",
+      "count": 1,
+      "centrality": 5.861402988433838,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 3.8754625780829066,
+      "normalized_importance": 0.6190699691945978
+    },
+    {
+      "interest": "Recommender Systems",
+      "count": 1,
+      "centrality": 5.597419261932373,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 3.717072294498312,
+      "normalized_importance": 0.5844322640777967
+    },
+    {
+      "interest": "Medical Imaging",
+      "count": 1,
+      "centrality": 5.505805969238281,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 3.6621044142492885,
+      "normalized_importance": 0.5724115694753754
+    },
+    {
+      "interest": "Iot Security",
+      "count": 1,
+      "centrality": 5.458921909332275,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 3.6339738829382533,
+      "normalized_importance": 0.566259821866374
+    },
+    {
+      "interest": "Multi-Agent Systems",
+      "count": 1,
+      "centrality": 5.4369401931762695,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 3.620785043979513,
+      "normalized_importance": 0.5633756101309879
+    },
+    {
+      "interest": "Security & Privacy",
+      "count": 1,
+      "centrality": 5.401883125305176,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 3.599750803256857,
+      "normalized_importance": 0.5587757204722384
+    },
+    {
+      "interest": "Shape",
+      "count": 1,
+      "centrality": 5.318813323974609,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 3.549908922458517,
+      "normalized_importance": 0.5478760091358572
+    },
+    {
+      "interest": "Medical Imaging Analysis",
+      "count": 1,
+      "centrality": 4.90596342086792,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 3.3021989329107875,
+      "normalized_importance": 0.49370535309395686
+    },
+    {
+      "interest": "Seed Biology",
+      "count": 1,
+      "centrality": 4.434654712677002,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 3.0194135172613734,
+      "normalized_importance": 0.4318641996032188
+    },
+    {
+      "interest": "Bioinfomatics",
+      "count": 1,
+      "centrality": 3.9327569007873535,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 2.7182748778113,
+      "normalized_importance": 0.3660094567712485
+    },
+    {
+      "interest": "Plant Molecular Biology",
+      "count": 1,
+      "centrality": 3.8102550506591797,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 2.644773767734396,
+      "normalized_importance": 0.3499358080663922
+    },
+    {
+      "interest": "Abiotic Stress Tolerance",
+      "count": 1,
+      "centrality": 1.1432946920394897,
+      "normalized_count": 0.034482758620689655,
+      "raw_importance": 1.0445975525625821,
+      "normalized_importance": 0.0
+    }
+  ],
+  "Jilin University": [
+    {
+      "interest": "Machine Learning",
+      "count": 2,
+      "centrality": 10.210433006286621,
+      "normalized_count": 0.06060606060606061,
+      "raw_importance": 6.756563310912162,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Artificial Intelligence",
+      "count": 2,
+      "centrality": 9.086437225341797,
+      "normalized_count": 0.06060606060606061,
+      "raw_importance": 6.082165365508109,
+      "normalized_importance": 0.8688602903849989
+    },
+    {
+      "interest": "Data Mining",
+      "count": 2,
+      "centrality": 9.011322975158691,
+      "normalized_count": 0.06060606060606061,
+      "raw_importance": 6.037097101500541,
+      "normalized_importance": 0.8600965640197537
+    },
+    {
+      "interest": "Bayesian Networks",
+      "count": 1,
+      "centrality": 8.281606674194336,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 5.284115615035549,
+      "normalized_importance": 0.7136759318789939
+    },
+    {
+      "interest": "Evolutionary Computation",
+      "count": 2,
+      "centrality": 7.1076741218566895,
+      "normalized_count": 0.06060606060606061,
+      "raw_importance": 4.894907598784476,
+      "normalized_importance": 0.6379926849491471
+    },
+    {
+      "interest": "Probabilistic Graphical Models",
+      "count": 1,
+      "centrality": 7.422255992889404,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 4.768505396987453,
+      "normalized_importance": 0.6134132090605795
+    },
+    {
+      "interest": "Knowledge Graph",
+      "count": 2,
+      "centrality": 6.8965535163879395,
+      "normalized_count": 0.06060606060606061,
+      "raw_importance": 4.768235330870658,
+      "normalized_importance": 0.6133606934911376
+    },
+    {
+      "interest": "Feature Selection",
+      "count": 1,
+      "centrality": 7.3401103019714355,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 4.719218077804103,
+      "normalized_importance": 0.6038290684660618
+    },
+    {
+      "interest": "Multi-Label Learning",
+      "count": 1,
+      "centrality": 7.0444655418396,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 4.541830840255275,
+      "normalized_importance": 0.5693353233707631
+    },
+    {
+      "interest": "Partial Multi-Label Learning",
+      "count": 1,
+      "centrality": 6.665327548980713,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 4.314348282958522,
+      "normalized_importance": 0.5251003183419433
+    },
+    {
+      "interest": "Natural Language Processing",
+      "count": 1,
+      "centrality": 6.61692476272583,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 4.285306515838161,
+      "normalized_importance": 0.5194530162811565
+    },
+    {
+      "interest": "Complex Network Analysis",
+      "count": 1,
+      "centrality": 6.55794095993042,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 4.249916138793483,
+      "normalized_importance": 0.5125711985051196
+    },
+    {
+      "interest": "Ai Security",
+      "count": 1,
+      "centrality": 6.520141124725342,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 4.227236333037868,
+      "normalized_importance": 0.508161008407144
+    },
+    {
+      "interest": "Benchmarks",
+      "count": 1,
+      "centrality": 6.4070353507995605,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 4.159372868682399,
+      "normalized_importance": 0.49496465294714603
+    },
+    {
+      "interest": "Deep Reinforcement Learning",
+      "count": 1,
+      "centrality": 6.362614154815674,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 4.1327200557246355,
+      "normalized_importance": 0.48978189375352194
+    },
+    {
+      "interest": "Multi-View Learning",
+      "count": 1,
+      "centrality": 6.28156852722168,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 4.084092679168239,
+      "normalized_importance": 0.48032608196701876
+    },
+    {
+      "interest": "Urban Computing",
+      "count": 1,
+      "centrality": 6.225167274475098,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 4.0502520228877215,
+      "normalized_importance": 0.47374561435431084
+    },
+    {
+      "interest": "Data Ming",
+      "count": 1,
+      "centrality": 6.069622039794922,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 3.9569249774470476,
+      "normalized_importance": 0.45559775117987117
+    },
+    {
+      "interest": "Besiege And Conquer Algorithm",
+      "count": 2,
+      "centrality": 5.344876766204834,
+      "normalized_count": 0.06060606060606061,
+      "raw_importance": 3.8372291377096466,
+      "normalized_importance": 0.4323223575161465
+    },
+    {
+      "interest": "Network Security",
+      "count": 1,
+      "centrality": 5.387966632843018,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 3.547931733275905,
+      "normalized_importance": 0.3760671778134794
+    },
+    {
+      "interest": "Llms Evaluation",
+      "count": 1,
+      "centrality": 5.2558183670043945,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 3.4686427737727312,
+      "normalized_importance": 0.36064908350316527
+    },
+    {
+      "interest": "Fintech",
+      "count": 2,
+      "centrality": 4.678583145141602,
+      "normalized_count": 0.06060606060606061,
+      "raw_importance": 3.4374529173879913,
+      "normalized_importance": 0.3545840758365452
+    },
+    {
+      "interest": "Rna Structure Prediction",
+      "count": 1,
+      "centrality": 5.177299976348877,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 3.4215317393794207,
+      "normalized_importance": 0.3514881312610887
+    },
+    {
+      "interest": "Muti-Omics Data Integration",
+      "count": 1,
+      "centrality": 4.530491352081299,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 3.0334463740840105,
+      "normalized_importance": 0.2760231888520784
+    },
+    {
+      "interest": "Llms Sft",
+      "count": 1,
+      "centrality": 4.144495010375977,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 2.8018487121119646,
+      "normalized_importance": 0.2309879832357109
+    },
+    {
+      "interest": "Cross-Kingdom Regulation",
+      "count": 1,
+      "centrality": 2.164700508117676,
+      "normalized_count": 0.030303030303030304,
+      "raw_importance": 1.6139718915476944,
+      "normalized_importance": 0.0
+    }
+  ],
+  "Beijing Jiaotong University": [
+    {
+      "interest": "Deep Learning",
+      "count": 1,
+      "centrality": 5.094700336456299,
+      "normalized_count": 0.07692307692307693,
+      "raw_importance": 3.4568203926086425,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Pattern Recognition",
+      "count": 1,
+      "centrality": 5.080304145812988,
+      "normalized_count": 0.07692307692307693,
+      "raw_importance": 3.448182725906372,
+      "normalized_importance": 0.994704956118104
+    },
+    {
+      "interest": "Computer Vision",
+      "count": 1,
+      "centrality": 4.8751678466796875,
+      "normalized_count": 0.07692307692307693,
+      "raw_importance": 3.325100803375244,
+      "normalized_importance": 0.9192535404366975
+    },
+    {
+      "interest": "Data Mining",
+      "count": 1,
+      "centrality": 4.565932273864746,
+      "normalized_count": 0.07692307692307693,
+      "raw_importance": 3.1395594120025634,
+      "normalized_importance": 0.8055133553739712
+    },
+    {
+      "interest": "Multi-Label Learning",
+      "count": 1,
+      "centrality": 4.517055034637451,
+      "normalized_count": 0.07692307692307693,
+      "raw_importance": 3.110233211517334,
+      "normalized_importance": 0.787535870966318
+    },
+    {
+      "interest": "Partial-Label Learning",
+      "count": 1,
+      "centrality": 4.425835132598877,
+      "normalized_count": 0.07692307692307693,
+      "raw_importance": 3.055501127243042,
+      "normalized_importance": 0.7539841262684323
+    },
+    {
+      "interest": "Multi-View Learning",
+      "count": 1,
+      "centrality": 4.3989458084106445,
+      "normalized_count": 0.07692307692307693,
+      "raw_importance": 3.0393675804138183,
+      "normalized_importance": 0.7440939740576612
+    },
+    {
+      "interest": "Zero-Shot Learning",
+      "count": 1,
+      "centrality": 4.170318126678467,
+      "normalized_count": 0.07692307692307693,
+      "raw_importance": 2.9021910667419433,
+      "normalized_importance": 0.6600023224004881
+    },
+    {
+      "interest": "Parallel Computing",
+      "count": 1,
+      "centrality": 4.107675552368164,
+      "normalized_count": 0.07692307692307693,
+      "raw_importance": 2.8646053314208983,
+      "normalized_importance": 0.6369615956952136
+    },
+    {
+      "interest": "Fpga",
+      "count": 1,
+      "centrality": 3.4872829914093018,
+      "normalized_count": 0.07692307692307693,
+      "raw_importance": 2.492369794845581,
+      "normalized_importance": 0.4087745668938668
+    },
+    {
+      "interest": "Soc",
+      "count": 1,
+      "centrality": 2.8338778018951416,
+      "normalized_count": 0.07692307692307693,
+      "raw_importance": 2.1003268003463744,
+      "normalized_importance": 0.16844521279670438
+    },
+    {
+      "interest": "Opencl",
+      "count": 1,
+      "centrality": 2.8194591999053955,
+      "normalized_count": 0.07692307692307693,
+      "raw_importance": 2.091675543785095,
+      "normalized_importance": 0.16314183808863955
+    },
+    {
+      "interest": "Wireless Mobile Communication",
+      "count": 1,
+      "centrality": 2.375910758972168,
+      "normalized_count": 0.07692307692307693,
+      "raw_importance": 1.8255465269088744,
+      "normalized_importance": 0.0
+    }
+  ],
+  "Beijing Institute of Technology": [
+    {
+      "interest": "Artificial Intelligence",
+      "count": 1,
+      "centrality": 9.572616577148438,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 6.129284613473075,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Machine Learning",
+      "count": 1,
+      "centrality": 9.156167984008789,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 5.879415266854423,
+      "normalized_importance": 0.9409209129448096
+    },
+    {
+      "interest": "Cloud Computing",
+      "count": 1,
+      "centrality": 8.897239685058594,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 5.724058382851737,
+      "normalized_importance": 0.9041883445092516
+    },
+    {
+      "interest": "Service Computing",
+      "count": 1,
+      "centrality": 8.709724426269531,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 5.611549132210868,
+      "normalized_importance": 0.8775866668602095
+    },
+    {
+      "interest": "Computer Vision",
+      "count": 2,
+      "centrality": 8.065274238586426,
+      "normalized_count": 0.07142857142857142,
+      "raw_importance": 5.61059330531529,
+      "normalized_importance": 0.8773606712303424
+    },
+    {
+      "interest": "Intelligent Systems",
+      "count": 1,
+      "centrality": 8.559782981872559,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 5.521584265572685,
+      "normalized_importance": 0.8563153814466465
+    },
+    {
+      "interest": "Deep Learning",
+      "count": 1,
+      "centrality": 8.386614799499512,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 5.417683356148856,
+      "normalized_importance": 0.8317490592625487
+    },
+    {
+      "interest": "Network",
+      "count": 1,
+      "centrality": 8.12932300567627,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 5.263308279854911,
+      "normalized_importance": 0.7952486293581115
+    },
+    {
+      "interest": "Edge Computing",
+      "count": 1,
+      "centrality": 7.822646617889404,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 5.079302542550224,
+      "normalized_importance": 0.751742328485323
+    },
+    {
+      "interest": "Resource Management",
+      "count": 1,
+      "centrality": 7.541601657867432,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 4.910675280434745,
+      "normalized_importance": 0.7118721129778434
+    },
+    {
+      "interest": "Service Oriented Computing",
+      "count": 1,
+      "centrality": 7.386157512664795,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 4.817408793313163,
+      "normalized_importance": 0.6898201926980934
+    },
+    {
+      "interest": "Computer Graphics",
+      "count": 1,
+      "centrality": 7.354008674621582,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 4.79811977658953,
+      "normalized_importance": 0.6852594992251011
+    },
+    {
+      "interest": "Software Engineering",
+      "count": 1,
+      "centrality": 6.779620170593262,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 4.453486674172538,
+      "normalized_importance": 0.6037744778116181
+    },
+    {
+      "interest": "Task Scheduling",
+      "count": 1,
+      "centrality": 6.583569526672363,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 4.335856192452567,
+      "normalized_importance": 0.5759619367219566
+    },
+    {
+      "interest": "Security",
+      "count": 1,
+      "centrality": 6.552683353424072,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 4.317324393136161,
+      "normalized_importance": 0.5715802796683036
+    },
+    {
+      "interest": "Smart Sensing & Mobile Computing",
+      "count": 1,
+      "centrality": 6.27918004989624,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 4.153222554070609,
+      "normalized_importance": 0.5327800548017176
+    },
+    {
+      "interest": "Compute",
+      "count": 1,
+      "centrality": 6.160381317138672,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 4.0819432667323525,
+      "normalized_importance": 0.5159267861680275
+    },
+    {
+      "interest": "Knowledge Graph",
+      "count": 1,
+      "centrality": 5.548894882202148,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 3.715051405770438,
+      "normalized_importance": 0.4291789057779974
+    },
+    {
+      "interest": "Wireless Communication",
+      "count": 1,
+      "centrality": 5.490469455718994,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 3.679996006829398,
+      "normalized_importance": 0.4208904102349529
+    },
+    {
+      "interest": "Pmsm",
+      "count": 1,
+      "centrality": 5.325369358062744,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 3.580935948235648,
+      "normalized_importance": 0.3974686584092507
+    },
+    {
+      "interest": "Image-Based Fem",
+      "count": 1,
+      "centrality": 5.191615581512451,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 3.500683777672904,
+      "normalized_importance": 0.37849384202939135
+    },
+    {
+      "interest": "Large Language Model",
+      "count": 1,
+      "centrality": 5.116643905639648,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 3.455700867516654,
+      "normalized_importance": 0.3678580865792727
+    },
+    {
+      "interest": "Electric Vehicles",
+      "count": 1,
+      "centrality": 4.849900245666504,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 3.2956545284816197,
+      "normalized_importance": 0.33001674379485335
+    },
+    {
+      "interest": "6G",
+      "count": 1,
+      "centrality": 4.4322028160095215,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 3.04503607068743,
+      "normalized_importance": 0.2707605369570545
+    },
+    {
+      "interest": "Noma",
+      "count": 1,
+      "centrality": 4.336784839630127,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 2.9877853325435093,
+      "normalized_importance": 0.2572241773012994
+    },
+    {
+      "interest": "Woven Composites",
+      "count": 1,
+      "centrality": 3.223456382751465,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 2.3197882107325962,
+      "normalized_importance": 0.09928299465469746
+    },
+    {
+      "interest": "High-Temperature Mechanics",
+      "count": 1,
+      "centrality": 2.5236098766326904,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 1.8998802832194737,
+      "normalized_importance": 0.0
+    }
+  ],
+  "Nanjing University of Aeronautics and Astronautics": [
+    {
+      "interest": "Machine Learning",
+      "count": 1,
+      "centrality": 5.896517276763916,
+      "normalized_count": 0.05263157894736842,
+      "raw_importance": 3.937910461425781,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Vehicular Networks",
+      "count": 1,
+      "centrality": 5.807995796203613,
+      "normalized_count": 0.05263157894736842,
+      "raw_importance": 3.884797716140747,
+      "normalized_importance": 0.9744719544560718
+    },
+    {
+      "interest": "Data Mining",
+      "count": 1,
+      "centrality": 5.7412238121032715,
+      "normalized_count": 0.05263157894736842,
+      "raw_importance": 3.8447343349456786,
+      "normalized_importance": 0.9552159394581116
+    },
+    {
+      "interest": "Pattern Recognition",
+      "count": 1,
+      "centrality": 5.68997859954834,
+      "normalized_count": 0.05263157894736842,
+      "raw_importance": 3.813987398147583,
+      "normalized_importance": 0.9404377690075769
+    },
+    {
+      "interest": "System Software",
+      "count": 1,
+      "centrality": 5.683530330657959,
+      "normalized_count": 0.05263157894736842,
+      "raw_importance": 3.8101183414459228,
+      "normalized_importance": 0.9385781502821285
+    },
+    {
+      "interest": "Vehicular Network",
+      "count": 1,
+      "centrality": 5.434700965881348,
+      "normalized_count": 0.05263157894736842,
+      "raw_importance": 3.6608206272125243,
+      "normalized_importance": 0.8668198777977933
+    },
+    {
+      "interest": "Edge Computing",
+      "count": 1,
+      "centrality": 5.264017105102539,
+      "normalized_count": 0.05263157894736842,
+      "raw_importance": 3.558410310745239,
+      "normalized_importance": 0.8175975073683438
+    },
+    {
+      "interest": "Wireless Sensor Networks",
+      "count": 1,
+      "centrality": 5.067704677581787,
+      "normalized_count": 0.05263157894736842,
+      "raw_importance": 3.4406229496002196,
+      "normalized_importance": 0.760984332815372
+    },
+    {
+      "interest": "Database",
+      "count": 1,
+      "centrality": 5.0524492263793945,
+      "normalized_count": 0.05263157894736842,
+      "raw_importance": 3.4314695835113525,
+      "normalized_importance": 0.7565848700283733
+    },
+    {
+      "interest": "Uav Networks",
+      "count": 1,
+      "centrality": 4.924846172332764,
+      "normalized_count": 0.05263157894736842,
+      "raw_importance": 3.3549078941345214,
+      "normalized_importance": 0.7197863524062283
+    },
+    {
+      "interest": "Smartphone",
+      "count": 1,
+      "centrality": 4.9156646728515625,
+      "normalized_count": 0.05263157894736842,
+      "raw_importance": 3.3493989944458007,
+      "normalized_importance": 0.7171385615342657
+    },
+    {
+      "interest": "System Security",
+      "count": 1,
+      "centrality": 4.353255748748779,
+      "normalized_count": 0.05263157894736842,
+      "raw_importance": 3.0119534969329833,
+      "normalized_importance": 0.5549491664489395
+    },
+    {
+      "interest": "Rfid System",
+      "count": 1,
+      "centrality": 4.27108097076416,
+      "normalized_count": 0.05263157894736842,
+      "raw_importance": 2.9626487731933593,
+      "normalized_importance": 0.5312514037669083
+    },
+    {
+      "interest": "Skyline Computation",
+      "count": 1,
+      "centrality": 3.7844483852386475,
+      "normalized_count": 0.05263157894736842,
+      "raw_importance": 2.6706692218780517,
+      "normalized_importance": 0.39091470597672384
+    },
+    {
+      "interest": "Medical Image Analysis",
+      "count": 1,
+      "centrality": 3.6872620582580566,
+      "normalized_count": 0.05263157894736842,
+      "raw_importance": 2.6123572826385497,
+      "normalized_importance": 0.36288772614971376
+    },
+    {
+      "interest": "Regret Minimization Query",
+      "count": 1,
+      "centrality": 3.4225034713745117,
+      "normalized_count": 0.05263157894736842,
+      "raw_importance": 2.453502082824707,
+      "normalized_importance": 0.2865357553755678
+    },
+    {
+      "interest": "Video Summarization",
+      "count": 1,
+      "centrality": 3.4104535579681396,
+      "normalized_count": 0.05263157894736842,
+      "raw_importance": 2.446272277832031,
+      "normalized_importance": 0.2830608306633114
+    },
+    {
+      "interest": "Sdn In 5G",
+      "count": 1,
+      "centrality": 3.3286337852478027,
+      "normalized_count": 0.05263157894736842,
+      "raw_importance": 2.3971803426742553,
+      "normalized_importance": 0.259465342427451
+    },
+    {
+      "interest": "Submodularity",
+      "count": 1,
+      "centrality": 2.4289097785949707,
+      "normalized_count": 0.05263157894736842,
+      "raw_importance": 1.857345962524414,
+      "normalized_importance": 0.0
+    }
+  ],
+  "Tianjin University": [
+    {
+      "interest": "Machine Learning",
+      "count": 3,
+      "centrality": 7.552142143249512,
+      "normalized_count": 0.125,
+      "raw_importance": 5.381285285949707,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Data Mining",
+      "count": 3,
+      "centrality": 7.183633804321289,
+      "normalized_count": 0.125,
+      "raw_importance": 5.1601806640625,
+      "normalized_importance": 0.9277884296452585
+    },
+    {
+      "interest": "Artificial Intelligence",
+      "count": 3,
+      "centrality": 7.036069393157959,
+      "normalized_count": 0.125,
+      "raw_importance": 5.071642017364502,
+      "normalized_importance": 0.898872187820121
+    },
+    {
+      "interest": "Web Mining",
+      "count": 1,
+      "centrality": 6.297867774963379,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 4.062054189046224,
+      "normalized_importance": 0.569146278557642
+    },
+    {
+      "interest": "Image Processing",
+      "count": 1,
+      "centrality": 6.262607574462891,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 4.040898116429647,
+      "normalized_importance": 0.5622368199803296
+    },
+    {
+      "interest": "Graph Machine Learning",
+      "count": 2,
+      "centrality": 5.677793979644775,
+      "normalized_count": 0.08333333333333333,
+      "raw_importance": 3.973343197504679,
+      "normalized_importance": 0.5401737498413086
+    },
+    {
+      "interest": "Computer Vision",
+      "count": 1,
+      "centrality": 6.0636887550354,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 3.921546729405721,
+      "normalized_importance": 0.5232573042766243
+    },
+    {
+      "interest": "Network Mining",
+      "count": 1,
+      "centrality": 5.904051303863525,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 3.82576421101888,
+      "normalized_importance": 0.4919752532448098
+    },
+    {
+      "interest": "Natural Language Processing",
+      "count": 1,
+      "centrality": 5.67484188079834,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 3.6882386525472004,
+      "normalized_importance": 0.4470601517132872
+    },
+    {
+      "interest": "Multimedia",
+      "count": 1,
+      "centrality": 5.339517593383789,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 3.4870441277821858,
+      "normalized_importance": 0.3813511110968991
+    },
+    {
+      "interest": "Social Computing) 、Computer Cognition",
+      "count": 1,
+      "centrality": 5.299520492553711,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 3.463045867284139,
+      "normalized_importance": 0.3735134093720109
+    },
+    {
+      "interest": "Causal Inference",
+      "count": 1,
+      "centrality": 4.222143650054932,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 2.8166196664174397,
+      "normalized_importance": 0.16239411804011528
+    },
+    {
+      "interest": "Knowledge Engineering (Knowledge Graph) 、Service Computing (Cloud Services",
+      "count": 1,
+      "centrality": 4.086889743804932,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 2.735467227300008,
+      "normalized_importance": 0.13589017155193764
+    },
+    {
+      "interest": "Mobile Internet",
+      "count": 1,
+      "centrality": 4.0415496826171875,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 2.7082631905873615,
+      "normalized_importance": 0.12700548070178266
+    },
+    {
+      "interest": "Uncertainty",
+      "count": 1,
+      "centrality": 3.987130641937256,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 2.6756117661794026,
+      "normalized_importance": 0.11634170257406604
+    },
+    {
+      "interest": "Recommended System",
+      "count": 1,
+      "centrality": 3.7702791690826416,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 2.5455010255177815,
+      "normalized_importance": 0.07384824032528892
+    },
+    {
+      "interest": "Photocatalysis",
+      "count": 1,
+      "centrality": 3.3934192657470703,
+      "normalized_count": 0.041666666666666664,
+      "raw_importance": 2.3193850835164387,
+      "normalized_importance": 0.0
+    }
+  ],
+  "Nankai University": [
+    {
+      "interest": "Computer Vision",
+      "count": 4,
+      "centrality": 6.390810489654541,
+      "normalized_count": 0.14285714285714285,
+      "raw_importance": 5.034486484527588,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Machine Learning",
+      "count": 3,
+      "centrality": 6.621657848358154,
+      "normalized_count": 0.10714285714285714,
+      "raw_importance": 4.872994804382325,
+      "normalized_importance": 0.9530101765201687
+    },
+    {
+      "interest": "Deep Learning",
+      "count": 3,
+      "centrality": 5.868165016174316,
+      "normalized_count": 0.10714285714285714,
+      "raw_importance": 4.420899057388306,
+      "normalized_importance": 0.8214622272504462
+    },
+    {
+      "interest": "Reinforcement Learning",
+      "count": 1,
+      "centrality": 5.644961833953857,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 3.686977195739746,
+      "normalized_importance": 0.6079103049728793
+    },
+    {
+      "interest": "Computer Graphics",
+      "count": 1,
+      "centrality": 5.602663040161133,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 3.661598014831543,
+      "normalized_importance": 0.6005256320914873
+    },
+    {
+      "interest": "Generative Models",
+      "count": 1,
+      "centrality": 5.504955291748047,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 3.6029732704162596,
+      "normalized_importance": 0.5834673762782687
+    },
+    {
+      "interest": "Visual Attention",
+      "count": 1,
+      "centrality": 4.824312686920166,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 3.194587755203247,
+      "normalized_importance": 0.46463795265521984
+    },
+    {
+      "interest": "Saliency",
+      "count": 1,
+      "centrality": 4.758469104766846,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 3.155081558227539,
+      "normalized_importance": 0.45314269035701277
+    },
+    {
+      "interest": "Bioinformatics",
+      "count": 1,
+      "centrality": 4.562032222747803,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 3.0372193336486815,
+      "normalized_importance": 0.41884788877392837
+    },
+    {
+      "interest": "Spectral Graph Theory",
+      "count": 1,
+      "centrality": 4.447494029998779,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 2.9684966087341307,
+      "normalized_importance": 0.3988513867257549
+    },
+    {
+      "interest": "Structural Graph Theory",
+      "count": 1,
+      "centrality": 4.436327934265137,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 2.9617968082427977,
+      "normalized_importance": 0.39690192132818986
+    },
+    {
+      "interest": "Fiber Optics",
+      "count": 1,
+      "centrality": 4.085010528564453,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 2.7510064125061033,
+      "normalized_importance": 0.335567470674129
+    },
+    {
+      "interest": "Fault Diagnosis",
+      "count": 1,
+      "centrality": 4.0274505615234375,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 2.7164705276489256,
+      "normalized_importance": 0.3255184382304836
+    },
+    {
+      "interest": "Medical Robot",
+      "count": 1,
+      "centrality": 3.80873441696167,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 2.5852406501770018,
+      "normalized_importance": 0.2873340019044835
+    },
+    {
+      "interest": "Sapphire Fiber",
+      "count": 1,
+      "centrality": 3.7206478118896484,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 2.5323887348175047,
+      "normalized_importance": 0.27195548722756757
+    },
+    {
+      "interest": "Extremal Graph Theory",
+      "count": 1,
+      "centrality": 3.5816545486450195,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 2.4489927768707274,
+      "normalized_importance": 0.2476894610191243
+    },
+    {
+      "interest": "Complex System Modeling And Control",
+      "count": 1,
+      "centrality": 2.903132200241089,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 2.041879343986511,
+      "normalized_importance": 0.12923017983330937
+    },
+    {
+      "interest": "Micro/Nano Manipulation Robot",
+      "count": 1,
+      "centrality": 2.621368169784546,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 1.8728210210800171,
+      "normalized_importance": 0.08003866269740036
+    },
+    {
+      "interest": "Semiconductor Packaging",
+      "count": 1,
+      "centrality": 2.4605329036712646,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 1.7763197898864747,
+      "normalized_importance": 0.05195934730918935
+    },
+    {
+      "interest": "Anodized Aluminum Oxide",
+      "count": 1,
+      "centrality": 2.216566562652588,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 1.6299399614334107,
+      "normalized_importance": 0.009366674461707065
+    },
+    {
+      "interest": "Surface-Enhanced Raman Scattering",
+      "count": 1,
+      "centrality": 2.1629152297973633,
+      "normalized_count": 0.03571428571428571,
+      "raw_importance": 1.597749161720276,
+      "normalized_importance": 0.0
+    }
+  ],
+  "University of Electronic Science and Technology of China": [
+    {
+      "interest": "Computer Vision",
+      "count": 1,
+      "centrality": 3.935631036758423,
+      "normalized_count": 0.1,
+      "raw_importance": 2.7613786697387694,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "3D Vision",
+      "count": 1,
+      "centrality": 3.657320022583008,
+      "normalized_count": 0.1,
+      "raw_importance": 2.594392204284668,
+      "normalized_importance": 0.8657691006676166
+    },
+    {
+      "interest": "Deep-Learning",
+      "count": 1,
+      "centrality": 3.566709518432617,
+      "normalized_count": 0.1,
+      "raw_importance": 2.5400258541107177,
+      "normalized_importance": 0.8220670913016271
+    },
+    {
+      "interest": "Super-Resolution",
+      "count": 1,
+      "centrality": 3.5144219398498535,
+      "normalized_count": 0.1,
+      "raw_importance": 2.5086533069610595,
+      "normalized_importance": 0.7968484892622678
+    },
+    {
+      "interest": "Machine Learning",
+      "count": 1,
+      "centrality": 3.3076412677764893,
+      "normalized_count": 0.1,
+      "raw_importance": 2.3845848083496093,
+      "normalized_importance": 0.6971168966320193
+    },
+    {
+      "interest": "Antenna",
+      "count": 1,
+      "centrality": 2.5789694786071777,
+      "normalized_count": 0.1,
+      "raw_importance": 1.9473817586898805,
+      "normalized_importance": 0.34567429086696255
+    },
+    {
+      "interest": "Shared Aperture",
+      "count": 1,
+      "centrality": 2.5278451442718506,
+      "normalized_count": 0.1,
+      "raw_importance": 1.9167071819305421,
+      "normalized_importance": 0.3210167474316357
+    },
+    {
+      "interest": "Phased Array",
+      "count": 1,
+      "centrality": 2.328214168548584,
+      "normalized_count": 0.1,
+      "raw_importance": 1.7969285488128663,
+      "normalized_importance": 0.2247335330976664
+    },
+    {
+      "interest": "Face Restoration",
+      "count": 1,
+      "centrality": 2.081045150756836,
+      "normalized_count": 0.1,
+      "raw_importance": 1.6486271858215333,
+      "normalized_importance": 0.10552252235849682
+    },
+    {
+      "interest": "Packadge",
+      "count": 1,
+      "centrality": 1.862257719039917,
+      "normalized_count": 0.1,
+      "raw_importance": 1.5173546314239503,
+      "normalized_importance": 0.0
+    }
+  ],
+  "Beijing University of Aeronautics and Astronautics": [
+    {
+      "interest": "Machine Learning",
+      "count": 2,
+      "centrality": 7.157140254974365,
+      "normalized_count": 0.1111111111111111,
+      "raw_importance": 4.916506565941704,
+      "normalized_importance": 1.0
+    },
+    {
+      "interest": "Artificial Intelligence",
+      "count": 2,
+      "centrality": 7.064477920532227,
+      "normalized_count": 0.1111111111111111,
+      "raw_importance": 4.860909260643853,
+      "normalized_importance": 0.9768219625407137
+    },
+    {
+      "interest": "Computer Vision",
+      "count": 2,
+      "centrality": 6.699940204620361,
+      "normalized_count": 0.1111111111111111,
+      "raw_importance": 4.64218644036187,
+      "normalized_importance": 0.8856383036468641
+    },
+    {
+      "interest": "Pattern Recognition",
+      "count": 1,
+      "centrality": 7.074436187744141,
+      "normalized_count": 0.05555555555555555,
+      "raw_importance": 4.555772919125027,
+      "normalized_importance": 0.8496132513266795
+    },
+    {
+      "interest": "Data Mining",
+      "count": 2,
+      "centrality": 6.243353843688965,
+      "normalized_count": 0.1111111111111111,
+      "raw_importance": 4.368234671486748,
+      "normalized_importance": 0.7714301720295451
+    },
+    {
+      "interest": "Computer Vision And Pattern Recognition",
+      "count": 1,
+      "centrality": 6.498504638671875,
+      "normalized_count": 0.05555555555555555,
+      "raw_importance": 4.210214037365383,
+      "normalized_importance": 0.7055527314344757
+    },
+    {
+      "interest": "Computational Intelligence",
+      "count": 1,
+      "centrality": 6.4947829246521,
+      "normalized_count": 0.05555555555555555,
+      "raw_importance": 4.207981008953518,
+      "normalized_importance": 0.7046218011330775
+    },
+    {
+      "interest": "Image Processing",
+      "count": 1,
+      "centrality": 6.376546382904053,
+      "normalized_count": 0.05555555555555555,
+      "raw_importance": 4.13703908390469,
+      "normalized_importance": 0.675046723934522
+    },
+    {
+      "interest": "Evolutionary Computation",
+      "count": 1,
+      "centrality": 4.961610317230225,
+      "normalized_count": 0.05555555555555555,
+      "raw_importance": 3.288077492184109,
+      "normalized_importance": 0.32112195241946695
+    },
+    {
+      "interest": "Visual Analytics",
+      "count": 1,
+      "centrality": 4.930752754211426,
+      "normalized_count": 0.05555555555555555,
+      "raw_importance": 3.269562859005398,
+      "normalized_importance": 0.31340336140031394
+    },
+    {
+      "interest": "Biometrics",
+      "count": 1,
+      "centrality": 4.92749547958374,
+      "normalized_count": 0.05555555555555555,
+      "raw_importance": 3.2676085419125025,
+      "normalized_importance": 0.3125886234459511
+    },
+    {
+      "interest": "Graph Neural Networks",
+      "count": 1,
+      "centrality": 4.746775150299072,
+      "normalized_count": 0.05555555555555555,
+      "raw_importance": 3.15917624897427,
+      "normalized_importance": 0.26738413495402835
+    },
+    {
+      "interest": "Multiobjective Optimization",
+      "count": 1,
+      "centrality": 4.277936935424805,
+      "normalized_count": 0.05555555555555555,
+      "raw_importance": 2.8778733200497095,
+      "normalized_importance": 0.1501113680619908
+    },
+    {
+      "interest": "Multimodal Large Language Model",
+      "count": 1,
+      "centrality": 3.6778149604797363,
+      "normalized_count": 0.05555555555555555,
+      "raw_importance": 2.5178002304501,
+      "normalized_importance": 0.0
+    }
+  ]
+}
