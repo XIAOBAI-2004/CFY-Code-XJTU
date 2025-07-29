@@ -1,0 +1,14 @@
+..\..\output\nrf24l01.o: ..\..\Drivers\BSP\NRF24L01\nrf24l01.c
+..\..\output\nrf24l01.o: ..\..\Drivers\./BSP/SPI/spi.h
+..\..\output\nrf24l01.o: ..\..\Drivers\./SYSTEM/sys/sys.h
+..\..\output\nrf24l01.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+..\..\output\nrf24l01.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+..\..\output\nrf24l01.o: ..\..\Drivers\CMSIS\Include\core_cm4.h
+..\..\output\nrf24l01.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\nrf24l01.o: ..\..\Drivers\CMSIS\Include\cmsis_version.h
+..\..\output\nrf24l01.o: ..\..\Drivers\CMSIS\Include\cmsis_compiler.h
+..\..\output\nrf24l01.o: ..\..\Drivers\CMSIS\Include\cmsis_armcc.h
+..\..\output\nrf24l01.o: ..\..\Drivers\CMSIS\Include\mpu_armv7.h
+..\..\output\nrf24l01.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+..\..\output\nrf24l01.o: ..\..\Drivers\./BSP/NRF24L01/nrf24l01.h
+..\..\output\nrf24l01.o: ..\..\Drivers\./SYSTEM/delay/delay.h

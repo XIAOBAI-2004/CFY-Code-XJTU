@@ -1,0 +1,17 @@
+..\..\output\ov2640.o: ..\..\Drivers\BSP\OV2640\ov2640.c
+..\..\output\ov2640.o: ..\..\Drivers\./BSP/OV2640/sccb.h
+..\..\output\ov2640.o: ..\..\Drivers\./SYSTEM/sys/sys.h
+..\..\output\ov2640.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+..\..\output\ov2640.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+..\..\output\ov2640.o: ..\..\Drivers\CMSIS\Include\core_cm4.h
+..\..\output\ov2640.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\ov2640.o: ..\..\Drivers\CMSIS\Include\cmsis_version.h
+..\..\output\ov2640.o: ..\..\Drivers\CMSIS\Include\cmsis_compiler.h
+..\..\output\ov2640.o: ..\..\Drivers\CMSIS\Include\cmsis_armcc.h
+..\..\output\ov2640.o: ..\..\Drivers\CMSIS\Include\mpu_armv7.h
+..\..\output\ov2640.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+..\..\output\ov2640.o: ..\..\Drivers\./BSP/OV2640/ov2640.h
+..\..\output\ov2640.o: ..\..\Drivers\./BSP/OV2640/ov2640cfg.h
+..\..\output\ov2640.o: ..\..\Drivers\./SYSTEM/usart/usart.h
+..\..\output\ov2640.o: D:\ARM\ARMCC\Bin\..\include\stdio.h
+..\..\output\ov2640.o: ..\..\Drivers\./SYSTEM/delay/delay.h

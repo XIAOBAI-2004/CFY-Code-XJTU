@@ -1,0 +1,16 @@
+..\..\output\usmart_str.o: ..\..\Middlewares\USMART\usmart_str.c
+..\..\output\usmart_str.o: ..\..\Middlewares\./USMART/usmart.h
+..\..\output\usmart_str.o: ..\..\Middlewares\./USMART/usmart_port.h
+..\..\output\usmart_str.o: ..\..\Drivers\./SYSTEM/sys/sys.h
+..\..\output\usmart_str.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+..\..\output\usmart_str.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+..\..\output\usmart_str.o: ..\..\Drivers\CMSIS\Include\core_cm4.h
+..\..\output\usmart_str.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\usmart_str.o: ..\..\Drivers\CMSIS\Include\cmsis_version.h
+..\..\output\usmart_str.o: ..\..\Drivers\CMSIS\Include\cmsis_compiler.h
+..\..\output\usmart_str.o: ..\..\Drivers\CMSIS\Include\cmsis_armcc.h
+..\..\output\usmart_str.o: ..\..\Drivers\CMSIS\Include\mpu_armv7.h
+..\..\output\usmart_str.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+..\..\output\usmart_str.o: ..\..\Drivers\./SYSTEM/usart/usart.h
+..\..\output\usmart_str.o: D:\ARM\ARMCC\Bin\..\include\stdio.h
+..\..\output\usmart_str.o: ..\..\Middlewares\./USMART/usmart_str.h

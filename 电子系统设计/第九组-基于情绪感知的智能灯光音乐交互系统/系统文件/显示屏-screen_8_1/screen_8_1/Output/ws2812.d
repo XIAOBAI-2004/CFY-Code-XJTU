@@ -1,0 +1,13 @@
+..\..\output\ws2812.o: ws2812.c
+..\..\output\ws2812.o: ws2812.h
+..\..\output\ws2812.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+..\..\output\ws2812.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+..\..\output\ws2812.o: ..\..\Drivers\CMSIS\Include\core_cm4.h
+..\..\output\ws2812.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\ws2812.o: ..\..\Drivers\CMSIS\Include\cmsis_version.h
+..\..\output\ws2812.o: ..\..\Drivers\CMSIS\Include\cmsis_compiler.h
+..\..\output\ws2812.o: ..\..\Drivers\CMSIS\Include\cmsis_armcc.h
+..\..\output\ws2812.o: ..\..\Drivers\CMSIS\Include\mpu_armv7.h
+..\..\output\ws2812.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+..\..\output\ws2812.o: ..\..\Drivers\./SYSTEM/delay/delay.h
+..\..\output\ws2812.o: ..\..\Drivers\./SYSTEM/sys/sys.h

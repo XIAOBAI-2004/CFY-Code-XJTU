@@ -1,0 +1,10 @@
+..\..\output\os_tmr.o: ..\..\Middlewares\UCOSII\uC-OS2\Source\os_tmr.c
+..\..\output\os_tmr.o: ..\..\Middlewares\UCOSII\uC-OS2\Source\ucos_ii.h
+..\..\output\os_tmr.o: ..\..\Middlewares\UCOSII\uC-OS2\Cfg\Template\app_cfg.h
+..\..\output\os_tmr.o: D:\ARM\ARMCC\Bin\..\include\stdarg.h
+..\..\output\os_tmr.o: D:\ARM\ARMCC\Bin\..\include\stdio.h
+..\..\output\os_tmr.o: ..\..\Middlewares\LWIP\arch\cpu.h
+..\..\output\os_tmr.o: ..\..\Middlewares\UCOSII\uC-OS2\Cfg\Template\os_cfg.h
+..\..\output\os_tmr.o: ..\..\Middlewares\UCOSII\uC-OS2\Ports\ARM-Cortex-M\ARMv7-M\ARM\os_cpu.h
+..\..\output\os_tmr.o: ..\..\Middlewares\UCOSII\uC-CPU\Cfg\Template\cpu_cfg.h
+..\..\output\os_tmr.o: ..\..\Middlewares\UCOSII\uC-OS2\Source\os_trace.h

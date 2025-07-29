@@ -1,0 +1,17 @@
+..\..\output\flacdecoder.o: ..\..\Middlewares\AUDIOCODEC\flac\flacdec\flacdecoder.c
+..\..\output\flacdecoder.o: D:\ARM\ARMCC\Bin\..\include\inttypes.h
+..\..\output\flacdecoder.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\flacdecoder.o: D:\ARM\ARMCC\Bin\..\include\stdbool.h
+..\..\output\flacdecoder.o: ..\..\Middlewares\AUDIOCODEC\flac\flacdec\golomb.h
+..\..\output\flacdecoder.o: D:\ARM\ARMCC\Bin\..\include\limits.h
+..\..\output\flacdecoder.o: ..\..\Middlewares\AUDIOCODEC\flac\flacdec\bitstreamf.h
+..\..\output\flacdecoder.o: ..\..\Middlewares\AUDIOCODEC\flac\flacdec\flacdecoder.h
+..\..\output\flacdecoder.o: ..\..\Drivers\./SYSTEM/sys/sys.h
+..\..\output\flacdecoder.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+..\..\output\flacdecoder.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+..\..\output\flacdecoder.o: ..\..\Drivers\CMSIS\Include\core_cm4.h
+..\..\output\flacdecoder.o: ..\..\Drivers\CMSIS\Include\cmsis_version.h
+..\..\output\flacdecoder.o: ..\..\Drivers\CMSIS\Include\cmsis_compiler.h
+..\..\output\flacdecoder.o: ..\..\Drivers\CMSIS\Include\cmsis_armcc.h
+..\..\output\flacdecoder.o: ..\..\Drivers\CMSIS\Include\mpu_armv7.h
+..\..\output\flacdecoder.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h

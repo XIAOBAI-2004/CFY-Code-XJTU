@@ -1,0 +1,15 @@
+..\..\output\tpad.o: ..\..\Drivers\BSP\TPAD\tpad.c
+..\..\output\tpad.o: ..\..\Drivers\./BSP/TPAD/tpad.h
+..\..\output\tpad.o: ..\..\Drivers\./SYSTEM/sys/sys.h
+..\..\output\tpad.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+..\..\output\tpad.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+..\..\output\tpad.o: ..\..\Drivers\CMSIS\Include\core_cm4.h
+..\..\output\tpad.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\tpad.o: ..\..\Drivers\CMSIS\Include\cmsis_version.h
+..\..\output\tpad.o: ..\..\Drivers\CMSIS\Include\cmsis_compiler.h
+..\..\output\tpad.o: ..\..\Drivers\CMSIS\Include\cmsis_armcc.h
+..\..\output\tpad.o: ..\..\Drivers\CMSIS\Include\mpu_armv7.h
+..\..\output\tpad.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+..\..\output\tpad.o: ..\..\Drivers\./SYSTEM/delay/delay.h
+..\..\output\tpad.o: ..\..\Drivers\./SYSTEM/usart/usart.h
+..\..\output\tpad.o: D:\ARM\ARMCC\Bin\..\include\stdio.h

@@ -1,0 +1,13 @@
+..\..\output\dma.o: ..\..\Drivers\BSP\DMA\dma.c
+..\..\output\dma.o: ..\..\Drivers\./BSP/DMA/dma.h
+..\..\output\dma.o: ..\..\Drivers\./SYSTEM/sys/sys.h
+..\..\output\dma.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+..\..\output\dma.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+..\..\output\dma.o: ..\..\Drivers\CMSIS\Include\core_cm4.h
+..\..\output\dma.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\dma.o: ..\..\Drivers\CMSIS\Include\cmsis_version.h
+..\..\output\dma.o: ..\..\Drivers\CMSIS\Include\cmsis_compiler.h
+..\..\output\dma.o: ..\..\Drivers\CMSIS\Include\cmsis_armcc.h
+..\..\output\dma.o: ..\..\Drivers\CMSIS\Include\mpu_armv7.h
+..\..\output\dma.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+..\..\output\dma.o: ..\..\Drivers\./SYSTEM/delay/delay.h

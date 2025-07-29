@@ -1,0 +1,14 @@
+..\..\output\sram.o: ..\..\Drivers\BSP\SRAM\sram.c
+..\..\output\sram.o: ..\..\Drivers\./BSP/SRAM/sram.h
+..\..\output\sram.o: ..\..\Drivers\./SYSTEM/sys/sys.h
+..\..\output\sram.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+..\..\output\sram.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+..\..\output\sram.o: ..\..\Drivers\CMSIS\Include\core_cm4.h
+..\..\output\sram.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\sram.o: ..\..\Drivers\CMSIS\Include\cmsis_version.h
+..\..\output\sram.o: ..\..\Drivers\CMSIS\Include\cmsis_compiler.h
+..\..\output\sram.o: ..\..\Drivers\CMSIS\Include\cmsis_armcc.h
+..\..\output\sram.o: ..\..\Drivers\CMSIS\Include\mpu_armv7.h
+..\..\output\sram.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+..\..\output\sram.o: ..\..\Drivers\./SYSTEM/usart/usart.h
+..\..\output\sram.o: D:\ARM\ARMCC\Bin\..\include\stdio.h

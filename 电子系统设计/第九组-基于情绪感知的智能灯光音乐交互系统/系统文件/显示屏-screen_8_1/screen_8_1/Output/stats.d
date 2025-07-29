@@ -1,0 +1,9 @@
+..\..\output\stats.o: ..\..\Middlewares\LWIP\lwip-1.4.1\src\core\stats.c
+..\..\output\stats.o: ..\..\Middlewares\LWIP\lwip-1.4.1\src\include\lwip/opt.h
+..\..\output\stats.o: ..\..\Middlewares\LWIP\lwip_app\lwip_comm\lwipopts.h
+..\..\output\stats.o: ..\..\Middlewares\LWIP\lwip-1.4.1\src\include\lwip/debug.h
+..\..\output\stats.o: ..\..\Middlewares\LWIP\lwip-1.4.1\src\include\lwip/arch.h
+..\..\output\stats.o: ..\..\Middlewares\LWIP\arch/cc.h
+..\..\output\stats.o: ..\..\Middlewares\LWIP\arch/cpu.h
+..\..\output\stats.o: D:\ARM\ARMCC\Bin\..\include\stdio.h
+..\..\output\stats.o: ..\..\Middlewares\LWIP\lwip-1.4.1\src\include\lwip/opt.h

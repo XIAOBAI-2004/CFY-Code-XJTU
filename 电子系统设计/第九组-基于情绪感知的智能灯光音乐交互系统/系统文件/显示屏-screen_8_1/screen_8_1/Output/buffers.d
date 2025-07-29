@@ -1,0 +1,16 @@
+..\..\output\buffers.o: ..\..\Middlewares\AUDIOCODEC\mp3\helix\buffers.c
+..\..\output\buffers.o: ..\..\Middlewares\AUDIOCODEC\mp3\helix\coder.h
+..\..\output\buffers.o: ..\..\Middlewares\AUDIOCODEC\mp3\helix\mp3common.h
+..\..\output\buffers.o: ..\..\Middlewares\AUDIOCODEC\mp3\helix\mp3dec.h
+..\..\output\buffers.o: ..\..\Middlewares\AUDIOCODEC\mp3\helix\statname.h
+..\..\output\buffers.o: ..\..\Middlewares\./MALLOC/malloc.h
+..\..\output\buffers.o: ..\..\Drivers\./SYSTEM/sys/sys.h
+..\..\output\buffers.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+..\..\output\buffers.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+..\..\output\buffers.o: ..\..\Drivers\CMSIS\Include\core_cm4.h
+..\..\output\buffers.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\buffers.o: ..\..\Drivers\CMSIS\Include\cmsis_version.h
+..\..\output\buffers.o: ..\..\Drivers\CMSIS\Include\cmsis_compiler.h
+..\..\output\buffers.o: ..\..\Drivers\CMSIS\Include\cmsis_armcc.h
+..\..\output\buffers.o: ..\..\Drivers\CMSIS\Include\mpu_armv7.h
+..\..\output\buffers.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h

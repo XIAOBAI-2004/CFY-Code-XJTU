@@ -1,0 +1,14 @@
+..\..\output\lsens.o: ..\..\Drivers\BSP\LSENS\lsens.c
+..\..\output\lsens.o: ..\..\Drivers\./BSP/LSENS/lsens.h
+..\..\output\lsens.o: ..\..\Drivers\./SYSTEM/sys/sys.h
+..\..\output\lsens.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+..\..\output\lsens.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+..\..\output\lsens.o: ..\..\Drivers\CMSIS\Include\core_cm4.h
+..\..\output\lsens.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\lsens.o: ..\..\Drivers\CMSIS\Include\cmsis_version.h
+..\..\output\lsens.o: ..\..\Drivers\CMSIS\Include\cmsis_compiler.h
+..\..\output\lsens.o: ..\..\Drivers\CMSIS\Include\cmsis_armcc.h
+..\..\output\lsens.o: ..\..\Drivers\CMSIS\Include\mpu_armv7.h
+..\..\output\lsens.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+..\..\output\lsens.o: ..\..\Drivers\./BSP/ADC/adc3.h
+..\..\output\lsens.o: ..\..\Drivers\./SYSTEM/delay/delay.h

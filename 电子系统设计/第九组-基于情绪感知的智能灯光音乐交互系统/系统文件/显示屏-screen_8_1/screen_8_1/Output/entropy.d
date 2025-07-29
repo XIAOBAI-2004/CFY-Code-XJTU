@@ -1,0 +1,9 @@
+..\..\output\entropy.o: ..\..\Middlewares\AUDIOCODEC\ape\apedec\entropy.c
+..\..\output\entropy.o: D:\ARM\ARMCC\Bin\..\include\inttypes.h
+..\..\output\entropy.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\entropy.o: D:\ARM\ARMCC\Bin\..\include\string.h
+..\..\output\entropy.o: ..\..\Middlewares\AUDIOCODEC\ape\apedec\parser.h
+..\..\output\entropy.o: ..\..\Middlewares\AUDIOCODEC\ape\apedec\demac_config.h
+..\..\output\entropy.o: ..\..\Middlewares\./FATFS/source/ff.h
+..\..\output\entropy.o: ..\..\Middlewares\./FATFS/source/ffconf.h
+..\..\output\entropy.o: ..\..\Middlewares\AUDIOCODEC\ape\apedec\entropy.h

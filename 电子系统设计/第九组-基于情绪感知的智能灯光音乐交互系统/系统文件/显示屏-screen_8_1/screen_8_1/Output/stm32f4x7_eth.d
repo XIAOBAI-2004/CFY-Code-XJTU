@@ -1,0 +1,13 @@
+..\..\output\stm32f4x7_eth.o: ..\..\Drivers\BSP\ETHERNET\stm32f4x7_eth.c
+..\..\output\stm32f4x7_eth.o: ..\..\Drivers\BSP\ETHERNET\stm32f4x7_eth.h
+..\..\output\stm32f4x7_eth.o: ..\..\Drivers\BSP\ETHERNET\stm32f4x7_eth_conf.h
+..\..\output\stm32f4x7_eth.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+..\..\output\stm32f4x7_eth.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+..\..\output\stm32f4x7_eth.o: ..\..\Drivers\CMSIS\Include\core_cm4.h
+..\..\output\stm32f4x7_eth.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\stm32f4x7_eth.o: ..\..\Drivers\CMSIS\Include\cmsis_version.h
+..\..\output\stm32f4x7_eth.o: ..\..\Drivers\CMSIS\Include\cmsis_compiler.h
+..\..\output\stm32f4x7_eth.o: ..\..\Drivers\CMSIS\Include\cmsis_armcc.h
+..\..\output\stm32f4x7_eth.o: ..\..\Drivers\CMSIS\Include\mpu_armv7.h
+..\..\output\stm32f4x7_eth.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+..\..\output\stm32f4x7_eth.o: D:\ARM\ARMCC\Bin\..\include\string.h

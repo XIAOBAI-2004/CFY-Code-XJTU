@@ -1,0 +1,16 @@
+..\..\output\effects.o: effects.c
+..\..\output\effects.o: effects.h
+..\..\output\effects.o: ws2812.h
+..\..\output\effects.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+..\..\output\effects.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+..\..\output\effects.o: ..\..\Drivers\CMSIS\Include\core_cm4.h
+..\..\output\effects.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\effects.o: ..\..\Drivers\CMSIS\Include\cmsis_version.h
+..\..\output\effects.o: ..\..\Drivers\CMSIS\Include\cmsis_compiler.h
+..\..\output\effects.o: ..\..\Drivers\CMSIS\Include\cmsis_armcc.h
+..\..\output\effects.o: ..\..\Drivers\CMSIS\Include\mpu_armv7.h
+..\..\output\effects.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+..\..\output\effects.o: ..\..\Drivers\./SYSTEM/delay/delay.h
+..\..\output\effects.o: ..\..\Drivers\./SYSTEM/sys/sys.h
+..\..\output\effects.o: D:\ARM\ARMCC\Bin\..\include\math.h
+..\..\output\effects.o: D:\ARM\ARMCC\Bin\..\include\stdlib.h

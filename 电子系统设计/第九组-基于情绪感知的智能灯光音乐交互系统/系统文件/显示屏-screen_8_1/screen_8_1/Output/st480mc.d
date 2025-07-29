@@ -1,0 +1,17 @@
+..\..\output\st480mc.o: ..\..\Drivers\BSP\ST480MC\st480mc.c
+..\..\output\st480mc.o: ..\..\Drivers\./BSP/IIC/myiic.h
+..\..\output\st480mc.o: ..\..\Drivers\./SYSTEM/sys/sys.h
+..\..\output\st480mc.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+..\..\output\st480mc.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+..\..\output\st480mc.o: ..\..\Drivers\CMSIS\Include\core_cm4.h
+..\..\output\st480mc.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\st480mc.o: ..\..\Drivers\CMSIS\Include\cmsis_version.h
+..\..\output\st480mc.o: ..\..\Drivers\CMSIS\Include\cmsis_compiler.h
+..\..\output\st480mc.o: ..\..\Drivers\CMSIS\Include\cmsis_armcc.h
+..\..\output\st480mc.o: ..\..\Drivers\CMSIS\Include\mpu_armv7.h
+..\..\output\st480mc.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+..\..\output\st480mc.o: ..\..\Drivers\./BSP/ST480MC/st480mc.h
+..\..\output\st480mc.o: ..\..\Drivers\./SYSTEM/delay/delay.h
+..\..\output\st480mc.o: ..\..\Drivers\./SYSTEM/usart/usart.h
+..\..\output\st480mc.o: D:\ARM\ARMCC\Bin\..\include\stdio.h
+..\..\output\st480mc.o: D:\ARM\ARMCC\Bin\..\include\math.h

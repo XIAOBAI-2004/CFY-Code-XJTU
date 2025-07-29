@@ -1,0 +1,10 @@
+..\..\output\predictor.o: ..\..\Middlewares\AUDIOCODEC\ape\apedec\predictor.c
+..\..\output\predictor.o: D:\ARM\ARMCC\Bin\..\include\inttypes.h
+..\..\output\predictor.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\predictor.o: D:\ARM\ARMCC\Bin\..\include\string.h
+..\..\output\predictor.o: ..\..\Middlewares\AUDIOCODEC\ape\apedec\parser.h
+..\..\output\predictor.o: ..\..\Middlewares\AUDIOCODEC\ape\apedec\demac_config.h
+..\..\output\predictor.o: ..\..\Middlewares\./FATFS/source/ff.h
+..\..\output\predictor.o: ..\..\Middlewares\./FATFS/source/ffconf.h
+..\..\output\predictor.o: ..\..\Middlewares\AUDIOCODEC\ape\apedec\predictor.h
+..\..\output\predictor.o: ..\..\Middlewares\AUDIOCODEC\ape\apedec\filter.h
